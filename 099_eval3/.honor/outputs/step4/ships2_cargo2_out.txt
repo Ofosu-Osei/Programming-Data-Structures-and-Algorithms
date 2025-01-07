@@ -1,0 +1,3364 @@
+Loading cargo30 onto The Secret Kraken from Luthadel to Mordor 100 capacity remains
+Loading cargo208 onto The Misty Turtle from Sarth to Midgar 800 capacity remains
+Loading cargo51 onto The Wet Snake from Luthadel to Midgar 20 capacity remains
+No ships can carry the cargo765 from Midgar to Mordor
+Loading cargo821 onto The Dawn Clipper from Elantris to Mordor 620 capacity remains
+No ships can carry the cargo1025 from Elantris to Mordor
+No ships can carry the cargo1204 from Midgar to Elantris
+Loading cargo1445 onto The Night Dragon from Sarth to Mordor 420 capacity remains
+Loading cargo1633 onto The Slippery Dreadnought from Elantris to Luthadel 220 capacity remains
+No ships can carry the cargo1868 from Luthadel to Midgar
+No ships can carry the cargo552 from Luthadel to Midgar
+No ships can carry the cargo1503 from Sarth to Luthadel
+No ships can carry the cargo78 from Mordor to Midgar
+Loading cargo743 onto The Royal Whale from Elantris to Midgar 540 capacity remains
+No ships can carry the cargo974 from Luthadel to Mordor
+No ships can carry the cargo1018 from Luthadel to Elantris
+Loading cargo1253 onto The Wooden Turtle from Elantris to Luthadel 840 capacity remains
+No ships can carry the cargo1368 from Elantris to Midgar
+Loading cargo1617 onto The Shining Snake from Midgar to Luthadel 40 capacity remains
+Loading cargo1785 onto The Sailing Dragon from Mordor to Midgar 140 capacity remains
+Loading cargo1820 onto The Dawn Leviathan from Luthadel to Mordor 540 capacity remains
+Loading cargo82 onto The Gleaming Narwhal from Midgar to Luthadel 850 capacity remains
+Loading cargo134 onto The Swift Turtle from Mordor to Elantris 250 capacity remains
+No ships can carry the cargo222 from Midgar to Luthadel
+No ships can carry the cargo240 from Luthadel to Midgar
+Loading cargo244 onto The Night Narwhal from Mordor to Elantris 850 capacity remains
+Loading cargo283 onto The Wet Whale from Midgar to Mordor 650 capacity remains
+Loading cargo568 onto The Gleaming Galleon from Mordor to Luthadel 250 capacity remains
+Loading cargo714 onto The Slippery Snake from Midgar to Mordor 150 capacity remains
+No ships can carry the cargo1034 from Midgar to Sarth
+Loading cargo1067 onto The Night Dragon from Sarth to Mordor 70 capacity remains
+No ships can carry the cargo1081 from Elantris to Midgar
+Loading cargo1091 onto The Dawn Leviathan from Luthadel to Mordor 190 capacity remains
+No ships can carry the cargo1127 from Elantris to Luthadel
+Loading cargo1802 onto The Wooden Narwhal from Luthadel to Mordor 650 capacity remains
+No ships can carry the cargo1945 from Mordor to Sarth
+Loading cargo52 onto The King's Dragon from Luthadel to Sarth 460 capacity remains
+No ships can carry the cargo53 from Luthadel to Mordor
+Loading cargo88 onto The Shining Phoenix from Luthadel to Midgar 660 capacity remains
+Loading cargo194 onto The King's Dolphin from Mordor to Midgar 760 capacity remains
+Loading cargo210 onto The Dawn Galleon from Mordor to Luthadel 60 capacity remains
+No ships can carry the cargo315 from Elantris to Sarth
+No ships can carry the cargo350 from Mordor to Luthadel
+No ships can carry the cargo380 from Luthadel to Elantris
+Loading cargo430 onto The King's Dragon from Luthadel to Sarth 120 capacity remains
+No ships can carry the cargo533 from Luthadel to Elantris
+Loading cargo739 onto The Dawn Clipper from Elantris to Mordor 280 capacity remains
+Loading cargo964 onto The King's Whale from Luthadel to Midgar 110 capacity remains
+Loading cargo1388 onto The Sailing Leviathan from Mordor to Luthadel 660 capacity remains
+Loading cargo1641 onto The Majestic Eagle from Mordor to Sarth 160 capacity remains
+No ships can carry the cargo1665 from Sarth to Mordor
+Loading cargo1724 onto The Wooden Dolphin from Midgar to Sarth 1060 capacity remains
+Loading cargo1768 onto The Secret Dolphin from Mordor to Luthadel 460 capacity remains
+Loading cargo1891 onto The Sailing Leviathan from Mordor to Luthadel 320 capacity remains
+No ships can carry the cargo1949 from Midgar to Mordor
+Loading cargo70 onto The Sailing Whale from Sarth to Elantris 670 capacity remains
+No ships can carry the cargo101 from Sarth to Elantris
+Loading cargo268 onto The Royal Leviathan from Mordor to Luthadel 1070 capacity remains
+No ships can carry the cargo408 from Elantris to Mordor
+Loading cargo670 onto The Royal Whale from Elantris to Midgar 210 capacity remains
+No ships can carry the cargo751 from Midgar to Sarth
+Loading cargo775 onto The King's Dolphin from Mordor to Midgar 430 capacity remains
+No ships can carry the cargo786 from Elantris to Mordor
+Loading cargo812 onto The Slippery Clipper from Sarth to Mordor 170 capacity remains
+Loading cargo961 onto The Queen's Narwhal from Sarth to Elantris 870 capacity remains
+Loading cargo988 onto The Wooden Turtle from Elantris to Luthadel 510 capacity remains
+Loading cargo1065 onto The Night Eel from Mordor to Luthadel 870 capacity remains
+No ships can carry the cargo1170 from Sarth to Midgar
+Loading cargo1350 onto The Sailing Kraken from Elantris to Luthadel 70 capacity remains
+No ships can carry the cargo1381 from Mordor to Luthadel
+Loading cargo1416 onto The Shining Phoenix from Luthadel to Midgar 330 capacity remains
+No ships can carry the cargo1521 from Luthadel to Midgar
+Loading cargo1927 onto The Sailing Dreadnought from Midgar to Luthadel 170 capacity remains
+Loading cargo28 onto The Swift Snake from Sarth to Luthadel 725 capacity remains
+Loading cargo524 onto The Swift Snake from Sarth to Luthadel 400 capacity remains
+Loading cargo170 onto The Misty Turtle from Sarth to Midgar 480 capacity remains
+Loading cargo173 onto The Gleaming Narwhal from Midgar to Luthadel 530 capacity remains
+No ships can carry the cargo262 from Mordor to Midgar
+No ships can carry the cargo405 from Midgar to Luthadel
+No ships can carry the cargo621 from Mordor to Midgar
+Loading cargo676 onto The Night Hawk from Mordor to Midgar 780 capacity remains
+Loading cargo727 onto The Wet Phoenix from Midgar to Luthadel 880 capacity remains
+No ships can carry the cargo800 from Luthadel to Mordor
+No ships can carry the cargo827 from Luthadel to Midgar
+No ships can carry the cargo877 from Luthadel to Sarth
+Loading cargo1014 onto The Wooden Narwhal from Luthadel to Mordor 330 capacity remains
+Loading cargo1178 onto The Night Eel from Mordor to Luthadel 550 capacity remains
+Loading cargo1183 onto The Dawn Narwhal from Luthadel to Midgar 380 capacity remains
+Loading cargo1223 onto The Night Eel from Mordor to Luthadel 230 capacity remains
+No ships can carry the cargo1257 from Sarth to Mordor
+Loading cargo1591 onto The Night Galleon from Mordor to Sarth 380 capacity remains
+No ships can carry the cargo1632 from Midgar to Luthadel
+Loading cargo1864 onto The Gleaming Narwhal from Midgar to Luthadel 210 capacity remains
+No ships can carry the cargo1890 from Elantris to Sarth
+No ships can carry the cargo1965 from Elantris to Luthadel
+Loading cargo887 onto The Sailing Clipper from Elantris to Mordor 1235 capacity remains
+No ships can carry the cargo1486 from Elantris to Sarth
+Loading cargo1618 onto The Majestic Leviathan from Midgar to Mordor 135 capacity remains
+Loading cargo144 onto The Wooden Narwhal from Luthadel to Mordor 20 capacity remains
+Loading cargo207 onto The Night Galleon from Mordor to Sarth 70 capacity remains
+No ships can carry the cargo241 from Luthadel to Midgar
+No ships can carry the cargo305 from Luthadel to Mordor
+Loading cargo377 onto The Night Hawk from Mordor to Midgar 470 capacity remains
+No ships can carry the cargo393 from Mordor to Sarth
+No ships can carry the cargo508 from Luthadel to Sarth
+No ships can carry the cargo512 from Luthadel to Midgar
+Loading cargo601 onto The Night Hawk from Mordor to Midgar 160 capacity remains
+Loading cargo729 onto The Sailing Eagle from Sarth to Midgar 90 capacity remains
+Loading cargo797 onto The Wet Whale from Midgar to Mordor 340 capacity remains
+No ships can carry the cargo928 from Luthadel to Sarth
+Loading cargo1037 onto The Slippery Hawk from Elantris to Mordor 890 capacity remains
+No ships can carry the cargo1142 from Elantris to Midgar
+No ships can carry the cargo1165 from Midgar to Sarth
+Loading cargo1203 onto The Wet Whale from Midgar to Mordor 30 capacity remains
+Loading cargo1227 onto The Majestic Whale from Sarth to Midgar 790 capacity remains
+No ships can carry the cargo1462 from Luthadel to Sarth
+Loading cargo1515 onto The Wooden Turtle from Elantris to Luthadel 200 capacity remains
+No ships can carry the cargo1518 from Mordor to Midgar
+No ships can carry the cargo1593 from Luthadel to Midgar
+Loading cargo1624 onto The Majestic Narwhal from Mordor to Midgar 140 capacity remains
+No ships can carry the cargo1628 from Midgar to Luthadel
+Loading cargo1661 onto The Majestic Dragon from Mordor to Midgar 290 capacity remains
+Loading cargo1692 onto The King's Dolphin from Mordor to Midgar 120 capacity remains
+Loading cargo1896 onto The Wooden Eel from Sarth to Luthadel 290 capacity remains
+No ships can carry the cargo1909 from Midgar to Luthadel
+Loading cargo1985 onto The Dawn Dreadnought from Elantris to Mordor 1240 capacity remains
+Loading cargo417 onto The Wet Narwhal from Elantris to Midgar 1645 capacity remains
+No ships can carry the cargo1157 from Luthadel to Elantris
+Loading cargo1465 onto The Royal Shark from Luthadel to Mordor 45 capacity remains
+No ships can carry the cargo16 from Luthadel to Mordor
+Loading cargo137 onto The Wooden Dolphin from Midgar to Sarth 760 capacity remains
+No ships can carry the cargo150 from Luthadel to Sarth
+Loading cargo265 onto The Night Dolphin from Elantris to Mordor 200 capacity remains
+Loading cargo274 onto The Gleaming Shark from Midgar to Luthadel 0 capacity remains
+No ships can carry the cargo319 from Luthadel to Midgar
+No ships can carry the cargo517 from Sarth to Mordor
+No ships can carry the cargo556 from Sarth to Mordor
+No ships can carry the cargo597 from Mordor to Midgar
+No ships can carry the cargo660 from Sarth to Mordor
+Loading cargo688 onto The Royal Clipper from Luthadel to Mordor 600 capacity remains
+No ships can carry the cargo719 from Sarth to Mordor
+No ships can carry the cargo755 from Mordor to Luthadel
+No ships can carry the cargo758 from Midgar to Luthadel
+No ships can carry the cargo780 from Mordor to Luthadel
+No ships can carry the cargo825 from Elantris to Mordor
+No ships can carry the cargo897 from Mordor to Luthadel
+No ships can carry the cargo1116 from Luthadel to Sarth
+Loading cargo1123 onto The Queen's Shark from Elantris to Sarth 1100 capacity remains
+No ships can carry the cargo1339 from Luthadel to Sarth
+Loading cargo1482 onto The Dawn Narwhal from Luthadel to Midgar 80 capacity remains
+Loading cargo1584 onto The Dawn Phoenix from Midgar to Mordor 0 capacity remains
+Loading cargo1951 onto The Wooden Galleon from Mordor to Midgar 200 capacity remains
+No ships can carry the cargo1972 from Mordor to Elantris
+Loading cargo279 onto The Swift Dolphin from Midgar to Luthadel 755 capacity remains
+No ships can carry the cargo611 from Sarth to Elantris
+Loading cargo649 onto The Dawn Dragon from Mordor to Luthadel 5 capacity remains
+Loading cargo1258 onto The Night Eagle from Midgar to Elantris 255 capacity remains
+Loading cargo1436 onto The Wooden Dolphin from Midgar to Sarth 465 capacity remains
+Loading cargo1914 onto The Swift Hawk from Mordor to Sarth 705 capacity remains
+Loading cargo90 onto The Wet Phoenix from Midgar to Luthadel 590 capacity remains
+No ships can carry the cargo122 from Midgar to Elantris
+Loading cargo171 onto The King's Boat from Midgar to Mordor 410 capacity remains
+No ships can carry the cargo196 from Midgar to Luthadel
+Loading cargo298 onto The Majestic Kraken from Mordor to Midgar 10 capacity remains
+Loading cargo309 onto The Royal Leviathan from Mordor to Luthadel 780 capacity remains
+Loading cargo337 onto The Royal Boat from Mordor to Sarth 1410 capacity remains
+No ships can carry the cargo339 from Mordor to Elantris
+Loading cargo372 onto The Majestic Whale from Sarth to Midgar 500 capacity remains
+Loading cargo505 onto The Swift Dolphin from Midgar to Luthadel 465 capacity remains
+No ships can carry the cargo637 from Luthadel to Mordor
+No ships can carry the cargo646 from Sarth to Mordor
+Loading cargo705 onto The King's Kraken from Midgar to Elantris 210 capacity remains
+No ships can carry the cargo746 from Midgar to Luthadel
+No ships can carry the cargo811 from Mordor to Sarth
+No ships can carry the cargo973 from Midgar to Mordor
+No ships can carry the cargo1198 from Luthadel to Elantris
+Loading cargo1209 onto The Night Narwhal from Mordor to Elantris 560 capacity remains
+No ships can carry the cargo1274 from Mordor to Midgar
+Loading cargo1365 onto The Wet Galleon from Luthadel to Midgar 410 capacity remains
+No ships can carry the cargo1371 from Luthadel to Elantris
+No ships can carry the cargo1407 from Midgar to Luthadel
+Loading cargo1418 onto The Secret Dolphin from Mordor to Luthadel 170 capacity remains
+Loading cargo1610 onto The Wet Dolphin from Sarth to Midgar 510 capacity remains
+No ships can carry the cargo1635 from Mordor to Sarth
+Loading cargo1726 onto The Royal Clipper from Luthadel to Mordor 310 capacity remains
+No ships can carry the cargo1737 from Mordor to Luthadel
+No ships can carry the cargo1744 from Mordor to Luthadel
+Loading cargo1821 onto The Majestic Hawk from Midgar to Mordor 110 capacity remains
+No ships can carry the cargo1880 from Luthadel to Elantris
+Loading cargo1989 onto The Royal Dolphin from Mordor to Midgar 10 capacity remains
+Loading cargo36 onto The Royal Boat from Mordor to Sarth 1125 capacity remains
+Loading cargo295 onto The Misty Clipper from Midgar to Mordor 515 capacity remains
+Loading cargo382 onto The Sailing Clipper from Elantris to Mordor 950 capacity remains
+Loading cargo689 onto The Swift Dolphin from Midgar to Luthadel 180 capacity remains
+Loading cargo979 onto The Gleaming Dreadnought from Luthadel to Elantris 365 capacity remains
+Loading cargo986 onto The Queen's Galleon from Luthadel to Sarth 615 capacity remains
+No ships can carry the cargo1306 from Mordor to Luthadel
+No ships can carry the cargo1308 from Mordor to Sarth
+Loading cargo1938 onto The Queen's Galleon from Luthadel to Sarth 330 capacity remains
+No ships can carry the cargo156 from Sarth to Mordor
+No ships can carry the cargo172 from Luthadel to Mordor
+Loading cargo220 onto The King's Hawk from Midgar to Elantris 320 capacity remains
+Loading cargo294 onto The Night Narwhal from Mordor to Elantris 280 capacity remains
+No ships can carry the cargo302 from Elantris to Luthadel
+Loading cargo335 onto The Sailing Hawk from Mordor to Elantris 920 capacity remains
+Loading cargo387 onto The King's Eagle from Midgar to Luthadel 320 capacity remains
+Loading cargo421 onto The Wooden Eagle from Mordor to Midgar 420 capacity remains
+Loading cargo438 onto The Dawn Eagle from Midgar to Sarth 20 capacity remains
+Loading cargo439 onto The King's Phoenix from Midgar to Mordor 220 capacity remains
+Loading cargo456 onto The Night Whale from Luthadel to Mordor 920 capacity remains
+No ships can carry the cargo539 from Sarth to Midgar
+No ships can carry the cargo543 from Mordor to Midgar
+Loading cargo561 onto The Night Whale from Luthadel to Mordor 640 capacity remains
+Loading cargo883 onto The Wooden Dreadnought from Midgar to Elantris 620 capacity remains
+Loading cargo952 onto The Royal Dreadnought from Mordor to Luthadel 920 capacity remains
+No ships can carry the cargo1027 from Midgar to Luthadel
+No ships can carry the cargo1064 from Midgar to Elantris
+No ships can carry the cargo1171 from Luthadel to Elantris
+No ships can carry the cargo1239 from Elantris to Luthadel
+Loading cargo1330 onto The Wet Shark from Mordor to Midgar 420 capacity remains
+Loading cargo1366 onto The Wet Shark from Mordor to Midgar 140 capacity remains
+Loading cargo1460 onto The Queen's Galleon from Luthadel to Sarth 50 capacity remains
+Loading cargo1463 onto The Royal Eagle from Midgar to Mordor 920 capacity remains
+Loading cargo1469 onto The Gleaming Boat from Elantris to Midgar 20 capacity remains
+No ships can carry the cargo1598 from Midgar to Luthadel
+Loading cargo1615 onto The Wet Galleon from Luthadel to Midgar 130 capacity remains
+Loading cargo1678 onto The Wooden Whale from Mordor to Sarth 1870 capacity remains
+No ships can carry the cargo1767 from Luthadel to Elantris
+No ships can carry the cargo1770 from Midgar to Elantris
+Loading cargo1824 onto The Swift Snake from Sarth to Luthadel 120 capacity remains
+Loading cargo1855 onto The Queen's Boat from Mordor to Midgar 920 capacity remains
+Loading cargo1893 onto The Swift Eagle from Luthadel to Sarth 2170 capacity remains
+No ships can carry the cargo18 from Sarth to Mordor
+Loading cargo59 onto The Night Kraken from Midgar to Sarth 2025 capacity remains
+Loading cargo381 onto The Misty Clipper from Midgar to Mordor 240 capacity remains
+Loading cargo573 onto The King's Boat from Midgar to Mordor 135 capacity remains
+Loading cargo835 onto The Slippery Narwhal from Sarth to Luthadel 125 capacity remains
+Loading cargo882 onto The Night Turtle from Elantris to Luthadel 225 capacity remains
+Loading cargo1001 onto The Shining Leviathan from Midgar to Elantris 1425 capacity remains
+Loading cargo1313 onto The Wooden Whale from Mordor to Sarth 1595 capacity remains
+No ships can carry the cargo1808 from Luthadel to Midgar
+Loading cargo1819 onto The Shining Leviathan from Midgar to Elantris 1150 capacity remains
+No ships can carry the cargo74 from Luthadel to Midgar
+No ships can carry the cargo109 from Sarth to Mordor
+No ships can carry the cargo110 from Midgar to Mordor
+Loading cargo159 onto The King's Eagle from Midgar to Luthadel 50 capacity remains
+Loading cargo203 onto The Swift Eagle from Luthadel to Sarth 1900 capacity remains
+Loading cargo218 onto The Wet Narwhal from Elantris to Midgar 1375 capacity remains
+Loading cargo237 onto The Royal Eagle from Midgar to Mordor 650 capacity remains
+No ships can carry the cargo270 from Mordor to Sarth
+No ships can carry the cargo590 from Mordor to Midgar
+Loading cargo803 onto The Wooden Dragon from Elantris to Mordor 530 capacity remains
+Loading cargo830 onto The Queen's Boat from Mordor to Midgar 650 capacity remains
+Loading cargo834 onto The Gleaming Dreadnought from Luthadel to Elantris 95 capacity remains
+Loading cargo913 onto The Queen's Snake from Midgar to Mordor 1680 capacity remains
+No ships can carry the cargo1030 from Mordor to Elantris
+Loading cargo1145 onto The Slippery Kraken from Mordor to Midgar 980 capacity remains
+No ships can carry the cargo1311 from Mordor to Midgar
+No ships can carry the cargo1349 from Sarth to Mordor
+Loading cargo1356 onto The Wooden Dragon from Elantris to Mordor 260 capacity remains
+No ships can carry the cargo1360 from Midgar to Luthadel
+Loading cargo1627 onto The Wooden Eagle from Mordor to Midgar 150 capacity remains
+Loading cargo1719 onto The Secret Clipper from Mordor to Midgar 230 capacity remains
+Loading cargo1763 onto The King's Galleon from Mordor to Sarth 830 capacity remains
+No ships can carry the cargo1829 from Midgar to Sarth
+Loading cargo1833 onto The Shining Whale from Elantris to Mordor 830 capacity remains
+Loading cargo1886 onto The Sailing Clipper from Elantris to Mordor 680 capacity remains
+Loading cargo1961 onto The Sailing Phoenix from Midgar to Luthadel 2080 capacity remains
+No ships can carry the cargo49 from Luthadel to Mordor
+No ships can carry the cargo406 from Luthadel to Mordor
+No ships can carry the cargo1179 from Sarth to Midgar
+Loading cargo1216 onto The Misty Snake from Luthadel to Mordor 485 capacity remains
+Loading cargo1343 onto The Wet Leviathan from Luthadel to Midgar 835 capacity remains
+Loading cargo1432 onto The Shining Hawk from Luthadel to Mordor 1485 capacity remains
+Loading cargo1449 onto The Sailing Clipper from Elantris to Mordor 415 capacity remains
+Loading cargo1655 onto The Queen's Snake from Midgar to Mordor 1415 capacity remains
+Loading cargo1679 onto The Queen's Snake from Midgar to Mordor 1150 capacity remains
+Loading cargo1862 onto The Wooden Whale from Mordor to Sarth 1330 capacity remains
+Loading cargo3 onto The Shining Phoenix from Luthadel to Midgar 70 capacity remains
+Loading cargo67 onto The Wet Leviathan from Luthadel to Midgar 575 capacity remains
+Loading cargo104 onto The Slippery Kraken from Mordor to Midgar 720 capacity remains
+Loading cargo120 onto The King's Dreadnought from Midgar to Elantris 940 capacity remains
+No ships can carry the cargo162 from Midgar to Luthadel
+No ships can carry the cargo163 from Luthadel to Mordor
+No ships can carry the cargo183 from Sarth to Mordor
+No ships can carry the cargo193 from Midgar to Luthadel
+No ships can carry the cargo197 from Luthadel to Sarth
+No ships can carry the cargo213 from Sarth to Mordor
+No ships can carry the cargo500 from Luthadel to Midgar
+Loading cargo544 onto The Queen's Boat from Mordor to Midgar 390 capacity remains
+Loading cargo565 onto The Royal Dreadnought from Mordor to Luthadel 660 capacity remains
+No ships can carry the cargo588 from Midgar to Luthadel
+No ships can carry the cargo910 from Elantris to Mordor
+No ships can carry the cargo914 from Mordor to Sarth
+No ships can carry the cargo1036 from Sarth to Luthadel
+Loading cargo1244 onto The Slippery Whale from Midgar to Mordor 440 capacity remains
+Loading cargo1370 onto The Gleaming Phoenix from Sarth to Luthadel 390 capacity remains
+No ships can carry the cargo1433 from Mordor to Midgar
+Loading cargo1448 onto The Royal Dreadnought from Mordor to Luthadel 400 capacity remains
+Loading cargo1451 onto The Secret Galleon from Luthadel to Elantris 1440 capacity remains
+No ships can carry the cargo1467 from Luthadel to Mordor
+No ships can carry the cargo1475 from Luthadel to Sarth
+Loading cargo1526 onto The Swift Dreadnought from Elantris to Sarth 140 capacity remains
+No ships can carry the cargo1545 from Midgar to Sarth
+No ships can carry the cargo1663 from Luthadel to Elantris
+No ships can carry the cargo1755 from Luthadel to Sarth
+Loading cargo1774 onto The Shining Shark from Sarth to Mordor 590 capacity remains
+No ships can carry the cargo1794 from Luthadel to Sarth
+No ships can carry the cargo1858 from Luthadel to Elantris
+Loading cargo1921 onto The Shining Dreadnought from Mordor to Luthadel 840 capacity remains
+Loading cargo1929 onto The Dawn Snake from Luthadel to Midgar 540 capacity remains
+Loading cargo64 onto The Night Kraken from Midgar to Sarth 1770 capacity remains
+Loading cargo154 onto The Secret Galleon from Luthadel to Elantris 1185 capacity remains
+Loading cargo473 onto The Sailing Phoenix from Midgar to Luthadel 1825 capacity remains
+Loading cargo496 onto The Shining Leviathan from Midgar to Elantris 895 capacity remains
+Loading cargo678 onto The Shining Shark from Sarth to Mordor 335 capacity remains
+No ships can carry the cargo798 from Sarth to Elantris
+Loading cargo949 onto The Misty Snake from Luthadel to Mordor 230 capacity remains
+Loading cargo1167 onto The Shining Leviathan from Midgar to Elantris 640 capacity remains
+Loading cargo1173 onto The Queen's Snake from Midgar to Mordor 895 capacity remains
+Loading cargo1588 onto The Shining Hawk from Luthadel to Mordor 1230 capacity remains
+Loading cargo1818 onto The Secret Snake from Midgar to Mordor 995 capacity remains
+Loading cargo1854 onto The Wet Leviathan from Luthadel to Midgar 320 capacity remains
+Loading cargo40 onto The Shining Narwhal from Sarth to Luthadel 1350 capacity remains
+Loading cargo115 onto The Sailing Phoenix from Midgar to Luthadel 1575 capacity remains
+Loading cargo118 onto The Shining Hawk from Luthadel to Mordor 980 capacity remains
+No ships can carry the cargo232 from Luthadel to Elantris
+Loading cargo242 onto The Slippery Kraken from Mordor to Midgar 470 capacity remains
+No ships can carry the cargo299 from Midgar to Elantris
+No ships can carry the cargo322 from Luthadel to Sarth
+Loading cargo362 onto The Shining Hawk from Luthadel to Mordor 730 capacity remains
+Loading cargo392 onto The Sailing Clipper from Elantris to Mordor 165 capacity remains
+No ships can carry the cargo636 from Mordor to Midgar
+Loading cargo656 onto The Misty Kraken from Luthadel to Mordor 750 capacity remains
+No ships can carry the cargo855 from Midgar to Mordor
+No ships can carry the cargo876 from Mordor to Sarth
+No ships can carry the cargo948 from Midgar to Mordor
+No ships can carry the cargo975 from Luthadel to Midgar
+Loading cargo1045 onto The Slippery Kraken from Mordor to Midgar 220 capacity remains
+Loading cargo1074 onto The Queen's Boat from Mordor to Midgar 140 capacity remains
+Loading cargo1086 onto The Royal Leviathan from Mordor to Luthadel 530 capacity remains
+Loading cargo1114 onto The Sailing Turtle from Elantris to Luthadel 50 capacity remains
+No ships can carry the cargo1126 from Midgar to Mordor
+Loading cargo1151 onto The Shining Hawk from Luthadel to Mordor 480 capacity remains
+Loading cargo1160 onto The Gleaming Turtle from Midgar to Mordor 550 capacity remains
+No ships can carry the cargo1266 from Mordor to Luthadel
+Loading cargo1285 onto The Sailing Whale from Sarth to Elantris 420 capacity remains
+No ships can carry the cargo1309 from Sarth to Midgar
+Loading cargo1376 onto The Secret Snake from Midgar to Mordor 745 capacity remains
+No ships can carry the cargo1415 from Mordor to Luthadel
+No ships can carry the cargo1429 from Mordor to Midgar
+Loading cargo1435 onto The King's Galleon from Mordor to Sarth 580 capacity remains
+Loading cargo1454 onto The Wet Narwhal from Elantris to Midgar 1125 capacity remains
+Loading cargo1497 onto The Misty Kraken from Luthadel to Mordor 500 capacity remains
+No ships can carry the cargo1559 from Mordor to Midgar
+No ships can carry the cargo1577 from Luthadel to Elantris
+Loading cargo1660 onto The Shining Leviathan from Midgar to Elantris 390 capacity remains
+No ships can carry the cargo1684 from Sarth to Mordor
+Loading cargo1815 onto The Gleaming Turtle from Midgar to Mordor 300 capacity remains
+No ships can carry the cargo1823 from Elantris to Mordor
+Loading cargo1859 onto The Gleaming Clipper from Elantris to Sarth 50 capacity remains
+No ships can carry the cargo1960 from Elantris to Luthadel
+Loading cargo157 onto The Secret Snake from Midgar to Mordor 500 capacity remains
+Loading cargo261 onto The Misty Kraken from Luthadel to Mordor 255 capacity remains
+Loading cargo912 onto The Sailing Phoenix from Midgar to Luthadel 1330 capacity remains
+Loading cargo1109 onto The Secret Snake from Midgar to Mordor 255 capacity remains
+No ships can carry the cargo1147 from Luthadel to Elantris
+Loading cargo1389 onto The Swift Galleon from Mordor to Midgar 5 capacity remains
+No ships can carry the cargo1659 from Midgar to Sarth
+Loading cargo1700 onto The Majestic Whale from Sarth to Midgar 255 capacity remains
+No ships can carry the cargo1752 from Luthadel to Mordor
+Loading cargo1769 onto The Wet Narwhal from Elantris to Midgar 880 capacity remains
+Loading cargo147 onto The Shining Kraken from Sarth to Luthadel 860 capacity remains
+Loading cargo161 onto The Gleaming Turtle from Midgar to Mordor 60 capacity remains
+No ships can carry the cargo168 from Elantris to Midgar
+Loading cargo230 onto The Wooden Snake from Mordor to Midgar 1810 capacity remains
+No ships can carry the cargo653 from Luthadel to Elantris
+Loading cargo662 onto The Dawn Dreadnought from Elantris to Mordor 1000 capacity remains
+Loading cargo681 onto The Majestic Whale from Sarth to Midgar 15 capacity remains
+Loading cargo684 onto The Swift Shark from Elantris to Luthadel 660 capacity remains
+Loading cargo717 onto The Shining Dreadnought from Mordor to Luthadel 600 capacity remains
+No ships can carry the cargo776 from Elantris to Luthadel
+No ships can carry the cargo788 from Mordor to Midgar
+No ships can carry the cargo805 from Sarth to Luthadel
+No ships can carry the cargo824 from Mordor to Midgar
+Loading cargo898 onto The Dawn Dreadnought from Elantris to Mordor 760 capacity remains
+Loading cargo907 onto The Royal Eagle from Midgar to Mordor 410 capacity remains
+No ships can carry the cargo1022 from Luthadel to Mordor
+No ships can carry the cargo1083 from Luthadel to Elantris
+No ships can carry the cargo1120 from Mordor to Luthadel
+No ships can carry the cargo1125 from Luthadel to Sarth
+Loading cargo1146 onto The Wet Phoenix from Midgar to Luthadel 350 capacity remains
+No ships can carry the cargo1262 from Luthadel to Mordor
+No ships can carry the cargo1267 from Mordor to Midgar
+No ships can carry the cargo1346 from Sarth to Elantris
+Loading cargo1382 onto The Slippery Whale from Midgar to Mordor 200 capacity remains
+Loading cargo1485 onto The King's Galleon from Mordor to Sarth 340 capacity remains
+Loading cargo1519 onto The Sailing Galleon from Mordor to Luthadel 610 capacity remains
+No ships can carry the cargo1592 from Mordor to Elantris
+No ships can carry the cargo1599 from Midgar to Mordor
+No ships can carry the cargo1636 from Mordor to Midgar
+No ships can carry the cargo1664 from Midgar to Luthadel
+No ships can carry the cargo1718 from Midgar to Sarth
+Loading cargo1781 onto The Wooden Snake from Mordor to Midgar 1570 capacity remains
+Loading cargo1792 onto The Sailing Galleon from Mordor to Luthadel 370 capacity remains
+No ships can carry the cargo1812 from Midgar to Sarth
+No ships can carry the cargo1872 from Sarth to Mordor
+No ships can carry the cargo1915 from Luthadel to Midgar
+Loading cargo1934 onto The Secret Snake from Midgar to Mordor 15 capacity remains
+Loading cargo17 onto The Misty Clipper from Midgar to Mordor 5 capacity remains
+Loading cargo79 onto The Majestic Shark from Mordor to Midgar 1465 capacity remains
+No ships can carry the cargo124 from Luthadel to Elantris
+Loading cargo142 onto The Secret Galleon from Luthadel to Elantris 950 capacity remains
+No ships can carry the cargo180 from Elantris to Luthadel
+No ships can carry the cargo498 from Midgar to Elantris
+No ships can carry the cargo572 from Sarth to Luthadel
+Loading cargo629 onto The Sailing Phoenix from Midgar to Luthadel 1095 capacity remains
+Loading cargo844 onto The Slippery Eel from Sarth to Midgar 1015 capacity remains
+Loading cargo990 onto The Misty Boat from Mordor to Elantris 15 capacity remains
+Loading cargo1322 onto The Wet Leviathan from Luthadel to Midgar 85 capacity remains
+No ships can carry the cargo1392 from Sarth to Midgar
+No ships can carry the cargo1600 from Elantris to Luthadel
+Loading cargo1674 onto The Night Phoenix from Luthadel to Midgar 1765 capacity remains
+No ships can carry the cargo1738 from Mordor to Sarth
+No ships can carry the cargo22 from Midgar to Sarth
+No ships can carry the cargo55 from Elantris to Mordor
+No ships can carry the cargo57 from Elantris to Midgar
+No ships can carry the cargo81 from Midgar to Luthadel
+Loading cargo99 onto The Slippery Eagle from Elantris to Luthadel 70 capacity remains
+No ships can carry the cargo125 from Sarth to Mordor
+No ships can carry the cargo177 from Sarth to Midgar
+Loading cargo191 onto The Dawn Snake from Luthadel to Midgar 310 capacity remains
+No ships can carry the cargo199 from Luthadel to Mordor
+Loading cargo202 onto The Gleaming Galleon from Mordor to Luthadel 20 capacity remains
+No ships can carry the cargo266 from Mordor to Luthadel
+No ships can carry the cargo396 from Midgar to Elantris
+No ships can carry the cargo415 from Luthadel to Elantris
+No ships can carry the cargo423 from Mordor to Elantris
+No ships can carry the cargo469 from Midgar to Luthadel
+Loading cargo497 onto The Shining Kraken from Sarth to Luthadel 630 capacity remains
+Loading cargo550 onto The King's Dreadnought from Midgar to Elantris 710 capacity remains
+No ships can carry the cargo551 from Elantris to Luthadel
+No ships can carry the cargo598 from Luthadel to Sarth
+No ships can carry the cargo624 from Midgar to Mordor
+No ships can carry the cargo695 from Luthadel to Sarth
+Loading cargo699 onto The Dawn Hawk from Mordor to Elantris 420 capacity remains
+No ships can carry the cargo826 from Elantris to Sarth
+Loading cargo880 onto The Queen's Snake from Midgar to Mordor 665 capacity remains
+No ships can carry the cargo1020 from Sarth to Midgar
+No ships can carry the cargo1042 from Elantris to Luthadel
+No ships can carry the cargo1050 from Midgar to Mordor
+No ships can carry the cargo1115 from Mordor to Elantris
+Loading cargo1134 onto The Secret Clipper from Mordor to Midgar 0 capacity remains
+No ships can carry the cargo1166 from Midgar to Luthadel
+No ships can carry the cargo1193 from Midgar to Sarth
+Loading cargo1218 onto The Shining Whale from Elantris to Mordor 600 capacity remains
+No ships can carry the cargo1246 from Elantris to Mordor
+No ships can carry the cargo1252 from Midgar to Luthadel
+Loading cargo1261 onto The Majestic Shark from Mordor to Midgar 1235 capacity remains
+Loading cargo1358 onto The Night Kraken from Midgar to Sarth 1540 capacity remains
+No ships can carry the cargo1361 from Sarth to Mordor
+No ships can carry the cargo1362 from Luthadel to Sarth
+No ships can carry the cargo1364 from Midgar to Elantris
+Loading cargo1568 onto The Dawn Snake from Luthadel to Midgar 80 capacity remains
+No ships can carry the cargo1578 from Luthadel to Mordor
+No ships can carry the cargo1611 from Sarth to Mordor
+Loading cargo1638 onto The Night Phoenix from Luthadel to Midgar 1535 capacity remains
+Loading cargo1662 onto The Dawn Hawk from Mordor to Elantris 190 capacity remains
+No ships can carry the cargo1800 from Mordor to Luthadel
+No ships can carry the cargo1898 from Elantris to Luthadel
+No ships can carry the cargo1902 from Mordor to Luthadel
+Loading cargo1970 onto The Night Whale from Luthadel to Mordor 410 capacity remains
+No ships can carry the cargo1973 from Midgar to Mordor
+No ships can carry the cargo1977 from Sarth to Luthadel
+No ships can carry the cargo1986 from Mordor to Luthadel
+No ships can carry the cargo33 from Luthadel to Mordor
+Loading cargo148 onto The Night Kraken from Midgar to Sarth 1315 capacity remains
+Loading cargo155 onto The Misty Kraken from Luthadel to Mordor 30 capacity remains
+Loading cargo195 onto The Sailing Phoenix from Midgar to Luthadel 870 capacity remains
+Loading cargo455 onto The Queen's Snake from Midgar to Mordor 440 capacity remains
+No ships can carry the cargo504 from Luthadel to Mordor
+No ships can carry the cargo559 from Luthadel to Mordor
+No ships can carry the cargo745 from Sarth to Mordor
+Loading cargo847 onto The Royal Leviathan from Mordor to Luthadel 305 capacity remains
+Loading cargo875 onto The Swift Shark from Elantris to Luthadel 435 capacity remains
+Loading cargo942 onto The Shining Clipper from Luthadel to Sarth 925 capacity remains
+Loading cargo991 onto The Queen's Snake from Midgar to Mordor 215 capacity remains
+Loading cargo1181 onto The Night Phoenix from Luthadel to Midgar 1310 capacity remains
+Loading cargo1212 onto The Sailing Phoenix from Midgar to Luthadel 645 capacity remains
+Loading cargo1270 onto The Night Phoenix from Luthadel to Midgar 1085 capacity remains
+Loading cargo1275 onto The Queen's Whale from Midgar to Mordor 625 capacity remains
+No ships can carry the cargo1284 from Midgar to Mordor
+Loading cargo1369 onto The Royal Leviathan from Mordor to Luthadel 80 capacity remains
+Loading cargo1552 onto The Shining Narwhal from Sarth to Luthadel 1125 capacity remains
+Loading cargo1743 onto The Majestic Shark from Mordor to Midgar 1010 capacity remains
+Loading cargo1875 onto The Sailing Phoenix from Midgar to Luthadel 420 capacity remains
+Loading cargo8 onto The Night Kraken from Midgar to Sarth 1095 capacity remains
+No ships can carry the cargo10 from Sarth to Mordor
+Loading cargo26 onto The Wooden Whale from Mordor to Sarth 1110 capacity remains
+Loading cargo35 onto The Shining Whale from Elantris to Mordor 380 capacity remains
+Loading cargo41 onto The Dawn Kraken from Mordor to Elantris 2280 capacity remains
+Loading cargo85 onto The King's Galleon from Mordor to Sarth 120 capacity remains
+Loading cargo86 onto The Wooden Whale from Mordor to Sarth 890 capacity remains
+No ships can carry the cargo252 from Mordor to Luthadel
+Loading cargo263 onto The Shining Hawk from Luthadel to Mordor 260 capacity remains
+No ships can carry the cargo271 from Midgar to Mordor
+No ships can carry the cargo300 from Luthadel to Midgar
+Loading cargo306 onto The Queen's Dolphin from Midgar to Luthadel 880 capacity remains
+Loading cargo329 onto The Night Whale from Luthadel to Mordor 190 capacity remains
+Loading cargo358 onto The Dawn Kraken from Mordor to Elantris 2060 capacity remains
+No ships can carry the cargo360 from Mordor to Midgar
+No ships can carry the cargo363 from Mordor to Midgar
+Loading cargo364 onto The Misty Turtle from Sarth to Midgar 260 capacity remains
+No ships can carry the cargo418 from Elantris to Mordor
+Loading cargo472 onto The Shining Boat from Mordor to Luthadel 230 capacity remains
+No ships can carry the cargo487 from Midgar to Sarth
+Loading cargo499 onto The Sailing Whale from Sarth to Elantris 200 capacity remains
+No ships can carry the cargo599 from Luthadel to Elantris
+Loading cargo631 onto The Sailing Hawk from Mordor to Elantris 700 capacity remains
+No ships can carry the cargo652 from Mordor to Sarth
+No ships can carry the cargo731 from Elantris to Sarth
+Loading cargo761 onto The Queen's Turtle from Midgar to Mordor 980 capacity remains
+Loading cargo764 onto The Shining Shark from Sarth to Mordor 115 capacity remains
+No ships can carry the cargo784 from Luthadel to Sarth
+No ships can carry the cargo799 from Sarth to Elantris
+Loading cargo804 onto The Shining Hawk from Luthadel to Mordor 40 capacity remains
+No ships can carry the cargo818 from Luthadel to Sarth
+No ships can carry the cargo908 from Midgar to Elantris
+No ships can carry the cargo966 from Mordor to Sarth
+No ships can carry the cargo1010 from Mordor to Luthadel
+Loading cargo1023 onto The Sailing Boat from Mordor to Luthadel 830 capacity remains
+Loading cargo1029 onto The Secret Galleon from Luthadel to Elantris 730 capacity remains
+No ships can carry the cargo1110 from Elantris to Sarth
+Loading cargo1117 onto The Queen's Shark from Elantris to Sarth 880 capacity remains
+No ships can carry the cargo1138 from Luthadel to Sarth
+No ships can carry the cargo1148 from Luthadel to Midgar
+Loading cargo1150 onto The Secret Galleon from Luthadel to Elantris 510 capacity remains
+No ships can carry the cargo1176 from Mordor to Luthadel
+No ships can carry the cargo1232 from Mordor to Luthadel
+No ships can carry the cargo1243 from Luthadel to Midgar
+No ships can carry the cargo1294 from Mordor to Sarth
+Loading cargo1315 onto The Shining Dreadnought from Mordor to Luthadel 380 capacity remains
+No ships can carry the cargo1332 from Midgar to Mordor
+Loading cargo1338 onto The Shining Kraken from Sarth to Luthadel 410 capacity remains
+Loading cargo1402 onto The King's Leviathan from Elantris to Midgar 80 capacity remains
+No ships can carry the cargo1494 from Mordor to Luthadel
+No ships can carry the cargo1601 from Midgar to Luthadel
+No ships can carry the cargo1623 from Elantris to Luthadel
+Loading cargo1640 onto The Queen's Turtle from Midgar to Mordor 760 capacity remains
+No ships can carry the cargo1695 from Elantris to Luthadel
+Loading cargo1711 onto The Sailing Shark from Mordor to Luthadel 2080 capacity remains
+Loading cargo1766 onto The Queen's Shark from Elantris to Sarth 660 capacity remains
+No ships can carry the cargo1817 from Midgar to Luthadel
+No ships can carry the cargo1836 from Midgar to Luthadel
+No ships can carry the cargo1870 from Mordor to Midgar
+Loading cargo1933 onto The Misty Snake from Luthadel to Mordor 10 capacity remains
+No ships can carry the cargo1955 from Luthadel to Elantris
+No ships can carry the cargo1980 from Luthadel to Midgar
+Loading cargo103 onto The Dawn Kraken from Mordor to Elantris 1845 capacity remains
+Loading cargo447 onto The Dawn Kraken from Mordor to Elantris 1630 capacity remains
+No ships can carry the cargo625 from Sarth to Elantris
+Loading cargo864 onto The Swift Eagle from Luthadel to Sarth 1685 capacity remains
+No ships can carry the cargo889 from Midgar to Sarth
+Loading cargo1195 onto The Wet Narwhal from Elantris to Midgar 665 capacity remains
+No ships can carry the cargo1196 from Elantris to Sarth
+Loading cargo1374 onto The Swift Eagle from Luthadel to Sarth 1470 capacity remains
+No ships can carry the cargo1387 from Luthadel to Midgar
+No ships can carry the cargo1530 from Sarth to Elantris
+Loading cargo1954 onto The Night Phoenix from Luthadel to Midgar 870 capacity remains
+Loading cargo1979 onto The Wooden Snake from Mordor to Midgar 1355 capacity remains
+Loading cargo60 onto The Slippery Dreadnought from Elantris to Luthadel 10 capacity remains
+No ships can carry the cargo87 from Sarth to Mordor
+No ships can carry the cargo132 from Luthadel to Mordor
+No ships can carry the cargo276 from Midgar to Luthadel
+Loading cargo361 onto The Wet Narwhal from Elantris to Midgar 455 capacity remains
+Loading cargo424 onto The Swift Turtle from Mordor to Elantris 40 capacity remains
+No ships can carry the cargo462 from Luthadel to Midgar
+No ships can carry the cargo463 from Mordor to Sarth
+No ships can carry the cargo482 from Mordor to Sarth
+No ships can carry the cargo560 from Sarth to Luthadel
+Loading cargo622 onto The Shining Kraken from Sarth to Luthadel 200 capacity remains
+Loading cargo686 onto The Wooden Snake from Mordor to Midgar 1145 capacity remains
+Loading cargo712 onto The Wooden Snake from Mordor to Midgar 935 capacity remains
+No ships can carry the cargo741 from Midgar to Luthadel
+No ships can carry the cargo793 from Luthadel to Mordor
+Loading cargo806 onto The Night Kraken from Midgar to Sarth 885 capacity remains
+No ships can carry the cargo840 from Luthadel to Midgar
+No ships can carry the cargo852 from Sarth to Mordor
+Loading cargo867 onto The Majestic Clipper from Sarth to Mordor 1090 capacity remains
+No ships can carry the cargo903 from Midgar to Mordor
+Loading cargo921 onto The Night Kraken from Midgar to Sarth 675 capacity remains
+No ships can carry the cargo958 from Mordor to Luthadel
+No ships can carry the cargo967 from Midgar to Luthadel
+Loading cargo976 onto The Shining Dreadnought from Mordor to Luthadel 170 capacity remains
+No ships can carry the cargo1024 from Elantris to Mordor
+No ships can carry the cargo1049 from Elantris to Sarth
+No ships can carry the cargo1124 from Midgar to Sarth
+No ships can carry the cargo1271 from Elantris to Sarth
+Loading cargo1390 onto The Shining Leviathan from Midgar to Elantris 180 capacity remains
+Loading cargo1399 onto The Sailing Boat from Mordor to Luthadel 620 capacity remains
+Loading cargo1443 onto The Sailing Phoenix from Midgar to Luthadel 210 capacity remains
+No ships can carry the cargo1453 from Luthadel to Mordor
+Loading cargo1472 onto The Wooden Hawk from Sarth to Luthadel 1790 capacity remains
+Loading cargo1513 onto The Dawn Kraken from Mordor to Elantris 1420 capacity remains
+No ships can carry the cargo1539 from Mordor to Elantris
+No ships can carry the cargo1579 from Luthadel to Elantris
+Loading cargo1612 onto The Sailing Boat from Mordor to Luthadel 410 capacity remains
+No ships can carry the cargo1691 from Midgar to Sarth
+No ships can carry the cargo1697 from Sarth to Mordor
+No ships can carry the cargo1762 from Mordor to Midgar
+Loading cargo1779 onto The Wooden Dragon from Elantris to Mordor 50 capacity remains
+No ships can carry the cargo1791 from Mordor to Luthadel
+Loading cargo1838 onto The Wooden Whale from Mordor to Sarth 680 capacity remains
+Loading cargo1877 onto The Sailing Hawk from Mordor to Elantris 490 capacity remains
+Loading cargo1895 onto The Wooden Hawk from Sarth to Luthadel 1580 capacity remains
+No ships can carry the cargo1937 from Mordor to Luthadel
+No ships can carry the cargo1944 from Luthadel to Elantris
+Loading cargo13 onto The Queen's Snake from Midgar to Mordor 10 capacity remains
+Loading cargo46 onto The Wooden Hawk from Sarth to Luthadel 1375 capacity remains
+Loading cargo187 onto The Wooden Hawk from Sarth to Luthadel 1170 capacity remains
+Loading cargo310 onto The Wooden Snake from Mordor to Midgar 730 capacity remains
+Loading cargo332 onto The Dawn Kraken from Mordor to Elantris 1215 capacity remains
+No ships can carry the cargo388 from Midgar to Mordor
+Loading cargo407 onto The Wooden Hawk from Sarth to Luthadel 965 capacity remains
+Loading cargo435 onto The Slippery Eel from Sarth to Midgar 810 capacity remains
+No ships can carry the cargo488 from Elantris to Midgar
+Loading cargo606 onto The Sailing Boat from Mordor to Luthadel 205 capacity remains
+No ships can carry the cargo1082 from Midgar to Mordor
+Loading cargo1245 onto The Queen's Whale from Midgar to Mordor 420 capacity remains
+Loading cargo1754 onto The Gleaming Snake from Luthadel to Mordor 595 capacity remains
+Loading cargo1784 onto The Night Phoenix from Luthadel to Midgar 665 capacity remains
+No ships can carry the cargo1958 from Mordor to Elantris
+No ships can carry the cargo37 from Mordor to Luthadel
+No ships can carry the cargo42 from Luthadel to Mordor
+No ships can carry the cargo47 from Midgar to Luthadel
+No ships can carry the cargo219 from Luthadel to Mordor
+No ships can carry the cargo342 from Elantris to Sarth
+No ships can carry the cargo375 from Mordor to Luthadel
+No ships can carry the cargo474 from Elantris to Mordor
+Loading cargo592 onto The Queen's Narwhal from Sarth to Elantris 670 capacity remains
+No ships can carry the cargo627 from Luthadel to Sarth
+Loading cargo639 onto The Wooden Whale from Mordor to Sarth 480 capacity remains
+No ships can carry the cargo682 from Luthadel to Sarth
+No ships can carry the cargo704 from Sarth to Midgar
+Loading cargo769 onto The Wooden Galleon from Mordor to Midgar 0 capacity remains
+Loading cargo790 onto The Wet Dolphin from Sarth to Midgar 310 capacity remains
+Loading cargo808 onto The Queen's Turtle from Midgar to Mordor 560 capacity remains
+Loading cargo858 onto The Swift Shark from Elantris to Luthadel 235 capacity remains
+No ships can carry the cargo865 from Elantris to Sarth
+No ships can carry the cargo919 from Luthadel to Sarth
+Loading cargo943 onto The Shining Dragon from Luthadel to Mordor 1650 capacity remains
+No ships can carry the cargo978 from Luthadel to Midgar
+Loading cargo1056 onto The Sailing Leviathan from Mordor to Luthadel 120 capacity remains
+Loading cargo1095 onto The Secret Galleon from Luthadel to Elantris 310 capacity remains
+Loading cargo1180 onto The Dawn Kraken from Mordor to Elantris 1015 capacity remains
+Loading cargo1207 onto The Wet Boat from Luthadel to Mordor 1000 capacity remains
+No ships can carry the cargo1220 from Mordor to Sarth
+No ships can carry the cargo1259 from Elantris to Luthadel
+No ships can carry the cargo1268 from Midgar to Elantris
+Loading cargo1372 onto The Night Eagle from Midgar to Elantris 55 capacity remains
+No ships can carry the cargo1496 from Mordor to Midgar
+Loading cargo1509 onto The Queen's Turtle from Midgar to Mordor 360 capacity remains
+Loading cargo1512 onto The Queen's Shark from Elantris to Sarth 460 capacity remains
+Loading cargo1557 onto The Shining Dragon from Luthadel to Mordor 1450 capacity remains
+Loading cargo1565 onto The Sailing Hawk from Mordor to Elantris 290 capacity remains
+No ships can carry the cargo1650 from Elantris to Midgar
+Loading cargo1671 onto The Night Phoenix from Luthadel to Midgar 465 capacity remains
+No ships can carry the cargo1717 from Luthadel to Sarth
+No ships can carry the cargo1720 from Luthadel to Mordor
+Loading cargo1753 onto The Night Phoenix from Luthadel to Midgar 265 capacity remains
+No ships can carry the cargo1757 from Sarth to Elantris
+No ships can carry the cargo1765 from Mordor to Midgar
+No ships can carry the cargo1771 from Luthadel to Midgar
+Loading cargo1801 onto The Night Phoenix from Luthadel to Midgar 65 capacity remains
+Loading cargo1825 onto The Wet Narwhal from Elantris to Midgar 255 capacity remains
+No ships can carry the cargo1828 from Midgar to Luthadel
+Loading cargo1866 onto The Shining Whale from Elantris to Mordor 180 capacity remains
+Loading cargo1906 onto The Wooden Eel from Sarth to Luthadel 90 capacity remains
+Loading cargo1952 onto The Wet Boat from Luthadel to Mordor 800 capacity remains
+Loading cargo1990 onto The Wet Narwhal from Elantris to Midgar 55 capacity remains
+Loading cargo7 onto The Sailing Boat from Mordor to Luthadel 10 capacity remains
+No ships can carry the cargo65 from Midgar to Mordor
+Loading cargo231 onto The Wooden Snake from Mordor to Midgar 535 capacity remains
+Loading cargo301 onto The Sailing Shark from Mordor to Luthadel 1885 capacity remains
+No ships can carry the cargo385 from Luthadel to Elantris
+Loading cargo562 onto The Majestic Shark from Mordor to Midgar 815 capacity remains
+Loading cargo822 onto The Slippery Boat from Midgar to Mordor 1205 capacity remains
+No ships can carry the cargo891 from Sarth to Midgar
+Loading cargo900 onto The Sailing Phoenix from Midgar to Luthadel 15 capacity remains
+No ships can carry the cargo1061 from Luthadel to Midgar
+Loading cargo1215 onto The Secret Phoenix from Elantris to Midgar 1405 capacity remains
+No ships can carry the cargo1222 from Luthadel to Midgar
+Loading cargo1276 onto The Majestic Shark from Mordor to Midgar 620 capacity remains
+No ships can carry the cargo1422 from Sarth to Elantris
+Loading cargo1447 onto The Wooden Hawk from Sarth to Luthadel 770 capacity remains
+Loading cargo1458 onto The Slippery Boat from Midgar to Mordor 1010 capacity remains
+Loading cargo1741 onto The Swift Eagle from Luthadel to Sarth 1275 capacity remains
+Loading cargo1786 onto The Swift Eagle from Luthadel to Sarth 1080 capacity remains
+Loading cargo1993 onto The Swift Shark from Elantris to Luthadel 40 capacity remains
+No ships can carry the cargo11 from Midgar to Mordor
+Loading cargo44 onto The King's Narwhal from Elantris to Luthadel 1360 capacity remains
+No ships can carry the cargo71 from Midgar to Mordor
+No ships can carry the cargo89 from Elantris to Midgar
+No ships can carry the cargo111 from Luthadel to Mordor
+No ships can carry the cargo112 from Midgar to Sarth
+Loading cargo135 onto The Wet Boat from Luthadel to Mordor 610 capacity remains
+No ships can carry the cargo198 from Midgar to Mordor
+Loading cargo281 onto The Majestic Shark from Mordor to Midgar 430 capacity remains
+Loading cargo288 onto The Wooden Hawk from Sarth to Luthadel 580 capacity remains
+No ships can carry the cargo348 from Midgar to Mordor
+No ships can carry the cargo349 from Mordor to Sarth
+No ships can carry the cargo397 from Mordor to Luthadel
+No ships can carry the cargo413 from Luthadel to Mordor
+No ships can carry the cargo445 from Elantris to Mordor
+No ships can carry the cargo446 from Midgar to Mordor
+Loading cargo528 onto The Queen's Turtle from Midgar to Mordor 170 capacity remains
+Loading cargo576 onto The Sailing Hawk from Mordor to Elantris 100 capacity remains
+No ships can carry the cargo607 from Mordor to Luthadel
+No ships can carry the cargo650 from Luthadel to Sarth
+No ships can carry the cargo659 from Sarth to Mordor
+Loading cargo720 onto The Dawn Kraken from Mordor to Elantris 825 capacity remains
+Loading cargo726 onto The Majestic Shark from Mordor to Midgar 240 capacity remains
+No ships can carry the cargo732 from Luthadel to Mordor
+No ships can carry the cargo744 from Luthadel to Sarth
+No ships can carry the cargo770 from Mordor to Luthadel
+No ships can carry the cargo955 from Mordor to Luthadel
+Loading cargo1076 onto The Sailing Shark from Mordor to Luthadel 1695 capacity remains
+No ships can carry the cargo1089 from Mordor to Luthadel
+No ships can carry the cargo1228 from Luthadel to Mordor
+No ships can carry the cargo1231 from Mordor to Sarth
+Loading cargo1242 onto The Slippery Boat from Midgar to Mordor 820 capacity remains
+Loading cargo1279 onto The King's Dreadnought from Midgar to Elantris 520 capacity remains
+No ships can carry the cargo1331 from Midgar to Mordor
+No ships can carry the cargo1444 from Mordor to Midgar
+Loading cargo1504 onto The Majestic Shark from Mordor to Midgar 50 capacity remains
+Loading cargo1773 onto The Dawn Dreadnought from Elantris to Mordor 570 capacity remains
+No ships can carry the cargo1910 from Mordor to Luthadel
+No ships can carry the cargo1942 from Elantris to Midgar
+Loading cargo9 onto The Swift Eagle from Luthadel to Sarth 895 capacity remains
+Loading cargo383 onto The Wooden Snake from Mordor to Midgar 350 capacity remains
+No ships can carry the cargo490 from Luthadel to Mordor
+No ships can carry the cargo525 from Midgar to Elantris
+No ships can carry the cargo536 from Luthadel to Mordor
+Loading cargo549 onto The Secret Boat from Midgar to Elantris 1865 capacity remains
+Loading cargo557 onto The Wooden Whale from Mordor to Sarth 295 capacity remains
+No ships can carry the cargo672 from Midgar to Mordor
+No ships can carry the cargo698 from Midgar to Elantris
+No ships can carry the cargo728 from Midgar to Mordor
+Loading cargo866 onto The Wooden Snake from Mordor to Midgar 165 capacity remains
+Loading cargo894 onto The Sailing Shark from Mordor to Luthadel 1510 capacity remains
+No ships can carry the cargo1011 from Luthadel to Mordor
+No ships can carry the cargo1292 from Mordor to Sarth
+Loading cargo1534 onto The Majestic Clipper from Sarth to Mordor 905 capacity remains
+Loading cargo1688 onto The Wet Dragon from Midgar to Luthadel 515 capacity remains
+Loading cargo1772 onto The Slippery Boat from Midgar to Mordor 635 capacity remains
+No ships can carry the cargo1873 from Mordor to Luthadel
+No ships can carry the cargo38 from Mordor to Midgar
+No ships can carry the cargo133 from Elantris to Mordor
+No ships can carry the cargo149 from Mordor to Luthadel
+No ships can carry the cargo229 from Sarth to Midgar
+No ships can carry the cargo245 from Sarth to Mordor
+Loading cargo248 onto The Secret Boat from Midgar to Elantris 1685 capacity remains
+Loading cargo394 onto The Swift Phoenix from Midgar to Luthadel 920 capacity remains
+Loading cargo492 onto The Wet Boat from Luthadel to Mordor 430 capacity remains
+No ships can carry the cargo516 from Midgar to Mordor
+No ships can carry the cargo518 from Luthadel to Midgar
+No ships can carry the cargo571 from Mordor to Midgar
+Loading cargo578 onto The Sailing Shark from Mordor to Luthadel 1330 capacity remains
+No ships can carry the cargo630 from Midgar to Mordor
+No ships can carry the cargo693 from Luthadel to Midgar
+Loading cargo845 onto The King's Eel from Luthadel to Midgar 1620 capacity remains
+No ships can carry the cargo862 from Luthadel to Elantris
+No ships can carry the cargo915 from Luthadel to Midgar
+Loading cargo916 onto The Night Kraken from Midgar to Sarth 495 capacity remains
+Loading cargo968 onto The King's Eel from Luthadel to Midgar 1440 capacity remains
+No ships can carry the cargo1012 from Midgar to Sarth
+No ships can carry the cargo1043 from Midgar to Luthadel
+No ships can carry the cargo1072 from Midgar to Elantris
+No ships can carry the cargo1073 from Midgar to Mordor
+No ships can carry the cargo1079 from Mordor to Luthadel
+No ships can carry the cargo1101 from Elantris to Midgar
+No ships can carry the cargo1163 from Luthadel to Elantris
+No ships can carry the cargo1200 from Mordor to Elantris
+No ships can carry the cargo1334 from Midgar to Mordor
+No ships can carry the cargo1340 from Sarth to Mordor
+Loading cargo1405 onto The Sailing Shark from Mordor to Luthadel 1150 capacity remains
+No ships can carry the cargo1442 from Mordor to Luthadel
+Loading cargo1452 onto The Wooden Whale from Mordor to Sarth 115 capacity remains
+Loading cargo1492 onto The Majestic Clipper from Sarth to Mordor 725 capacity remains
+No ships can carry the cargo1619 from Midgar to Luthadel
+Loading cargo1713 onto The King's Narwhal from Elantris to Luthadel 1180 capacity remains
+Loading cargo1723 onto The Wet Dragon from Midgar to Luthadel 335 capacity remains
+No ships can carry the cargo1725 from Luthadel to Mordor
+No ships can carry the cargo1749 from Midgar to Luthadel
+No ships can carry the cargo1756 from Luthadel to Elantris
+No ships can carry the cargo1797 from Luthadel to Elantris
+Loading cargo1847 onto The Dawn Hawk from Mordor to Elantris 10 capacity remains
+No ships can carry the cargo1878 from Mordor to Sarth
+Loading cargo1940 onto The Slippery Eel from Sarth to Midgar 630 capacity remains
+No ships can carry the cargo1978 from Mordor to Sarth
+No ships can carry the cargo1991 from Midgar to Mordor
+Loading cargo27 onto The Night Kraken from Midgar to Sarth 320 capacity remains
+Loading cargo175 onto The Royal Boat from Mordor to Sarth 950 capacity remains
+Loading cargo258 onto The Slippery Boat from Midgar to Mordor 460 capacity remains
+Loading cargo336 onto The Slippery Kraken from Mordor to Midgar 45 capacity remains
+No ships can carry the cargo420 from Elantris to Luthadel
+No ships can carry the cargo547 from Luthadel to Midgar
+Loading cargo558 onto The Majestic Dragon from Mordor to Midgar 115 capacity remains
+No ships can carry the cargo658 from Luthadel to Midgar
+Loading cargo969 onto The Secret Boat from Midgar to Elantris 1510 capacity remains
+Loading cargo1085 onto The Sailing Shark from Mordor to Luthadel 975 capacity remains
+Loading cargo1155 onto The Slippery Hawk from Elantris to Mordor 715 capacity remains
+Loading cargo1302 onto The Misty Leviathan from Midgar to Luthadel 2175 capacity remains
+Loading cargo1605 onto The Night Turtle from Elantris to Luthadel 50 capacity remains
+Loading cargo1731 onto The Misty Hawk from Mordor to Midgar 2125 capacity remains
+No ships can carry the cargo1987 from Mordor to Luthadel
+Loading cargo76 onto The Slippery Clipper from Sarth to Mordor 0 capacity remains
+Loading cargo123 onto The Slippery Hawk from Elantris to Mordor 545 capacity remains
+No ships can carry the cargo250 from Mordor to Midgar
+No ships can carry the cargo256 from Elantris to Luthadel
+No ships can carry the cargo278 from Mordor to Luthadel
+Loading cargo290 onto The Misty Hawk from Mordor to Midgar 1955 capacity remains
+No ships can carry the cargo323 from Sarth to Mordor
+No ships can carry the cargo398 from Luthadel to Midgar
+No ships can carry the cargo401 from Luthadel to Sarth
+Loading cargo426 onto The Slippery Hawk from Elantris to Mordor 375 capacity remains
+Loading cargo520 onto The Swift Phoenix from Midgar to Luthadel 750 capacity remains
+No ships can carry the cargo555 from Sarth to Luthadel
+No ships can carry the cargo579 from Midgar to Elantris
+No ships can carry the cargo612 from Elantris to Mordor
+Loading cargo638 onto The Misty Hawk from Mordor to Midgar 1785 capacity remains
+No ships can carry the cargo677 from Elantris to Midgar
+No ships can carry the cargo708 from Mordor to Luthadel
+No ships can carry the cargo884 from Sarth to Mordor
+No ships can carry the cargo982 from Mordor to Luthadel
+Loading cargo985 onto The Sailing Eel from Mordor to Elantris 130 capacity remains
+Loading cargo1015 onto The Slippery Eel from Sarth to Midgar 460 capacity remains
+Loading cargo1092 onto The Night Kraken from Midgar to Sarth 150 capacity remains
+Loading cargo1104 onto The Secret Whale from Sarth to Midgar 830 capacity remains
+Loading cargo1137 onto The King's Dreadnought from Midgar to Elantris 350 capacity remains
+No ships can carry the cargo1156 from Mordor to Sarth
+No ships can carry the cargo1256 from Midgar to Luthadel
+No ships can carry the cargo1277 from Luthadel to Mordor
+No ships can carry the cargo1304 from Midgar to Luthadel
+No ships can carry the cargo1336 from Luthadel to Sarth
+Loading cargo1341 onto The Secret Boat from Midgar to Elantris 1340 capacity remains
+No ships can carry the cargo1345 from Sarth to Mordor
+No ships can carry the cargo1500 from Luthadel to Elantris
+No ships can carry the cargo1501 from Mordor to Elantris
+No ships can carry the cargo1558 from Luthadel to Elantris
+No ships can carry the cargo1576 from Sarth to Mordor
+Loading cargo1585 onto The Queen's Narwhal from Sarth to Elantris 500 capacity remains
+No ships can carry the cargo1626 from Mordor to Elantris
+No ships can carry the cargo1675 from Mordor to Luthadel
+No ships can carry the cargo1683 from Mordor to Sarth
+Loading cargo1728 onto The King's Dreadnought from Midgar to Elantris 180 capacity remains
+No ships can carry the cargo1734 from Midgar to Elantris
+No ships can carry the cargo1742 from Midgar to Mordor
+No ships can carry the cargo1746 from Mordor to Luthadel
+Loading cargo1788 onto The Shining Galleon from Elantris to Midgar 130 capacity remains
+No ships can carry the cargo1851 from Luthadel to Midgar
+Loading cargo1887 onto The King's Eel from Luthadel to Midgar 1270 capacity remains
+No ships can carry the cargo1894 from Elantris to Luthadel
+Loading cargo1925 onto The Swift Eagle from Luthadel to Sarth 725 capacity remains
+No ships can carry the cargo1996 from Mordor to Midgar
+No ships can carry the cargo14 from Midgar to Mordor
+No ships can carry the cargo176 from Luthadel to Elantris
+Loading cargo189 onto The Dawn Kraken from Mordor to Elantris 660 capacity remains
+Loading cargo326 onto The Sailing Shark from Mordor to Luthadel 810 capacity remains
+No ships can carry the cargo331 from Luthadel to Mordor
+Loading cargo390 onto The Gleaming Snake from Luthadel to Mordor 430 capacity remains
+No ships can carry the cargo453 from Sarth to Elantris
+No ships can carry the cargo486 from Luthadel to Midgar
+No ships can carry the cargo570 from Mordor to Sarth
+Loading cargo841 onto The Gleaming Snake from Luthadel to Mordor 265 capacity remains
+No ships can carry the cargo850 from Luthadel to Elantris
+Loading cargo896 onto The Sailing Shark from Mordor to Luthadel 645 capacity remains
+Loading cargo963 onto The Dawn Kraken from Mordor to Elantris 495 capacity remains
+Loading cargo1128 onto The Swift Kraken from Mordor to Midgar 2435 capacity remains
+Loading cargo1250 onto The Secret Boat from Midgar to Elantris 1175 capacity remains
+Loading cargo1310 onto The Royal Boat from Mordor to Sarth 785 capacity remains
+No ships can carry the cargo1523 from Luthadel to Mordor
+No ships can carry the cargo1571 from Mordor to Sarth
+Loading cargo1685 onto The Slippery Phoenix from Midgar to Sarth 2335 capacity remains
+No ships can carry the cargo1852 from Luthadel to Elantris
+Loading cargo1918 onto The Wooden Hawk from Sarth to Luthadel 415 capacity remains
+Loading cargo1988 onto The Sailing Shark from Mordor to Luthadel 480 capacity remains
+No ships can carry the cargo15 from Sarth to Midgar
+No ships can carry the cargo48 from Elantris to Luthadel
+No ships can carry the cargo151 from Luthadel to Sarth
+No ships can carry the cargo201 from Luthadel to Mordor
+No ships can carry the cargo206 from Luthadel to Sarth
+No ships can carry the cargo255 from Mordor to Luthadel
+No ships can carry the cargo427 from Sarth to Midgar
+Loading cargo458 onto The Secret Phoenix from Elantris to Midgar 1245 capacity remains
+No ships can carry the cargo501 from Sarth to Luthadel
+Loading cargo506 onto The Slippery Phoenix from Midgar to Sarth 2175 capacity remains
+No ships can carry the cargo510 from Luthadel to Midgar
+No ships can carry the cargo529 from Mordor to Midgar
+No ships can carry the cargo537 from Luthadel to Sarth
+Loading cargo577 onto The Wooden Hawk from Sarth to Luthadel 255 capacity remains
+No ships can carry the cargo591 from Luthadel to Midgar
+Loading cargo713 onto The Sailing Clipper from Elantris to Mordor 5 capacity remains
+Loading cargo722 onto The Majestic Clipper from Sarth to Mordor 565 capacity remains
+Loading cargo734 onto The Secret Phoenix from Elantris to Midgar 1085 capacity remains
+No ships can carry the cargo757 from Midgar to Sarth
+Loading cargo936 onto The Wooden Snake from Mordor to Midgar 5 capacity remains
+Loading cargo977 onto The King's Kraken from Midgar to Elantris 50 capacity remains
+No ships can carry the cargo992 from Sarth to Midgar
+Loading cargo1039 onto The Gleaming Snake from Luthadel to Mordor 105 capacity remains
+No ships can carry the cargo1161 from Sarth to Elantris
+No ships can carry the cargo1175 from Mordor to Midgar
+No ships can carry the cargo1283 from Luthadel to Mordor
+No ships can carry the cargo1291 from Luthadel to Sarth
+No ships can carry the cargo1337 from Mordor to Luthadel
+Loading cargo1355 onto The Sailing Shark from Mordor to Luthadel 320 capacity remains
+No ships can carry the cargo1425 from Sarth to Luthadel
+Loading cargo1532 onto The Wet Boat from Luthadel to Mordor 270 capacity remains
+No ships can carry the cargo1546 from Luthadel to Mordor
+No ships can carry the cargo1548 from Sarth to Mordor
+No ships can carry the cargo1631 from Mordor to Sarth
+No ships can carry the cargo1637 from Midgar to Mordor
+Loading cargo1643 onto The Secret Boat from Midgar to Elantris 1015 capacity remains
+No ships can carry the cargo1656 from Mordor to Elantris
+No ships can carry the cargo1715 from Mordor to Luthadel
+No ships can carry the cargo1733 from Sarth to Luthadel
+No ships can carry the cargo1837 from Midgar to Luthadel
+No ships can carry the cargo1839 from Luthadel to Mordor
+Loading cargo1901 onto The Secret Phoenix from Elantris to Midgar 925 capacity remains
+No ships can carry the cargo12 from Mordor to Luthadel
+No ships can carry the cargo297 from Luthadel to Mordor
+Loading cargo605 onto The Sailing Shark from Mordor to Luthadel 165 capacity remains
+No ships can carry the cargo628 from Luthadel to Mordor
+No ships can carry the cargo665 from Mordor to Elantris
+No ships can carry the cargo706 from Sarth to Elantris
+Loading cargo785 onto The Slippery Phoenix from Midgar to Sarth 2020 capacity remains
+No ships can carry the cargo1000 from Mordor to Luthadel
+Loading cargo1046 onto The King's Eel from Luthadel to Midgar 1115 capacity remains
+Loading cargo1060 onto The Swift Eagle from Luthadel to Sarth 570 capacity remains
+Loading cargo1391 onto The Misty Leviathan from Midgar to Luthadel 2020 capacity remains
+No ships can carry the cargo1394 from Sarth to Midgar
+No ships can carry the cargo1998 from Mordor to Sarth
+No ships can carry the cargo75 from Mordor to Midgar
+Loading cargo141 onto The Slippery Phoenix from Midgar to Sarth 1870 capacity remains
+No ships can carry the cargo313 from Mordor to Luthadel
+No ships can carry the cargo352 from Mordor to Luthadel
+No ships can carry the cargo526 from Sarth to Mordor
+No ships can carry the cargo614 from Mordor to Midgar
+No ships can carry the cargo645 from Midgar to Sarth
+No ships can carry the cargo654 from Luthadel to Elantris
+Loading cargo668 onto The Wooden Hawk from Sarth to Luthadel 105 capacity remains
+No ships can carry the cargo748 from Mordor to Midgar
+No ships can carry the cargo815 from Luthadel to Mordor
+No ships can carry the cargo861 from Luthadel to Midgar
+No ships can carry the cargo885 from Luthadel to Midgar
+No ships can carry the cargo890 from Midgar to Luthadel
+Loading cargo1038 onto The Swift Kraken from Mordor to Midgar 2285 capacity remains
+Loading cargo1099 onto The Royal Whale from Elantris to Midgar 60 capacity remains
+No ships can carry the cargo1136 from Elantris to Luthadel
+Loading cargo1174 onto The Misty Hawk from Mordor to Midgar 1635 capacity remains
+No ships can carry the cargo1186 from Sarth to Elantris
+No ships can carry the cargo1210 from Midgar to Sarth
+Loading cargo1214 onto The Misty Hawk from Mordor to Midgar 1485 capacity remains
+Loading cargo1325 onto The Sailing Whale from Sarth to Elantris 50 capacity remains
+Loading cargo1478 onto The Dawn Kraken from Mordor to Elantris 345 capacity remains
+No ships can carry the cargo1488 from Mordor to Sarth
+No ships can carry the cargo1495 from Elantris to Midgar
+Loading cargo1524 onto The Misty Leviathan from Midgar to Luthadel 1870 capacity remains
+No ships can carry the cargo1550 from Midgar to Mordor
+Loading cargo1609 onto The Shining Dragon from Luthadel to Mordor 1300 capacity remains
+No ships can carry the cargo1642 from Midgar to Luthadel
+Loading cargo1751 onto The Wet Dolphin from Sarth to Midgar 160 capacity remains
+Loading cargo1822 onto The Shining Narwhal from Sarth to Luthadel 975 capacity remains
+Loading cargo1831 onto The Misty Dolphin from Midgar to Luthadel 1900 capacity remains
+No ships can carry the cargo1992 from Sarth to Luthadel
+Loading cargo1997 onto The Shining Dragon from Luthadel to Mordor 1150 capacity remains
+Loading cargo400 onto The Dawn Kraken from Mordor to Elantris 200 capacity remains
+Loading cargo452 onto The Shining Leviathan from Midgar to Elantris 35 capacity remains
+No ships can carry the cargo494 from Luthadel to Midgar
+Loading cargo593 onto The Shining Dragon from Luthadel to Mordor 1005 capacity remains
+Loading cargo754 onto The Sailing Shark from Mordor to Luthadel 20 capacity remains
+No ships can carry the cargo999 from Luthadel to Sarth
+No ships can carry the cargo1131 from Sarth to Midgar
+Loading cargo1234 onto The King's Eel from Luthadel to Midgar 970 capacity remains
+No ships can carry the cargo1280 from Luthadel to Midgar
+No ships can carry the cargo1450 from Midgar to Luthadel
+No ships can carry the cargo1468 from Midgar to Elantris
+Loading cargo1709 onto The Shining Dragon from Luthadel to Mordor 860 capacity remains
+No ships can carry the cargo1776 from Sarth to Luthadel
+Loading cargo1778 onto The Misty Hawk from Mordor to Midgar 1340 capacity remains
+No ships can carry the cargo1809 from Mordor to Sarth
+Loading cargo1840 onto The King's Narwhal from Elantris to Luthadel 1035 capacity remains
+Loading cargo1867 onto The Misty Hawk from Mordor to Midgar 1195 capacity remains
+No ships can carry the cargo1920 from Luthadel to Elantris
+Loading cargo1974 onto The Shining Dragon from Luthadel to Mordor 715 capacity remains
+No ships can carry the cargo126 from Midgar to Luthadel
+Loading cargo164 onto The Dawn Kraken from Mordor to Elantris 60 capacity remains
+Loading cargo227 onto The Majestic Clipper from Sarth to Mordor 425 capacity remains
+No ships can carry the cargo249 from Mordor to Luthadel
+No ships can carry the cargo307 from Midgar to Luthadel
+Loading cargo432 onto The Night Dolphin from Elantris to Mordor 60 capacity remains
+Loading cargo448 onto The Wet Boat from Luthadel to Mordor 130 capacity remains
+No ships can carry the cargo480 from Luthadel to Mordor
+No ships can carry the cargo514 from Midgar to Mordor
+No ships can carry the cargo527 from Luthadel to Mordor
+Loading cargo749 onto The Slippery Hawk from Elantris to Mordor 235 capacity remains
+No ships can carry the cargo760 from Sarth to Mordor
+Loading cargo789 onto The King's Narwhal from Elantris to Luthadel 895 capacity remains
+Loading cargo904 onto The Misty Hawk from Mordor to Midgar 1055 capacity remains
+No ships can carry the cargo918 from Luthadel to Elantris
+Loading cargo930 onto The Shining Boat from Mordor to Luthadel 90 capacity remains
+Loading cargo939 onto The Slippery Boat from Midgar to Mordor 320 capacity remains
+Loading cargo946 onto The Shining Dreadnought from Mordor to Luthadel 30 capacity remains
+No ships can carry the cargo1016 from Mordor to Luthadel
+No ships can carry the cargo1068 from Sarth to Mordor
+No ships can carry the cargo1168 from Luthadel to Mordor
+No ships can carry the cargo1185 from Elantris to Mordor
+No ships can carry the cargo1282 from Luthadel to Elantris
+Loading cargo1437 onto The Slippery Eel from Sarth to Midgar 320 capacity remains
+Loading cargo1446 onto The Majestic Galleon from Mordor to Luthadel 1960 capacity remains
+No ships can carry the cargo1520 from Elantris to Midgar
+Loading cargo1536 onto The Royal Boat from Mordor to Sarth 645 capacity remains
+No ships can carry the cargo1804 from Luthadel to Mordor
+No ships can carry the cargo1863 from Mordor to Midgar
+Loading cargo1957 onto The Misty Dolphin from Midgar to Luthadel 1760 capacity remains
+No ships can carry the cargo98 from Mordor to Luthadel
+Loading cargo282 onto The Sailing Galleon from Mordor to Luthadel 235 capacity remains
+No ships can carry the cargo303 from Elantris to Midgar
+No ships can carry the cargo441 from Sarth to Elantris
+Loading cargo742 onto The Sailing Galleon from Mordor to Luthadel 100 capacity remains
+Loading cargo768 onto The Majestic Galleon from Mordor to Luthadel 1825 capacity remains
+No ships can carry the cargo849 from Sarth to Elantris
+Loading cargo911 onto The Misty Dolphin from Midgar to Luthadel 1625 capacity remains
+Loading cargo980 onto The King's Narwhal from Elantris to Luthadel 760 capacity remains
+Loading cargo981 onto The Majestic Galleon from Mordor to Luthadel 1690 capacity remains
+Loading cargo1097 onto The Swift Eagle from Luthadel to Sarth 435 capacity remains
+No ships can carry the cargo1409 from Elantris to Midgar
+No ships can carry the cargo1412 from Sarth to Elantris
+Loading cargo1413 onto The Gleaming Phoenix from Sarth to Luthadel 255 capacity remains
+No ships can carry the cargo1583 from Mordor to Luthadel
+Loading cargo1669 onto The Majestic Leviathan from Midgar to Mordor 0 capacity remains
+Loading cargo138 onto The Majestic Eagle from Mordor to Sarth 30 capacity remains
+Loading cargo238 onto The Wet Kraken from Midgar to Elantris 970 capacity remains
+No ships can carry the cargo286 from Luthadel to Sarth
+No ships can carry the cargo317 from Sarth to Mordor
+No ships can carry the cargo391 from Luthadel to Midgar
+Loading cargo395 onto The Wooden Eagle from Mordor to Midgar 20 capacity remains
+No ships can carry the cargo399 from Sarth to Mordor
+Loading cargo459 onto The Slippery Eel from Sarth to Midgar 190 capacity remains
+No ships can carry the cargo484 from Luthadel to Midgar
+No ships can carry the cargo792 from Sarth to Midgar
+Loading cargo796 onto The King's Eel from Luthadel to Midgar 840 capacity remains
+Loading cargo995 onto The Shining Dragon from Luthadel to Mordor 585 capacity remains
+Loading cargo1009 onto The Slippery Boat from Midgar to Mordor 190 capacity remains
+No ships can carry the cargo1152 from Elantris to Midgar
+No ships can carry the cargo1153 from Sarth to Mordor
+No ships can carry the cargo1189 from Elantris to Luthadel
+Loading cargo1241 onto The Wet Shark from Mordor to Midgar 10 capacity remains
+No ships can carry the cargo1286 from Luthadel to Midgar
+No ships can carry the cargo1319 from Midgar to Sarth
+Loading cargo1327 onto The Misty Hawk from Mordor to Midgar 925 capacity remains
+Loading cargo1335 onto The King's Eel from Luthadel to Midgar 710 capacity remains
+No ships can carry the cargo1342 from Sarth to Mordor
+No ships can carry the cargo1499 from Sarth to Elantris
+No ships can carry the cargo1569 from Luthadel to Mordor
+Loading cargo1603 onto The Slippery Hawk from Elantris to Mordor 105 capacity remains
+No ships can carry the cargo1608 from Midgar to Luthadel
+Loading cargo1644 onto The Shining Kraken from Sarth to Luthadel 70 capacity remains
+No ships can carry the cargo1721 from Midgar to Elantris
+No ships can carry the cargo1732 from Luthadel to Sarth
+No ships can carry the cargo1740 from Mordor to Sarth
+No ships can carry the cargo1842 from Mordor to Midgar
+No ships can carry the cargo1848 from Luthadel to Mordor
+Loading cargo1908 onto The Swift Phoenix from Midgar to Luthadel 620 capacity remains
+Loading cargo1971 onto The Night Clipper from Sarth to Luthadel 1870 capacity remains
+No ships can carry the cargo146 from Sarth to Elantris
+Loading cargo384 onto The King's Boat from Midgar to Mordor 10 capacity remains
+No ships can carry the cargo444 from Sarth to Mordor
+Loading cargo723 onto The King's Eel from Luthadel to Midgar 585 capacity remains
+Loading cargo737 onto The Swift Kraken from Mordor to Midgar 2160 capacity remains
+Loading cargo1380 onto The Swift Eagle from Luthadel to Sarth 310 capacity remains
+Loading cargo1525 onto The Royal Boat from Mordor to Sarth 520 capacity remains
+No ships can carry the cargo1580 from Elantris to Luthadel
+No ships can carry the cargo1621 from Luthadel to Sarth
+Loading cargo1654 onto The Majestic Galleon from Mordor to Luthadel 1565 capacity remains
+No ships can carry the cargo1677 from Elantris to Sarth
+No ships can carry the cargo1899 from Elantris to Mordor
+Loading cargo1916 onto The Swift Eagle from Luthadel to Sarth 185 capacity remains
+No ships can carry the cargo209 from Midgar to Elantris
+No ships can carry the cargo234 from Mordor to Elantris
+No ships can carry the cargo251 from Luthadel to Mordor
+Loading cargo461 onto The Queen's Boat from Mordor to Midgar 20 capacity remains
+No ships can carry the cargo483 from Midgar to Luthadel
+Loading cargo580 onto The Slippery Snake from Midgar to Mordor 30 capacity remains
+No ships can carry the cargo585 from Elantris to Sarth
+Loading cargo644 onto The Royal Dreadnought from Mordor to Luthadel 280 capacity remains
+No ships can carry the cargo666 from Sarth to Mordor
+No ships can carry the cargo863 from Luthadel to Midgar
+Loading cargo996 onto The Slippery Eel from Sarth to Midgar 70 capacity remains
+No ships can carry the cargo998 from Luthadel to Elantris
+No ships can carry the cargo1054 from Elantris to Luthadel
+Loading cargo1063 onto The Royal Boat from Mordor to Sarth 400 capacity remains
+No ships can carry the cargo1090 from Mordor to Sarth
+No ships can carry the cargo1298 from Mordor to Sarth
+No ships can carry the cargo1367 from Midgar to Luthadel
+No ships can carry the cargo1428 from Luthadel to Sarth
+No ships can carry the cargo1652 from Mordor to Midgar
+No ships can carry the cargo1708 from Elantris to Luthadel
+Loading cargo1806 onto The Misty Dolphin from Midgar to Luthadel 1505 capacity remains
+No ships can carry the cargo1807 from Elantris to Midgar
+Loading cargo1861 onto The Swift Kraken from Mordor to Midgar 2040 capacity remains
+Loading cargo96 onto The Misty Leviathan from Midgar to Luthadel 1755 capacity remains
+Loading cargo287 onto The Swift Eagle from Luthadel to Sarth 70 capacity remains
+Loading cargo304 onto The Misty Leviathan from Midgar to Luthadel 1640 capacity remains
+No ships can carry the cargo325 from Mordor to Sarth
+Loading cargo373 onto The Dawn Dreadnought from Elantris to Mordor 455 capacity remains
+No ships can carry the cargo475 from Mordor to Elantris
+No ships can carry the cargo926 from Mordor to Elantris
+No ships can carry the cargo931 from Mordor to Elantris
+Loading cargo1230 onto The Majestic Narwhal from Mordor to Midgar 25 capacity remains
+No ships can carry the cargo1377 from Elantris to Midgar
+Loading cargo1400 onto The Royal Boat from Mordor to Sarth 285 capacity remains
+Loading cargo1502 onto The Shining Dragon from Luthadel to Mordor 470 capacity remains
+No ships can carry the cargo1529 from Midgar to Mordor
+Loading cargo1883 onto The Shining Dragon from Luthadel to Mordor 355 capacity remains
+Loading cargo166 onto The Royal Boat from Mordor to Sarth 175 capacity remains
+No ships can carry the cargo174 from Luthadel to Elantris
+No ships can carry the cargo260 from Mordor to Midgar
+No ships can carry the cargo378 from Sarth to Mordor
+No ships can carry the cargo468 from Elantris to Mordor
+No ships can carry the cargo511 from Midgar to Sarth
+Loading cargo563 onto The Majestic Phoenix from Sarth to Midgar 2040 capacity remains
+No ships can carry the cargo566 from Elantris to Mordor
+No ships can carry the cargo710 from Luthadel to Elantris
+No ships can carry the cargo753 from Sarth to Luthadel
+No ships can carry the cargo820 from Elantris to Midgar
+Loading cargo927 onto The Shining Clipper from Luthadel to Sarth 815 capacity remains
+Loading cargo951 onto The Night Whale from Luthadel to Mordor 80 capacity remains
+No ships can carry the cargo989 from Sarth to Mordor
+No ships can carry the cargo994 from Midgar to Mordor
+No ships can carry the cargo1094 from Mordor to Midgar
+No ships can carry the cargo1111 from Mordor to Sarth
+Loading cargo1208 onto The Secret Galleon from Luthadel to Elantris 200 capacity remains
+Loading cargo1217 onto The Secret Whale from Sarth to Midgar 720 capacity remains
+Loading cargo1281 onto The Wooden Turtle from Elantris to Luthadel 90 capacity remains
+No ships can carry the cargo1318 from Mordor to Sarth
+No ships can carry the cargo1328 from Luthadel to Sarth
+No ships can carry the cargo1514 from Luthadel to Midgar
+No ships can carry the cargo1522 from Sarth to Midgar
+No ships can carry the cargo1570 from Sarth to Midgar
+No ships can carry the cargo1805 from Elantris to Luthadel
+Loading cargo1850 onto The Secret Boat from Midgar to Elantris 905 capacity remains
+No ships can carry the cargo1897 from Mordor to Luthadel
+No ships can carry the cargo1931 from Midgar to Luthadel
+No ships can carry the cargo1946 from Luthadel to Sarth
+No ships can carry the cargo1984 from Mordor to Midgar
+Loading cargo182 onto The Swift Kraken from Mordor to Midgar 1935 capacity remains
+Loading cargo190 onto The King's Eel from Luthadel to Midgar 480 capacity remains
+Loading cargo284 onto The Gleaming Whale from Mordor to Elantris 995 capacity remains
+No ships can carry the cargo328 from Luthadel to Midgar
+Loading cargo414 onto The Slippery Boat from Midgar to Mordor 85 capacity remains
+Loading cargo431 onto The Majestic Phoenix from Sarth to Midgar 1935 capacity remains
+Loading cargo711 onto The Wet Galleon from Luthadel to Midgar 25 capacity remains
+Loading cargo718 onto The Misty Dolphin from Midgar to Luthadel 1400 capacity remains
+Loading cargo1225 onto The Swift Kraken from Mordor to Midgar 1830 capacity remains
+Loading cargo1301 onto The Royal Boat from Mordor to Sarth 70 capacity remains
+No ships can carry the cargo1312 from Luthadel to Sarth
+Loading cargo1408 onto The King's Narwhal from Elantris to Luthadel 655 capacity remains
+Loading cargo1473 onto The Wooden Whale from Mordor to Sarth 10 capacity remains
+No ships can carry the cargo1566 from Elantris to Midgar
+No ships can carry the cargo1827 from Mordor to Midgar
+Loading cargo1889 onto The Shining Dragon from Luthadel to Mordor 250 capacity remains
+No ships can carry the cargo1947 from Elantris to Luthadel
+Loading cargo108 onto The Night Hawk from Mordor to Midgar 60 capacity remains
+No ships can carry the cargo216 from Mordor to Elantris
+Loading cargo235 onto The Majestic Galleon from Mordor to Luthadel 1465 capacity remains
+No ships can carry the cargo273 from Mordor to Sarth
+No ships can carry the cargo292 from Mordor to Sarth
+No ships can carry the cargo312 from Elantris to Sarth
+No ships can carry the cargo379 from Sarth to Mordor
+Loading cargo564 onto The Misty Hawk from Mordor to Midgar 825 capacity remains
+No ships can carry the cargo641 from Mordor to Luthadel
+No ships can carry the cargo694 from Sarth to Midgar
+No ships can carry the cargo762 from Luthadel to Mordor
+No ships can carry the cargo971 from Midgar to Sarth
+No ships can carry the cargo1028 from Luthadel to Elantris
+No ships can carry the cargo1177 from Luthadel to Mordor
+Loading cargo1202 onto The Shining Dragon from Luthadel to Mordor 150 capacity remains
+Loading cargo1249 onto The Dawn Leviathan from Luthadel to Mordor 90 capacity remains
+Loading cargo1307 onto The Secret Whale from Sarth to Midgar 620 capacity remains
+Loading cargo1314 onto The Sailing Dragon from Mordor to Midgar 40 capacity remains
+No ships can carry the cargo1333 from Luthadel to Midgar
+No ships can carry the cargo1395 from Midgar to Luthadel
+Loading cargo1401 onto The Slippery Phoenix from Midgar to Sarth 1770 capacity remains
+No ships can carry the cargo1404 from Midgar to Sarth
+Loading cargo1555 onto The Gleaming Snake from Luthadel to Mordor 5 capacity remains
+No ships can carry the cargo214 from Midgar to Mordor
+Loading cargo314 onto The Misty Dolphin from Midgar to Luthadel 1305 capacity remains
+Loading cargo502 onto The Misty Leviathan from Midgar to Luthadel 1545 capacity remains
+Loading cargo673 onto The Majestic Clipper from Sarth to Mordor 330 capacity remains
+No ships can carry the cargo832 from Midgar to Mordor
+Loading cargo879 onto The Swift Hawk from Mordor to Sarth 610 capacity remains
+No ships can carry the cargo1087 from Mordor to Luthadel
+Loading cargo1135 onto The Slippery Hawk from Elantris to Mordor 10 capacity remains
+Loading cargo1384 onto The Gleaming Dreadnought from Luthadel to Elantris 0 capacity remains
+No ships can carry the cargo1646 from Mordor to Luthadel
+Loading cargo1710 onto The Gleaming Dragon from Midgar to Mordor 1955 capacity remains
+Loading cargo1926 onto The Secret Galleon from Luthadel to Elantris 105 capacity remains
+No ships can carry the cargo32 from Sarth to Luthadel
+No ships can carry the cargo62 from Midgar to Elantris
+Loading cargo83 onto The Shining Dragon from Luthadel to Mordor 60 capacity remains
+No ships can carry the cargo223 from Midgar to Mordor
+No ships can carry the cargo433 from Luthadel to Mordor
+Loading cargo534 onto The Shining Shark from Sarth to Mordor 25 capacity remains
+Loading cargo657 onto The Night Eel from Mordor to Luthadel 140 capacity remains
+No ships can carry the cargo752 from Midgar to Mordor
+Loading cargo787 onto The Majestic Galleon from Mordor to Luthadel 1375 capacity remains
+No ships can carry the cargo819 from Luthadel to Mordor
+No ships can carry the cargo872 from Luthadel to Mordor
+No ships can carry the cargo929 from Mordor to Luthadel
+Loading cargo944 onto The Misty Leviathan from Midgar to Luthadel 1455 capacity remains
+Loading cargo1003 onto The Sailing Eel from Mordor to Elantris 40 capacity remains
+No ships can carry the cargo1062 from Midgar to Sarth
+Loading cargo1112 onto The Gleaming Dragon from Midgar to Mordor 1865 capacity remains
+No ships can carry the cargo1191 from Mordor to Midgar
+No ships can carry the cargo1194 from Sarth to Mordor
+No ships can carry the cargo1229 from Mordor to Luthadel
+No ships can carry the cargo1289 from Midgar to Luthadel
+No ships can carry the cargo1323 from Mordor to Sarth
+Loading cargo1357 onto The King's Dragon from Luthadel to Sarth 30 capacity remains
+No ships can carry the cargo1544 from Mordor to Sarth
+No ships can carry the cargo1625 from Midgar to Mordor
+No ships can carry the cargo1630 from Midgar to Mordor
+Loading cargo1687 onto The Gleaming Dragon from Midgar to Mordor 1775 capacity remains
+No ships can carry the cargo1761 from Sarth to Mordor
+Loading cargo1830 onto The Majestic Clipper from Sarth to Mordor 240 capacity remains
+Loading cargo31 onto The Misty Dolphin from Midgar to Luthadel 1220 capacity remains
+No ships can carry the cargo128 from Midgar to Sarth
+No ships can carry the cargo153 from Mordor to Sarth
+Loading cargo442 onto The King's Narwhal from Elantris to Luthadel 570 capacity remains
+No ships can carry the cargo851 from Luthadel to Sarth
+Loading cargo983 onto The King's Narwhal from Elantris to Luthadel 485 capacity remains
+Loading cargo1021 onto The Misty Dolphin from Midgar to Luthadel 1135 capacity remains
+No ships can carry the cargo1053 from Sarth to Elantris
+Loading cargo1182 onto The Misty Hawk from Mordor to Midgar 740 capacity remains
+Loading cargo1226 onto The Secret Phoenix from Elantris to Midgar 840 capacity remains
+No ships can carry the cargo1260 from Mordor to Elantris
+Loading cargo1582 onto The King's Eel from Luthadel to Midgar 395 capacity remains
+No ships can carry the cargo95 from Mordor to Midgar
+Loading cargo129 onto The Swift Hawk from Mordor to Sarth 530 capacity remains
+Loading cargo436 onto The Misty Leviathan from Midgar to Luthadel 1375 capacity remains
+No ships can carry the cargo615 from Mordor to Midgar
+Loading cargo616 onto The Swift Hawk from Mordor to Sarth 450 capacity remains
+Loading cargo623 onto The Dawn Dreadnought from Elantris to Mordor 375 capacity remains
+No ships can carry the cargo873 from Mordor to Midgar
+Loading cargo940 onto The Night Narwhal from Mordor to Elantris 200 capacity remains
+Loading cargo1213 onto The Dawn Dreadnought from Elantris to Mordor 295 capacity remains
+No ships can carry the cargo1421 from Mordor to Sarth
+No ships can carry the cargo1528 from Elantris to Luthadel
+Loading cargo1602 onto The Secret Boat from Midgar to Elantris 825 capacity remains
+No ships can carry the cargo1634 from Mordor to Luthadel
+Loading cargo1924 onto The Swift Hawk from Mordor to Sarth 370 capacity remains
+Loading cargo1928 onto The King's Galleon from Mordor to Sarth 40 capacity remains
+No ships can carry the cargo186 from Midgar to Mordor
+Loading cargo221 onto The Majestic Galleon from Mordor to Luthadel 1300 capacity remains
+Loading cargo479 onto The Majestic Galleon from Mordor to Luthadel 1225 capacity remains
+No ships can carry the cargo587 from Luthadel to Mordor
+No ships can carry the cargo619 from Midgar to Mordor
+No ships can carry the cargo763 from Sarth to Luthadel
+Loading cargo853 onto The Slippery Phoenix from Midgar to Sarth 1695 capacity remains
+No ships can carry the cargo870 from Sarth to Mordor
+Loading cargo1113 onto The Sailing Galleon from Mordor to Luthadel 25 capacity remains
+No ships can carry the cargo1344 from Elantris to Mordor
+No ships can carry the cargo1647 from Mordor to Midgar
+Loading cargo1714 onto The Majestic Galleon from Mordor to Luthadel 1150 capacity remains
+Loading cargo1900 onto The Shining Clipper from Luthadel to Sarth 740 capacity remains
+No ships can carry the cargo105 from Luthadel to Mordor
+Loading cargo169 onto The Wooden Leviathan from Luthadel to Mordor 1680 capacity remains
+Loading cargo538 onto The Misty Leviathan from Midgar to Luthadel 1305 capacity remains
+Loading cargo584 onto The Gleaming Narwhal from Midgar to Luthadel 140 capacity remains
+No ships can carry the cargo609 from Mordor to Sarth
+Loading cargo647 onto The Secret Dolphin from Mordor to Luthadel 100 capacity remains
+No ships can carry the cargo778 from Sarth to Mordor
+Loading cargo781 onto The Secret Phoenix from Elantris to Midgar 770 capacity remains
+Loading cargo783 onto The Misty Leviathan from Midgar to Luthadel 1235 capacity remains
+No ships can carry the cargo807 from Elantris to Mordor
+Loading cargo848 onto The King's Narwhal from Elantris to Luthadel 415 capacity remains
+No ships can carry the cargo1008 from Midgar to Mordor
+No ships can carry the cargo1107 from Mordor to Sarth
+No ships can carry the cargo1197 from Mordor to Luthadel
+Loading cargo1316 onto The Wet Leviathan from Luthadel to Midgar 15 capacity remains
+No ships can carry the cargo1506 from Midgar to Mordor
+No ships can carry the cargo1727 from Midgar to Sarth
+Loading cargo1803 onto The Misty Dolphin from Midgar to Luthadel 1065 capacity remains
+No ships can carry the cargo1943 from Mordor to Midgar
+Loading cargo1964 onto The Swift Dreadnought from Elantris to Sarth 70 capacity remains
+Loading cargo1995 onto The Majestic Galleon from Mordor to Luthadel 1080 capacity remains
+Loading cargo63 onto The Misty Leviathan from Midgar to Luthadel 1170 capacity remains
+No ships can carry the cargo152 from Mordor to Luthadel
+No ships can carry the cargo1385 from Elantris to Luthadel
+No ships can carry the cargo1423 from Midgar to Luthadel
+Loading cargo1703 onto The Night Phoenix from Luthadel to Midgar 0 capacity remains
+Loading cargo1777 onto The Secret Galleon from Luthadel to Elantris 40 capacity remains
+Loading cargo1789 onto The King's Whale from Luthadel to Midgar 45 capacity remains
+Loading cargo66 onto The King's Eel from Luthadel to Midgar 335 capacity remains
+Loading cargo69 onto The Sailing Kraken from Elantris to Luthadel 10 capacity remains
+No ships can carry the cargo131 from Mordor to Midgar
+No ships can carry the cargo139 from Mordor to Midgar
+No ships can carry the cargo226 from Mordor to Midgar
+Loading cargo228 onto The Slippery Phoenix from Midgar to Sarth 1635 capacity remains
+No ships can carry the cargo522 from Elantris to Sarth
+No ships can carry the cargo602 from Mordor to Midgar
+No ships can carry the cargo842 from Midgar to Luthadel
+No ships can carry the cargo950 from Mordor to Luthadel
+No ships can carry the cargo1013 from Luthadel to Midgar
+Loading cargo1019 onto The Wooden Shark from Mordor to Luthadel 80 capacity remains
+Loading cargo1048 onto The Dawn Kraken from Mordor to Elantris 0 capacity remains
+Loading cargo1188 onto The Secret Eel from Sarth to Midgar 110 capacity remains
+No ships can carry the cargo1273 from Mordor to Midgar
+No ships can carry the cargo1303 from Luthadel to Sarth
+Loading cargo1693 onto The Night Dolphin from Elantris to Mordor 0 capacity remains
+Loading cargo1871 onto The King's Leviathan from Elantris to Midgar 20 capacity remains
+No ships can carry the cargo1476 from Sarth to Elantris
+Loading cargo1480 onto The Wooden Shark from Mordor to Luthadel 23 capacity remains
+Loading cargo1505 onto The Queen's Dragon from Mordor to Luthadel 103 capacity remains
+Loading cargo1680 onto The Shining Eel from Elantris to Luthadel 123 capacity remains
+Loading cargo1903 onto The Slippery Shark from Elantris to Mordor 53 capacity remains
+Loading cargo84 onto The Misty Eel from Midgar to Mordor 64 capacity remains
+Loading cargo285 onto The Royal Kraken from Sarth to Mordor 114 capacity remains
+Loading cargo460 onto The Queen's Hawk from Midgar to Luthadel 54 capacity remains
+Loading cargo828 onto The Majestic Eel from Sarth to Luthadel 64 capacity remains
+Loading cargo972 onto The Royal Snake from Mordor to Midgar 44 capacity remains
+Loading cargo1084 onto The Secret Shark from Midgar to Sarth 134 capacity remains
+Loading cargo1629 onto The Queen's Dragon from Mordor to Luthadel 47 capacity remains
+Loading cargo4 onto The Queen's Eel from Luthadel to Elantris 45 capacity remains
+Loading cargo92 onto The Slippery Dolphin from Midgar to Luthadel 75 capacity remains
+Loading cargo269 onto The Slippery Dolphin from Midgar to Luthadel 20 capacity remains
+Loading cargo721 onto The King's Eel from Luthadel to Midgar 280 capacity remains
+Loading cargo868 onto The Wooden Leviathan from Luthadel to Mordor 1625 capacity remains
+No ships can carry the cargo874 from Mordor to Midgar
+No ships can carry the cargo1235 from Mordor to Sarth
+No ships can carry the cargo1324 from Mordor to Midgar
+Loading cargo1352 onto The King's Eel from Luthadel to Midgar 225 capacity remains
+Loading cargo1716 onto The Misty Shark from Mordor to Elantris 75 capacity remains
+Loading cargo1869 onto The Night Clipper from Sarth to Luthadel 1815 capacity remains
+Loading cargo663 onto The Misty Eel from Midgar to Mordor 10 capacity remains
+Loading cargo1169 onto The Wet Hawk from Mordor to Sarth 86 capacity remains
+Loading cargo1290 onto The Swift Whale from Luthadel to Midgar 56 capacity remains
+Loading cargo1549 onto The Misty Galleon from Luthadel to Sarth 76 capacity remains
+Loading cargo1913 onto The Swift Whale from Luthadel to Midgar 2 capacity remains
+Loading cargo1969 onto The Wet Hawk from Mordor to Sarth 32 capacity remains
+No ships can carry the cargo254 from Elantris to Midgar
+Loading cargo347 onto The Slippery Shark from Elantris to Mordor 0 capacity remains
+Loading cargo419 onto The Dawn Dolphin from Mordor to Sarth 97 capacity remains
+Loading cargo425 onto The Misty Shark from Mordor to Elantris 22 capacity remains
+Loading cargo595 onto The Dawn Dolphin from Mordor to Sarth 44 capacity remains
+Loading cargo1484 onto The Wet Eel from Mordor to Midgar 47 capacity remains
+Loading cargo1622 onto The Shining Turtle from Midgar to Elantris 137 capacity remains
+Loading cargo1689 onto The Misty Galleon from Luthadel to Sarth 23 capacity remains
+Loading cargo610 onto The Swift Dragon from Mordor to Elantris 98 capacity remains
+Loading cargo838 onto The Slippery Dragon from Midgar to Mordor 108 capacity remains
+Loading cargo1071 onto The Majestic Snake from Luthadel to Elantris 78 capacity remains
+Loading cargo1373 onto The Secret Eel from Sarth to Midgar 58 capacity remains
+No ships can carry the cargo1491 from Sarth to Elantris
+Loading cargo1541 onto The Night Snake from Mordor to Luthadel 138 capacity remains
+Loading cargo772 onto The Secret Narwhal from Elantris to Mordor 119 capacity remains
+Loading cargo899 onto The Majestic Dolphin from Luthadel to Sarth 109 capacity remains
+Loading cargo924 onto The Royal Kraken from Sarth to Mordor 63 capacity remains
+Loading cargo941 onto The Night Snake from Mordor to Luthadel 87 capacity remains
+Loading cargo1004 onto The Night Dreadnought from Luthadel to Midgar 69 capacity remains
+Loading cargo1272 onto The Night Snake from Mordor to Luthadel 36 capacity remains
+Loading cargo1438 onto The Shining Eel from Elantris to Luthadel 72 capacity remains
+No ships can carry the cargo1507 from Mordor to Sarth
+No ships can carry the cargo1787 from Mordor to Luthadel
+Loading cargo1953 onto The Secret Shark from Midgar to Sarth 83 capacity remains
+No ships can carry the cargo73 from Luthadel to Mordor
+Loading cargo327 onto The Majestic Dolphin from Luthadel to Sarth 59 capacity remains
+Loading cargo466 onto The Queen's Hawk from Midgar to Luthadel 4 capacity remains
+Loading cargo515 onto The Secret Eel from Sarth to Midgar 8 capacity remains
+Loading cargo702 onto The Royal Kraken from Sarth to Mordor 13 capacity remains
+Loading cargo846 onto The Swift Dragon from Mordor to Elantris 48 capacity remains
+Loading cargo1007 onto The Majestic Turtle from Mordor to Elantris 110 capacity remains
+No ships can carry the cargo1044 from Elantris to Midgar
+No ships can carry the cargo1105 from Mordor to Sarth
+Loading cargo1205 onto The Royal Galleon from Midgar to Luthadel 100 capacity remains
+Loading cargo1479 onto The Slippery Boat from Midgar to Mordor 35 capacity remains
+Loading cargo1538 onto The Slippery Dragon from Midgar to Mordor 58 capacity remains
+No ships can carry the cargo1686 from Mordor to Midgar
+No ships can carry the cargo165 from Mordor to Sarth
+No ships can carry the cargo521 from Mordor to Luthadel
+Loading cargo554 onto The Shining Turtle from Midgar to Elantris 88 capacity remains
+Loading cargo771 onto The Misty Narwhal from Luthadel to Mordor 51 capacity remains
+Loading cargo1103 onto The Swift Narwhal from Mordor to Midgar 91 capacity remains
+Loading cargo1320 onto The Sailing Narwhal from Elantris to Sarth 51 capacity remains
+Loading cargo1397 onto The Royal Galleon from Midgar to Luthadel 51 capacity remains
+Loading cargo1907 onto The Slippery Dragon from Midgar to Mordor 9 capacity remains
+No ships can carry the cargo1912 from Mordor to Sarth
+Loading cargo1975 onto The Night Dreadnought from Luthadel to Midgar 20 capacity remains
+Loading cargo58 onto The Swift Narwhal from Mordor to Midgar 43 capacity remains
+No ships can carry the cargo188 from Elantris to Midgar
+Loading cargo215 onto The Misty Narwhal from Luthadel to Mordor 3 capacity remains
+Loading cargo321 onto The Royal Galleon from Midgar to Luthadel 3 capacity remains
+Loading cargo437 onto The Secret Shark from Midgar to Sarth 35 capacity remains
+Loading cargo443 onto The Dawn Eel from Midgar to Luthadel 132 capacity remains
+Loading cargo1069 onto The Majestic Dolphin from Luthadel to Sarth 11 capacity remains
+Loading cargo1192 onto The Queen's Leviathan from Sarth to Midgar 142 capacity remains
+Loading cargo1293 onto The Queen's Leviathan from Sarth to Midgar 94 capacity remains
+Loading cargo1581 onto The Secret Hawk from Luthadel to Sarth 122 capacity remains
+No ships can carry the cargo1904 from Mordor to Luthadel
+Loading cargo338 onto The Secret Hawk from Luthadel to Sarth 75 capacity remains
+Loading cargo409 onto The Majestic Eel from Sarth to Luthadel 17 capacity remains
+Loading cargo542 onto The Shining Eel from Elantris to Luthadel 25 capacity remains
+Loading cargo633 onto The Majestic Snake from Luthadel to Elantris 31 capacity remains
+No ships can carry the cargo642 from Elantris to Midgar
+No ships can carry the cargo655 from Sarth to Mordor
+No ships can carry the cargo735 from Elantris to Midgar
+Loading cargo747 onto The Queen's Dragon from Mordor to Luthadel 0 capacity remains
+No ships can carry the cargo860 from Elantris to Midgar
+Loading cargo945 onto The Queen's Leviathan from Sarth to Midgar 47 capacity remains
+No ships can carry the cargo1093 from Midgar to Sarth
+No ships can carry the cargo1201 from Midgar to Sarth
+Loading cargo1247 onto The Wooden Kraken from Midgar to Mordor 123 capacity remains
+No ships can carry the cargo1287 from Sarth to Midgar
+Loading cargo1844 onto The Majestic Turtle from Mordor to Elantris 63 capacity remains
+Loading cargo519 onto The Slippery Galleon from Luthadel to Elantris 94 capacity remains
+Loading cargo854 onto The Majestic Turtle from Mordor to Elantris 17 capacity remains
+Loading cargo901 onto The Wet Clipper from Luthadel to Midgar 74 capacity remains
+Loading cargo184 onto The Wet Eel from Mordor to Midgar 2 capacity remains
+No ships can carry the cargo429 from Mordor to Sarth
+Loading cargo545 onto The Wooden Leviathan from Luthadel to Mordor 1580 capacity remains
+Loading cargo583 onto The Misty Dreadnought from Sarth to Luthadel 75 capacity remains
+Loading cargo906 onto The Dawn Eel from Midgar to Luthadel 87 capacity remains
+Loading cargo1035 onto The Majestic Galleon from Mordor to Luthadel 1035 capacity remains
+Loading cargo1058 onto The Majestic Phoenix from Sarth to Midgar 1890 capacity remains
+Loading cargo1070 onto The Queen's Leviathan from Sarth to Midgar 2 capacity remains
+No ships can carry the cargo1088 from Sarth to Mordor
+Loading cargo1211 onto The Dawn Eel from Midgar to Luthadel 42 capacity remains
+Loading cargo1398 onto The Secret Hawk from Luthadel to Sarth 30 capacity remains
+Loading cargo1531 onto The Slippery Galleon from Luthadel to Elantris 49 capacity remains
+No ships can carry the cargo1537 from Luthadel to Midgar
+Loading cargo1554 onto The Secret Dragon from Sarth to Luthadel 75 capacity remains
+Loading cargo1607 onto The Misty Hawk from Mordor to Midgar 695 capacity remains
+No ships can carry the cargo1649 from Midgar to Mordor
+No ships can carry the cargo1651 from Midgar to Sarth
+No ships can carry the cargo1962 from Elantris to Midgar
+Loading cargo1 onto The Wet Clipper from Luthadel to Midgar 30 capacity remains
+Loading cargo243 onto The Wooden Kraken from Midgar to Mordor 79 capacity remains
+Loading cargo277 onto The Wooden Phoenix from Luthadel to Mordor 66 capacity remains
+No ships can carry the cargo318 from Sarth to Mordor
+Loading cargo320 onto The Sailing Narwhal from Elantris to Sarth 7 capacity remains
+No ships can carry the cargo371 from Mordor to Luthadel
+Loading cargo412 onto The Wooden Kraken from Midgar to Mordor 35 capacity remains
+No ships can carry the cargo535 from Sarth to Midgar
+Loading cargo608 onto The Dawn Boat from Midgar to Mordor 146 capacity remains
+No ships can carry the cargo881 from Elantris to Luthadel
+Loading cargo959 onto The Royal Snake from Mordor to Midgar 0 capacity remains
+No ships can carry the cargo1017 from Sarth to Mordor
+Loading cargo1041 onto The Dawn Dolphin from Mordor to Sarth 0 capacity remains
+No ships can carry the cargo1154 from Mordor to Sarth
+No ships can carry the cargo1297 from Mordor to Luthadel
+Loading cargo1694 onto The Misty Dreadnought from Sarth to Luthadel 31 capacity remains
+Loading cargo1704 onto The Swift Dragon from Mordor to Elantris 4 capacity remains
+Loading cargo77 onto The Dawn Boat from Midgar to Mordor 103 capacity remains
+Loading cargo100 onto The Misty Eagle from Midgar to Luthadel 137 capacity remains
+Loading cargo275 onto The Swift Narwhal from Mordor to Midgar 0 capacity remains
+Loading cargo548 onto The Secret Dragon from Sarth to Luthadel 32 capacity remains
+Loading cargo932 onto The Dawn Boat from Midgar to Mordor 60 capacity remains
+No ships can carry the cargo1393 from Sarth to Elantris
+No ships can carry the cargo1426 from Sarth to Mordor
+No ships can carry the cargo1673 from Sarth to Mordor
+No ships can carry the cargo1729 from Sarth to Mordor
+No ships can carry the cargo1919 from Sarth to Luthadel
+Loading cargo102 onto The Dawn Boat from Midgar to Mordor 18 capacity remains
+Loading cargo107 onto The Shining Eagle from Luthadel to Midgar 98 capacity remains
+No ships can carry the cargo200 from Mordor to Sarth
+Loading cargo246 onto The Wooden Phoenix from Luthadel to Mordor 24 capacity remains
+No ships can carry the cargo478 from Elantris to Sarth
+No ships can carry the cargo553 from Midgar to Mordor
+Loading cargo1098 onto The Night Leviathan from Luthadel to Mordor 98 capacity remains
+Loading cargo1119 onto The Night Leviathan from Luthadel to Mordor 56 capacity remains
+No ships can carry the cargo1414 from Mordor to Luthadel
+Loading cargo1439 onto The King's Shark from Mordor to Midgar 138 capacity remains
+No ships can carry the cargo1461 from Elantris to Midgar
+Loading cargo1483 onto The Shining Eagle from Luthadel to Midgar 56 capacity remains
+No ships can carry the cargo72 from Elantris to Midgar
+Loading cargo345 onto The Secret Narwhal from Elantris to Mordor 78 capacity remains
+No ships can carry the cargo351 from Elantris to Luthadel
+Loading cargo366 onto The Shining Eagle from Luthadel to Midgar 15 capacity remains
+No ships can carry the cargo402 from Midgar to Mordor
+No ships can carry the cargo643 from Midgar to Mordor
+Loading cargo648 onto The Shining Turtle from Midgar to Elantris 47 capacity remains
+No ships can carry the cargo683 from Sarth to Elantris
+No ships can carry the cargo813 from Mordor to Elantris
+No ships can carry the cargo925 from Mordor to Luthadel
+Loading cargo962 onto The Misty Eagle from Midgar to Luthadel 96 capacity remains
+No ships can carry the cargo1059 from Mordor to Luthadel
+No ships can carry the cargo1251 from Sarth to Midgar
+Loading cargo1326 onto The Misty Phoenix from Luthadel to Midgar 109 capacity remains
+Loading cargo1498 onto The Misty Phoenix from Luthadel to Midgar 68 capacity remains
+No ships can carry the cargo1517 from Midgar to Sarth
+No ships can carry the cargo1594 from Elantris to Midgar
+Loading cargo1892 onto The Queen's Eagle from Luthadel to Sarth 139 capacity remains
+No ships can carry the cargo1950 from Mordor to Luthadel
+No ships can carry the cargo25 from Elantris to Sarth
+Loading cargo43 onto The Dawn Clipper from Elantris to Mordor 240 capacity remains
+Loading cargo353 onto The Secret Narwhal from Elantris to Mordor 38 capacity remains
+No ships can carry the cargo365 from Mordor to Sarth
+No ships can carry the cargo736 from Sarth to Mordor
+No ships can carry the cargo953 from Sarth to Luthadel
+Loading cargo1100 onto The King's Shark from Mordor to Midgar 98 capacity remains
+Loading cargo1238 onto The Misty Phoenix from Luthadel to Midgar 28 capacity remains
+Loading cargo1353 onto The Secret Turtle from Luthadel to Midgar 120 capacity remains
+Loading cargo1406 onto The Night Leviathan from Luthadel to Mordor 16 capacity remains
+Loading cargo1551 onto The Shining Galleon from Elantris to Midgar 90 capacity remains
+No ships can carry the cargo1574 from Midgar to Mordor
+No ships can carry the cargo1666 from Midgar to Sarth
+No ships can carry the cargo1712 from Luthadel to Mordor
+No ships can carry the cargo1748 from Luthadel to Sarth
+No ships can carry the cargo1775 from Elantris to Mordor
+No ships can carry the cargo1932 from Mordor to Midgar
+Loading cargo1959 onto The Queen's Phoenix from Luthadel to Mordor 100 capacity remains
+Loading cargo0 onto The Shining Turtle from Midgar to Elantris 8 capacity remains
+No ships can carry the cargo253 from Mordor to Luthadel
+Loading cargo259 onto The Secret Turtle from Luthadel to Midgar 81 capacity remains
+No ships can carry the cargo272 from Mordor to Luthadel
+No ships can carry the cargo346 from Midgar to Elantris
+No ships can carry the cargo531 from Mordor to Elantris
+No ships can carry the cargo541 from Sarth to Luthadel
+Loading cargo594 onto The King's Shark from Mordor to Midgar 59 capacity remains
+Loading cargo667 onto The Queen's Phoenix from Luthadel to Mordor 61 capacity remains
+Loading cargo816 onto The King's Shark from Mordor to Midgar 20 capacity remains
+No ships can carry the cargo954 from Mordor to Elantris
+Loading cargo1033 onto The Secret Turtle from Luthadel to Midgar 42 capacity remains
+No ships can carry the cargo1066 from Midgar to Elantris
+No ships can carry the cargo1440 from Mordor to Sarth
+No ships can carry the cargo1547 from Mordor to Luthadel
+Loading cargo1572 onto The Slippery Galleon from Luthadel to Elantris 10 capacity remains
+No ships can carry the cargo1722 from Elantris to Midgar
+Loading cargo1884 onto The Secret Turtle from Luthadel to Midgar 3 capacity remains
+Loading cargo1982 onto The Queen's Eagle from Luthadel to Sarth 100 capacity remains
+Loading cargo308 onto The Secret Narwhal from Elantris to Mordor 0 capacity remains
+No ships can carry the cargo454 from Sarth to Mordor
+Loading cargo604 onto The Queen's Eagle from Luthadel to Sarth 62 capacity remains
+No ships can carry the cargo613 from Sarth to Elantris
+No ships can carry the cargo740 from Elantris to Mordor
+Loading cargo795 onto The Queen's Phoenix from Luthadel to Mordor 23 capacity remains
+No ships can carry the cargo1206 from Elantris to Mordor
+Loading cargo1596 onto The Misty Eagle from Midgar to Luthadel 58 capacity remains
+No ships can carry the cargo1790 from Elantris to Sarth
+Loading cargo127 onto The Secret Eagle from Luthadel to Midgar 143 capacity remains
+No ships can carry the cargo143 from Sarth to Elantris
+No ships can carry the cargo212 from Mordor to Luthadel
+No ships can carry the cargo333 from Midgar to Elantris
+Loading cargo389 onto The Swift Eel from Mordor to Midgar 153 capacity remains
+Loading cargo465 onto The Secret Eagle from Luthadel to Midgar 106 capacity remains
+No ships can carry the cargo569 from Midgar to Elantris
+Loading cargo823 onto The Swift Eel from Mordor to Midgar 116 capacity remains
+No ships can carry the cargo886 from Midgar to Sarth
+No ships can carry the cargo1190 from Mordor to Elantris
+Loading cargo1224 onto The Swift Eel from Mordor to Midgar 79 capacity remains
+Loading cargo1481 onto The Queen's Eel from Luthadel to Elantris 8 capacity remains
+Loading cargo1696 onto The Misty Eagle from Midgar to Luthadel 21 capacity remains
+Loading cargo1701 onto The Queen's Eagle from Luthadel to Sarth 25 capacity remains
+No ships can carry the cargo1782 from Midgar to Sarth
+Loading cargo1999 onto The Dawn Eel from Midgar to Luthadel 5 capacity remains
+No ships can carry the cargo370 from Sarth to Elantris
+No ships can carry the cargo491 from Luthadel to Sarth
+Loading cargo675 onto The Swift Eel from Mordor to Midgar 43 capacity remains
+No ships can carry the cargo777 from Midgar to Luthadel
+Loading cargo831 onto The Night Snake from Mordor to Luthadel 0 capacity remains
+No ships can carry the cargo893 from Luthadel to Sarth
+No ships can carry the cargo960 from Midgar to Elantris
+No ships can carry the cargo970 from Sarth to Midgar
+No ships can carry the cargo1005 from Elantris to Mordor
+No ships can carry the cargo1006 from Midgar to Luthadel
+No ships can carry the cargo1031 from Midgar to Luthadel
+Loading cargo1140 onto The Secret Eagle from Luthadel to Midgar 70 capacity remains
+No ships can carry the cargo1158 from Mordor to Luthadel
+No ships can carry the cargo1159 from Sarth to Midgar
+No ships can carry the cargo1248 from Elantris to Sarth
+No ships can carry the cargo1288 from Mordor to Sarth
+No ships can carry the cargo1354 from Elantris to Luthadel
+Loading cargo1386 onto The Swift Eel from Mordor to Midgar 7 capacity remains
+No ships can carry the cargo1457 from Luthadel to Sarth
+No ships can carry the cargo1587 from Mordor to Midgar
+Loading cargo1698 onto The Royal Phoenix from Luthadel to Mordor 134 capacity remains
+No ships can carry the cargo1702 from Sarth to Elantris
+Loading cargo1795 onto The Royal Phoenix from Luthadel to Mordor 98 capacity remains
+No ships can carry the cargo1923 from Midgar to Luthadel
+No ships can carry the cargo23 from Sarth to Luthadel
+No ships can carry the cargo211 from Mordor to Elantris
+Loading cargo344 onto The Secret Shark from Midgar to Sarth 0 capacity remains
+No ships can carry the cargo581 from Mordor to Luthadel
+No ships can carry the cargo603 from Elantris to Sarth
+No ships can carry the cargo634 from Mordor to Luthadel
+No ships can carry the cargo635 from Midgar to Luthadel
+Loading cargo640 onto The Wooden Kraken from Midgar to Mordor 0 capacity remains
+No ships can carry the cargo692 from Midgar to Mordor
+Loading cargo773 onto The Secret Galleon from Luthadel to Elantris 5 capacity remains
+No ships can carry the cargo1057 from Sarth to Elantris
+No ships can carry the cargo1132 from Sarth to Luthadel
+No ships can carry the cargo1427 from Midgar to Luthadel
+No ships can carry the cargo1455 from Luthadel to Midgar
+Loading cargo1561 onto The Majestic Galleon from Mordor to Luthadel 1000 capacity remains
+No ships can carry the cargo1739 from Midgar to Elantris
+No ships can carry the cargo1832 from Elantris to Luthadel
+No ships can carry the cargo316 from Luthadel to Sarth
+No ships can carry the cargo356 from Mordor to Luthadel
+No ships can carry the cargo440 from Midgar to Mordor
+No ships can carry the cargo489 from Mordor to Midgar
+No ships can carry the cargo532 from Elantris to Mordor
+Loading cargo540 onto The Shining Dolphin from Luthadel to Elantris 126 capacity remains
+No ships can carry the cargo574 from Luthadel to Sarth
+Loading cargo617 onto The Royal Phoenix from Luthadel to Mordor 64 capacity remains
+No ships can carry the cargo680 from Midgar to Elantris
+No ships can carry the cargo857 from Mordor to Midgar
+No ships can carry the cargo1078 from Midgar to Luthadel
+No ships can carry the cargo1265 from Elantris to Sarth
+No ships can carry the cargo1295 from Luthadel to Sarth
+No ships can carry the cargo1321 from Midgar to Mordor
+No ships can carry the cargo1527 from Mordor to Luthadel
+No ships can carry the cargo6 from Mordor to Luthadel
+No ships can carry the cargo50 from Midgar to Luthadel
+No ships can carry the cargo167 from Elantris to Midgar
+No ships can carry the cargo422 from Mordor to Elantris
+No ships can carry the cargo582 from Elantris to Luthadel
+No ships can carry the cargo691 from Midgar to Sarth
+No ships can carry the cargo817 from Midgar to Mordor
+No ships can carry the cargo965 from Midgar to Sarth
+No ships can carry the cargo1080 from Sarth to Mordor
+No ships can carry the cargo1172 from Mordor to Luthadel
+No ships can carry the cargo1269 from Mordor to Midgar
+Loading cargo1420 onto The Secret Eagle from Luthadel to Midgar 37 capacity remains
+No ships can carry the cargo1747 from Mordor to Sarth
+No ships can carry the cargo1834 from Mordor to Midgar
+No ships can carry the cargo1835 from Elantris to Midgar
+No ships can carry the cargo1881 from Mordor to Sarth
+No ships can carry the cargo1905 from Midgar to Luthadel
+No ships can carry the cargo192 from Midgar to Elantris
+No ships can carry the cargo264 from Midgar to Luthadel
+No ships can carry the cargo341 from Mordor to Midgar
+Loading cargo495 onto The Royal Phoenix from Luthadel to Mordor 32 capacity remains
+No ships can carry the cargo586 from Mordor to Midgar
+No ships can carry the cargo620 from Mordor to Midgar
+No ships can carry the cargo934 from Midgar to Luthadel
+No ships can carry the cargo1300 from Midgar to Sarth
+No ships can carry the cargo1690 from Mordor to Elantris
+No ships can carry the cargo1845 from Midgar to Mordor
+No ships can carry the cargo1888 from Elantris to Midgar
+No ships can carry the cargo1911 from Midgar to Luthadel
+No ships can carry the cargo5 from Midgar to Mordor
+No ships can carry the cargo45 from Sarth to Midgar
+Loading cargo61 onto The Secret Eagle from Luthadel to Midgar 6 capacity remains
+No ships can carry the cargo117 from Elantris to Luthadel
+No ships can carry the cargo354 from Sarth to Midgar
+No ships can carry the cargo404 from Elantris to Mordor
+No ships can carry the cargo416 from Mordor to Midgar
+No ships can carry the cargo449 from Mordor to Luthadel
+No ships can carry the cargo715 from Sarth to Midgar
+No ships can carry the cargo750 from Elantris to Mordor
+No ships can carry the cargo902 from Luthadel to Sarth
+No ships can carry the cargo1032 from Mordor to Luthadel
+Loading cargo1351 onto The Swift Clipper from Luthadel to Midgar 159 capacity remains
+No ships can carry the cargo1466 from Mordor to Midgar
+No ships can carry the cargo1595 from Midgar to Mordor
+Loading cargo1705 onto The Shining Dolphin from Luthadel to Elantris 95 capacity remains
+Loading cargo1930 onto The Swift Clipper from Luthadel to Midgar 128 capacity remains
+Loading cargo1966 onto The Swift Clipper from Luthadel to Midgar 97 capacity remains
+No ships can carry the cargo1968 from Midgar to Luthadel
+No ships can carry the cargo56 from Mordor to Luthadel
+Loading cargo119 onto The Secret Dragon from Sarth to Luthadel 2 capacity remains
+Loading cargo160 onto The Swift Clipper from Luthadel to Midgar 67 capacity remains
+No ships can carry the cargo334 from Mordor to Sarth
+No ships can carry the cargo651 from Midgar to Elantris
+No ships can carry the cargo664 from Mordor to Luthadel
+No ships can carry the cargo767 from Midgar to Luthadel
+No ships can carry the cargo837 from Midgar to Luthadel
+Loading cargo871 onto The Wet Clipper from Luthadel to Midgar 0 capacity remains
+Loading cargo909 onto The Wet Hawk from Mordor to Sarth 2 capacity remains
+No ships can carry the cargo1026 from Mordor to Midgar
+No ships can carry the cargo1102 from Midgar to Mordor
+Loading cargo1317 onto The Slippery Phoenix from Midgar to Sarth 1605 capacity remains
+Loading cargo1363 onto The Royal Phoenix from Luthadel to Mordor 2 capacity remains
+No ships can carry the cargo1471 from Midgar to Luthadel
+No ships can carry the cargo1658 from Mordor to Sarth
+Loading cargo1780 onto The Secret Hawk from Luthadel to Sarth 0 capacity remains
+No ships can carry the cargo1793 from Mordor to Luthadel
+No ships can carry the cargo1843 from Mordor to Midgar
+No ships can carry the cargo1860 from Mordor to Luthadel
+Loading cargo1885 onto The Swift Clipper from Luthadel to Midgar 37 capacity remains
+No ships can carry the cargo1941 from Midgar to Mordor
+No ships can carry the cargo91 from Mordor to Midgar
+No ships can carry the cargo106 from Mordor to Luthadel
+No ships can carry the cargo225 from Elantris to Mordor
+No ships can carry the cargo293 from Sarth to Midgar
+No ships can carry the cargo311 from Mordor to Luthadel
+No ships can carry the cargo467 from Midgar to Luthadel
+Loading cargo690 onto The Royal Turtle from Luthadel to Mordor 141 capacity remains
+No ships can carry the cargo716 from Mordor to Luthadel
+Loading cargo724 onto The Royal Turtle from Luthadel to Mordor 112 capacity remains
+Loading cargo836 onto The Shining Dolphin from Luthadel to Elantris 66 capacity remains
+Loading cargo922 onto The Shining Dolphin from Luthadel to Elantris 37 capacity remains
+No ships can carry the cargo935 from Elantris to Midgar
+No ships can carry the cargo947 from Elantris to Midgar
+No ships can carry the cargo1118 from Elantris to Mordor
+Loading cargo1184 onto The Swift Clipper from Luthadel to Midgar 8 capacity remains
+No ships can carry the cargo1255 from Mordor to Midgar
+No ships can carry the cargo1396 from Mordor to Luthadel
+No ships can carry the cargo1470 from Elantris to Midgar
+No ships can carry the cargo1645 from Mordor to Midgar
+No ships can carry the cargo1672 from Luthadel to Sarth
+No ships can carry the cargo1879 from Midgar to Mordor
+Loading cargo1981 onto The Shining Dolphin from Luthadel to Elantris 8 capacity remains
+No ships can carry the cargo374 from Midgar to Elantris
+No ships can carry the cargo703 from Midgar to Mordor
+No ships can carry the cargo709 from Mordor to Luthadel
+No ships can carry the cargo829 from Sarth to Mordor
+No ships can carry the cargo997 from Mordor to Elantris
+No ships can carry the cargo1441 from Elantris to Midgar
+Loading cargo1456 onto The Majestic Snake from Luthadel to Elantris 3 capacity remains
+Loading cargo1564 onto The Misty Phoenix from Luthadel to Midgar 0 capacity remains
+No ships can carry the cargo1682 from Midgar to Mordor
+No ships can carry the cargo1760 from Elantris to Sarth
+No ships can carry the cargo1764 from Midgar to Luthadel
+Loading cargo1948 onto The Royal Turtle from Luthadel to Mordor 84 capacity remains
+No ships can carry the cargo54 from Midgar to Luthadel
+Loading cargo204 onto The Misty Dreadnought from Sarth to Luthadel 4 capacity remains
+No ships can carry the cargo205 from Midgar to Mordor
+No ships can carry the cargo233 from Midgar to Sarth
+No ships can carry the cargo367 from Midgar to Luthadel
+No ships can carry the cargo470 from Elantris to Midgar
+No ships can carry the cargo509 from Mordor to Elantris
+No ships can carry the cargo618 from Mordor to Midgar
+No ships can carry the cargo839 from Mordor to Midgar
+No ships can carry the cargo869 from Midgar to Mordor
+No ships can carry the cargo984 from Midgar to Luthadel
+No ships can carry the cargo1129 from Mordor to Midgar
+No ships can carry the cargo1187 from Mordor to Midgar
+No ships can carry the cargo1348 from Elantris to Luthadel
+No ships can carry the cargo1464 from Midgar to Mordor
+No ships can carry the cargo1511 from Mordor to Sarth
+No ships can carry the cargo1556 from Mordor to Sarth
+No ships can carry the cargo1589 from Elantris to Mordor
+Loading cargo1639 onto The Royal Turtle from Luthadel to Mordor 57 capacity remains
+No ships can carry the cargo1865 from Mordor to Elantris
+Loading cargo1917 onto The Royal Turtle from Luthadel to Mordor 30 capacity remains
+No ships can carry the cargo1967 from Midgar to Luthadel
+No ships can carry the cargo2 from Luthadel to Sarth
+Loading cargo39 onto The Royal Turtle from Luthadel to Mordor 4 capacity remains
+No ships can carry the cargo80 from Luthadel to Mordor
+No ships can carry the cargo136 from Luthadel to Midgar
+No ships can carry the cargo476 from Luthadel to Mordor
+No ships can carry the cargo697 from Sarth to Midgar
+No ships can carry the cargo738 from Sarth to Elantris
+No ships can carry the cargo794 from Midgar to Mordor
+No ships can carry the cargo1139 from Mordor to Midgar
+No ships can carry the cargo1240 from Midgar to Luthadel
+No ships can carry the cargo1434 from Midgar to Mordor
+No ships can carry the cargo1487 from Luthadel to Sarth
+No ships can carry the cargo1699 from Midgar to Luthadel
+No ships can carry the cargo1876 from Mordor to Elantris
+No ships can carry the cargo1882 from Luthadel to Midgar
+No ships can carry the cargo181 from Midgar to Mordor
+No ships can carry the cargo224 from Sarth to Elantris
+No ships can carry the cargo355 from Luthadel to Mordor
+No ships can carry the cargo411 from Mordor to Midgar
+No ships can carry the cargo471 from Midgar to Mordor
+No ships can carry the cargo632 from Midgar to Mordor
+No ships can carry the cargo730 from Luthadel to Midgar
+No ships can carry the cargo756 from Mordor to Sarth
+No ships can carry the cargo833 from Mordor to Sarth
+No ships can carry the cargo1040 from Sarth to Luthadel
+No ships can carry the cargo1130 from Midgar to Luthadel
+No ships can carry the cargo1305 from Mordor to Luthadel
+No ships can carry the cargo1383 from Sarth to Mordor
+No ships can carry the cargo1563 from Luthadel to Midgar
+No ships can carry the cargo1573 from Midgar to Elantris
+No ships can carry the cargo1614 from Luthadel to Midgar
+No ships can carry the cargo1799 from Mordor to Midgar
+No ships can carry the cargo1856 from Sarth to Mordor
+No ships can carry the cargo1936 from Mordor to Luthadel
+No ships can carry the cargo34 from Midgar to Luthadel
+No ships can carry the cargo114 from Mordor to Sarth
+No ships can carry the cargo178 from Luthadel to Midgar
+No ships can carry the cargo217 from Midgar to Sarth
+No ships can carry the cargo257 from Midgar to Elantris
+No ships can carry the cargo357 from Sarth to Mordor
+No ships can carry the cargo386 from Luthadel to Midgar
+No ships can carry the cargo481 from Luthadel to Elantris
+No ships can carry the cargo493 from Mordor to Luthadel
+Loading cargo575 onto The Shining Eel from Elantris to Luthadel 1 capacity remains
+No ships can carry the cargo725 from Mordor to Midgar
+No ships can carry the cargo1096 from Mordor to Sarth
+No ships can carry the cargo1149 from Mordor to Luthadel
+Loading cargo1219 onto The Queen's Eagle from Luthadel to Sarth 1 capacity remains
+No ships can carry the cargo1278 from Luthadel to Midgar
+Loading cargo1575 onto The Wooden Phoenix from Luthadel to Mordor 0 capacity remains
+No ships can carry the cargo1590 from Midgar to Luthadel
+No ships can carry the cargo1648 from Elantris to Sarth
+No ships can carry the cargo1730 from Mordor to Midgar
+No ships can carry the cargo1736 from Midgar to Sarth
+No ships can carry the cargo1814 from Sarth to Midgar
+No ships can carry the cargo1976 from Midgar to Mordor
+Loading cargo239 onto The Queen's Phoenix from Luthadel to Mordor 0 capacity remains
+Loading cargo296 onto The Wooden Shark from Mordor to Luthadel 0 capacity remains
+No ships can carry the cargo410 from Luthadel to Mordor
+No ships can carry the cargo428 from Midgar to Elantris
+No ships can carry the cargo546 from Mordor to Sarth
+No ships can carry the cargo567 from Mordor to Midgar
+No ships can carry the cargo674 from Midgar to Luthadel
+No ships can carry the cargo700 from Luthadel to Midgar
+No ships can carry the cargo707 from Mordor to Sarth
+Loading cargo1164 onto The Misty Galleon from Luthadel to Sarth 0 capacity remains
+No ships can carry the cargo1379 from Luthadel to Midgar
+No ships can carry the cargo1417 from Luthadel to Mordor
+No ships can carry the cargo1604 from Luthadel to Midgar
+No ships can carry the cargo1706 from Elantris to Mordor
+No ships can carry the cargo1853 from Mordor to Elantris
+No ships can carry the cargo1956 from Sarth to Midgar
+No ships can carry the cargo1994 from Midgar to Mordor
+No ships can carry the cargo68 from Mordor to Midgar
+No ships can carry the cargo324 from Luthadel to Midgar
+No ships can carry the cargo340 from Mordor to Sarth
+No ships can carry the cargo359 from Midgar to Luthadel
+No ships can carry the cargo477 from Mordor to Midgar
+No ships can carry the cargo485 from Luthadel to Mordor
+No ships can carry the cargo626 from Mordor to Sarth
+No ships can carry the cargo774 from Midgar to Mordor
+No ships can carry the cargo791 from Mordor to Sarth
+No ships can carry the cargo888 from Midgar to Mordor
+No ships can carry the cargo933 from Luthadel to Midgar
+No ships can carry the cargo1002 from Elantris to Luthadel
+No ships can carry the cargo1051 from Luthadel to Mordor
+No ships can carry the cargo1543 from Midgar to Mordor
+No ships can carry the cargo1668 from Elantris to Luthadel
+No ships can carry the cargo1670 from Luthadel to Mordor
+No ships can carry the cargo1676 from Elantris to Mordor
+No ships can carry the cargo1811 from Sarth to Midgar
+No ships can carry the cargo1841 from Mordor to Sarth
+No ships can carry the cargo1874 from Sarth to Mordor
+No ships can carry the cargo1922 from Luthadel to Elantris
+No ships can carry the cargo19 from Midgar to Mordor
+Loading cargo116 onto The Misty Shark from Mordor to Elantris 1 capacity remains
+Loading cargo140 onto The Misty Eagle from Midgar to Luthadel 0 capacity remains
+No ships can carry the cargo503 from Mordor to Luthadel
+No ships can carry the cargo843 from Elantris to Sarth
+No ships can carry the cargo895 from Mordor to Sarth
+No ships can carry the cargo917 from Mordor to Luthadel
+No ships can carry the cargo1055 from Midgar to Sarth
+No ships can carry the cargo1133 from Luthadel to Elantris
+No ships can carry the cargo1143 from Mordor to Elantris
+No ships can carry the cargo1236 from Sarth to Luthadel
+No ships can carry the cargo1263 from Elantris to Mordor
+No ships can carry the cargo1533 from Mordor to Sarth
+No ships can carry the cargo1542 from Midgar to Elantris
+No ships can carry the cargo450 from Sarth to Luthadel
+Loading cargo696 onto The King's Shark from Mordor to Midgar 0 capacity remains
+No ships can carry the cargo779 from Mordor to Luthadel
+No ships can carry the cargo802 from Mordor to Elantris
+Loading cargo905 onto The Slippery Dolphin from Midgar to Luthadel 0 capacity remains
+Loading cargo1122 onto The Dawn Galleon from Mordor to Luthadel 40 capacity remains
+No ships can carry the cargo1144 from Mordor to Midgar
+No ships can carry the cargo1296 from Sarth to Midgar
+No ships can carry the cargo1329 from Elantris to Midgar
+No ships can carry the cargo1535 from Mordor to Luthadel
+No ships can carry the cargo1606 from Mordor to Elantris
+No ships can carry the cargo1681 from Mordor to Elantris
+No ships can carry the cargo1758 from Luthadel to Sarth
+No ships can carry the cargo1935 from Luthadel to Elantris
+No ships can carry the cargo24 from Sarth to Midgar
+No ships can carry the cargo280 from Mordor to Luthadel
+No ships can carry the cargo330 from Mordor to Luthadel
+No ships can carry the cargo1221 from Luthadel to Sarth
+No ships can carry the cargo1254 from Elantris to Midgar
+No ships can carry the cargo1613 from Mordor to Elantris
+No ships can carry the cargo1620 from Elantris to Mordor
+No ships can carry the cargo1810 from Luthadel to Mordor
+No ships can carry the cargo267 from Luthadel to Mordor
+No ships can carry the cargo513 from Mordor to Luthadel
+No ships can carry the cargo701 from Midgar to Elantris
+No ships can carry the cargo733 from Midgar to Luthadel
+Loading cargo1121 onto The Dawn Boat from Midgar to Mordor 0 capacity remains
+No ships can carry the cargo1199 from Mordor to Elantris
+No ships can carry the cargo1299 from Luthadel to Sarth
+No ships can carry the cargo1411 from Luthadel to Sarth
+No ships can carry the cargo1419 from Sarth to Luthadel
+No ships can carry the cargo1653 from Luthadel to Elantris
+Loading cargo1745 onto The Night Dreadnought from Luthadel to Midgar 2 capacity remains
+No ships can carry the cargo1796 from Sarth to Midgar
+No ships can carry the cargo1826 from Luthadel to Midgar
+No ships can carry the cargo1846 from Luthadel to Midgar
+No ships can carry the cargo247 from Midgar to Sarth
+No ships can carry the cargo661 from Mordor to Midgar
+No ships can carry the cargo671 from Midgar to Luthadel
+No ships can carry the cargo801 from Mordor to Sarth
+No ships can carry the cargo878 from Midgar to Luthadel
+No ships can carry the cargo892 from Luthadel to Elantris
+No ships can carry the cargo1347 from Elantris to Midgar
+No ships can carry the cargo1403 from Mordor to Midgar
+No ships can carry the cargo1553 from Luthadel to Elantris
+No ships can carry the cargo1963 from Midgar to Mordor
+No ships can carry the cargo94 from Mordor to Midgar
+No ships can carry the cargo121 from Luthadel to Midgar
+No ships can carry the cargo368 from Midgar to Mordor
+Loading cargo596 onto The Majestic Turtle from Mordor to Elantris 1 capacity remains
+No ships can carry the cargo679 from Midgar to Sarth
+No ships can carry the cargo814 from Luthadel to Midgar
+No ships can carry the cargo920 from Elantris to Midgar
+No ships can carry the cargo938 from Midgar to Mordor
+No ships can carry the cargo1077 from Midgar to Elantris
+No ships can carry the cargo1162 from Midgar to Sarth
+No ships can carry the cargo1490 from Mordor to Elantris
+No ships can carry the cargo1567 from Mordor to Midgar
+No ships can carry the cargo1783 from Midgar to Mordor
+No ships can carry the cargo1857 from Elantris to Midgar
+No ships can carry the cargo21 from Elantris to Sarth
+No ships can carry the cargo179 from Elantris to Sarth
+Loading cargo289 onto The Royal Boat from Mordor to Sarth 55 capacity remains
+No ships can carry the cargo376 from Mordor to Midgar
+Loading cargo434 onto The Night Leviathan from Luthadel to Mordor 1 capacity remains
+Loading cargo523 onto The Wooden Leviathan from Luthadel to Mordor 1565 capacity remains
+No ships can carry the cargo766 from Midgar to Luthadel
+No ships can carry the cargo937 from Mordor to Luthadel
+No ships can carry the cargo957 from Luthadel to Mordor
+Loading cargo993 onto The Misty Leviathan from Midgar to Luthadel 1155 capacity remains
+No ships can carry the cargo1075 from Midgar to Luthadel
+No ships can carry the cargo1237 from Mordor to Sarth
+No ships can carry the cargo1264 from Sarth to Midgar
+Loading cargo1424 onto The Shining Eagle from Luthadel to Midgar 0 capacity remains
+No ships can carry the cargo1474 from Elantris to Mordor
+No ships can carry the cargo1616 from Sarth to Midgar
+No ships can carry the cargo1759 from Mordor to Luthadel
+No ships can carry the cargo29 from Midgar to Mordor
+No ships can carry the cargo369 from Elantris to Mordor
+No ships can carry the cargo507 from Sarth to Mordor
+No ships can carry the cargo987 from Mordor to Luthadel
+No ships can carry the cargo1052 from Midgar to Mordor
+No ships can carry the cargo782 from Midgar to Mordor
+No ships can carry the cargo810 from Midgar to Elantris
+No ships can carry the cargo1108 from Elantris to Midgar
+No ships can carry the cargo1359 from Luthadel to Sarth
+No ships can carry the cargo1410 from Mordor to Luthadel
+No ships can carry the cargo1459 from Mordor to Midgar
+No ships can carry the cargo1510 from Elantris to Luthadel
+No ships can carry the cargo1516 from Elantris to Mordor
+No ships can carry the cargo1657 from Mordor to Sarth
+No ships can carry the cargo1707 from Mordor to Luthadel
+No ships can carry the cargo1735 from Luthadel to Elantris
+No ships can carry the cargo93 from Elantris to Mordor
+No ships can carry the cargo464 from Elantris to Midgar
+No ships can carry the cargo530 from Mordor to Sarth
+No ships can carry the cargo856 from Midgar to Luthadel
+No ships can carry the cargo956 from Mordor to Midgar
+No ships can carry the cargo1047 from Luthadel to Mordor
+No ships can carry the cargo1477 from Midgar to Luthadel
+No ships can carry the cargo1493 from Sarth to Midgar
+No ships can carry the cargo1750 from Luthadel to Midgar
+No ships can carry the cargo1816 from Midgar to Elantris
+No ships can carry the cargo1849 from Luthadel to Elantris
+Loading cargo1983 onto The Royal Kraken from Sarth to Mordor 1 capacity remains
+No ships can carry the cargo20 from Midgar to Mordor
+No ships can carry the cargo130 from Elantris to Midgar
+No ships can carry the cargo589 from Midgar to Luthadel
+Loading cargo600 onto The Majestic Dolphin from Luthadel to Sarth 0 capacity remains
+No ships can carry the cargo687 from Mordor to Luthadel
+No ships can carry the cargo759 from Luthadel to Mordor
+No ships can carry the cargo809 from Elantris to Midgar
+No ships can carry the cargo1430 from Midgar to Elantris
+No ships can carry the cargo1667 from Mordor to Luthadel
+No ships can carry the cargo1798 from Mordor to Luthadel
+Loading cargo1813 onto The Majestic Eel from Sarth to Luthadel 6 capacity remains
+Loading cargo451 onto The Slippery Galleon from Luthadel to Elantris 0 capacity remains
+No ships can carry the cargo685 from Luthadel to Mordor
+No ships can carry the cargo859 from Luthadel to Elantris
+No ships can carry the cargo1560 from Midgar to Luthadel
+No ships can carry the cargo1562 from Sarth to Luthadel
+No ships can carry the cargo1597 from Mordor to Luthadel
+No ships can carry the cargo923 from Midgar to Luthadel
+No ships can carry the cargo113 from Midgar to Sarth
+No ships can carry the cargo343 from Midgar to Luthadel
+Loading cargo457 onto The Slippery Dragon from Midgar to Mordor 1 capacity remains
+No ships can carry the cargo1141 from Mordor to Luthadel
+No ships can carry the cargo1489 from Sarth to Elantris
+Loading cargo1540 onto The Shining Turtle from Midgar to Elantris 0 capacity remains
+Loading cargo185 onto The Shining Dolphin from Luthadel to Elantris 1 capacity remains
+No ships can carry the cargo403 from Midgar to Elantris
+No ships can carry the cargo669 from Elantris to Luthadel
+Loading cargo1375 onto The Swift Eel from Mordor to Midgar 0 capacity remains
+No ships can carry the cargo1508 from Luthadel to Mordor
+No ships can carry the cargo1586 from Mordor to Luthadel
+No ships can carry the cargo97 from Mordor to Luthadel
+No ships can carry the cargo158 from Luthadel to Sarth
+Loading cargo291 onto The Swift Clipper from Luthadel to Midgar 2 capacity remains
+No ships can carry the cargo1106 from Mordor to Midgar
+No ships can carry the cargo236 from Mordor to Sarth
+No ships can carry the cargo1378 from Sarth to Mordor
+Loading cargo1431 onto The Misty Eel from Midgar to Mordor 5 capacity remains
+Loading cargo1939 onto The Secret Eel from Sarth to Midgar 3 capacity remains
+No ships can carry the cargo145 from Sarth to Elantris
+No ships can carry the cargo1233 from Mordor to Luthadel
+---Done Loading---Here are the ships---
+The Animals Ship The Dawn Boat(190/190) is carrying : 
+  cargo608(44)
+  cargo77(43)
+  cargo932(43)
+  cargo102(42)
+  cargo1121(18)
+  does not have a roamer
+The Tanker Ship The Dawn Clipper(760/1000) is carrying : 
+  cargo821(380)
+  cargo739(340)
+  cargo43(40)
+  5 / 5 tanks used
+The Animals Ship The Dawn Dolphin(150/150) is carrying : 
+  cargo419(53)
+  cargo595(53)
+  cargo1041(44)
+  does not have a roamer
+The Container Ship The Dawn Dragon(295/300) is carrying : 
+  cargo649(295)
+  (54) slots remain
+The Container Ship The Dawn Dreadnought(1255/1550) is carrying : 
+  cargo1985(310)
+  cargo662(240)
+  cargo898(240)
+  cargo1773(190)
+  cargo373(115)
+  cargo623(80)
+  cargo1213(80)
+  (38) slots remain
+The Tanker Ship The Dawn Eagle(280/300) is carrying : 
+  cargo438(280)
+  10 / 10 tanks used
+The Animals Ship The Dawn Eel(175/180) is carrying : 
+  cargo443(48)
+  cargo906(45)
+  cargo1211(45)
+  cargo1999(37)
+  does not have a roamer
+The Tanker Ship The Dawn Galleon(360/400) is carrying : 
+  cargo210(340)
+  cargo1122(20)
+  10 / 10 tanks used
+The Container Ship The Dawn Hawk(640/650) is carrying : 
+  cargo699(230)
+  cargo1662(230)
+  cargo1847(180)
+  (37) slots remain
+The Container Ship The Dawn Kraken(2500/2500) is carrying : 
+  cargo41(220)
+  cargo358(220)
+  cargo103(215)
+  cargo447(215)
+  cargo1513(210)
+  cargo332(205)
+  cargo1180(200)
+  cargo720(190)
+  cargo189(165)
+  cargo963(165)
+  cargo1478(150)
+  cargo400(145)
+  cargo164(140)
+  cargo1048(60)
+  (41) slots remain
+The Tanker Ship The Dawn Leviathan(810/900) is carrying : 
+  cargo1820(360)
+  cargo1091(350)
+  cargo1249(100)
+  46 / 50 tanks used
+The Tanker Ship The Dawn Narwhal(620/700) is carrying : 
+  cargo1183(320)
+  cargo1482(300)
+  23 / 25 tanks used
+The Container Ship The Dawn Phoenix(300/300) is carrying : 
+  cargo1584(300)
+  (64) slots remain
+The Container Ship The Dawn Shark(0/2500) is carrying : 
+  (90) slots remain
+The Tanker Ship The Dawn Snake(720/800) is carrying : 
+  cargo1929(260)
+  cargo191(230)
+  cargo1568(230)
+  10 / 10 tanks used
+The Tanker Ship The Dawn Turtle(0/800) is carrying : 
+  0 / 10 tanks used
+The Container Ship The Dawn Whale(0/2700) is carrying : 
+  (50) slots remain
+The Tanker Ship The Gleaming Boat(280/300) is carrying : 
+  cargo1469(280)
+  94 / 100 tanks used
+The Tanker Ship The Gleaming Clipper(250/300) is carrying : 
+  cargo1859(250)
+  42 / 50 tanks used
+The Container Ship The Gleaming Dragon(275/2050) is carrying : 
+  cargo1710(95)
+  cargo1112(90)
+  cargo1687(90)
+  (42) slots remain
+The Container Ship The Gleaming Dreadnought(650/650) is carrying : 
+  cargo979(285)
+  cargo834(270)
+  cargo1384(95)
+  (57) slots remain
+The Tanker Ship The Gleaming Eagle(0/900) is carrying : 
+  0 / 25 tanks used
+The Container Ship The Gleaming Eel(0/1200) is carrying : 
+  (30) slots remain
+The Tanker Ship The Gleaming Galleon(580/600) is carrying : 
+  cargo568(350)
+  cargo202(230)
+  50 / 50 tanks used
+The Container Ship The Gleaming Hawk(0/1650) is carrying : 
+  (80) slots remain
+The Container Ship The Gleaming Kraken(0/1850) is carrying : 
+  (85) slots remain
+The Container Ship The Gleaming Leviathan(0/1900) is carrying : 
+  (60) slots remain
+The Tanker Ship The Gleaming Narwhal(1060/1200) is carrying : 
+  cargo82(350)
+  cargo173(320)
+  cargo1864(320)
+  cargo584(70)
+  24 / 25 tanks used
+The Container Ship The Gleaming Phoenix(395/650) is carrying : 
+  cargo1370(260)
+  cargo1413(135)
+  (68) slots remain
+The Container Ship The Gleaming Shark(300/300) is carrying : 
+  cargo274(300)
+  (84) slots remain
+The Container Ship The Gleaming Snake(795/800) is carrying : 
+  cargo1754(205)
+  cargo390(165)
+  cargo841(165)
+  cargo1039(160)
+  cargo1555(100)
+  (90) slots remain
+The Tanker Ship The Gleaming Turtle(740/800) is carrying : 
+  cargo1160(250)
+  cargo1815(250)
+  cargo161(240)
+  94 / 100 tanks used
+The Container Ship The Gleaming Whale(105/1100) is carrying : 
+  cargo284(105)
+  (59) slots remain
+The Container Ship The King's Boat(690/700) is carrying : 
+  cargo171(290)
+  cargo573(275)
+  cargo384(125)
+  (67) slots remain
+The Container Ship The King's Clipper(0/2450) is carrying : 
+  (75) slots remain
+The Tanker Ship The King's Dolphin(980/1100) is carrying : 
+  cargo194(340)
+  cargo775(330)
+  cargo1692(310)
+  10 / 10 tanks used
+The Tanker Ship The King's Dragon(770/800) is carrying : 
+  cargo52(340)
+  cargo430(340)
+  cargo1357(90)
+  25 / 25 tanks used
+The Tanker Ship The King's Dreadnought(1020/1200) is carrying : 
+  cargo120(260)
+  cargo550(230)
+  cargo1279(190)
+  cargo1137(170)
+  cargo1728(170)
+  23 / 25 tanks used
+The Container Ship The King's Eagle(550/600) is carrying : 
+  cargo387(280)
+  cargo159(270)
+  (53) slots remain
+The Container Ship The King's Eel(1575/1800) is carrying : 
+  cargo845(180)
+  cargo968(180)
+  cargo1887(170)
+  cargo1046(155)
+  cargo1234(145)
+  cargo796(130)
+  cargo1335(130)
+  cargo723(125)
+  cargo190(105)
+  cargo1582(85)
+  cargo66(60)
+  cargo721(55)
+  cargo1352(55)
+  (22) slots remain
+The Tanker Ship The King's Galleon(1060/1100) is carrying : 
+  cargo1763(270)
+  cargo1435(250)
+  cargo1485(240)
+  cargo85(220)
+  cargo1928(80)
+  50 / 50 tanks used
+The Tanker Ship The King's Hawk(280/600) is carrying : 
+  cargo220(280)
+  5 / 10 tanks used
+The Tanker Ship The King's Kraken(450/500) is carrying : 
+  cargo705(290)
+  cargo977(160)
+  45 / 50 tanks used
+The Tanker Ship The King's Leviathan(280/300) is carrying : 
+  cargo1402(220)
+  cargo1871(60)
+  47 / 50 tanks used
+The Container Ship The King's Narwhal(1135/1550) is carrying : 
+  cargo44(190)
+  cargo1713(180)
+  cargo1840(145)
+  cargo789(140)
+  cargo980(135)
+  cargo1408(105)
+  cargo442(85)
+  cargo983(85)
+  cargo848(70)
+  (81) slots remain
+The Tanker Ship The King's Phoenix(280/500) is carrying : 
+  cargo439(280)
+  6 / 10 tanks used
+The Animals Ship The King's Shark(180/180) is carrying : 
+  cargo1439(42)
+  cargo1100(40)
+  cargo594(39)
+  cargo816(39)
+  cargo696(20)
+  has a roamer
+The Container Ship The King's Turtle(0/2700) is carrying : 
+  (85) slots remain
+The Container Ship The King's Whale(405/450) is carrying : 
+  cargo964(340)
+  cargo1789(65)
+  (68) slots remain
+The Container Ship The Majestic Boat(0/1900) is carrying : 
+  (65) slots remain
+The Container Ship The Majestic Clipper(1060/1300) is carrying : 
+  cargo867(210)
+  cargo1534(185)
+  cargo1492(180)
+  cargo722(160)
+  cargo227(140)
+  cargo673(95)
+  cargo1830(90)
+  (88) slots remain
+The Animals Ship The Majestic Dolphin(160/160) is carrying : 
+  cargo899(51)
+  cargo327(50)
+  cargo1069(48)
+  cargo600(11)
+  has a roamer
+The Container Ship The Majestic Dragon(485/600) is carrying : 
+  cargo1661(310)
+  cargo558(175)
+  (53) slots remain
+The Tanker Ship The Majestic Eagle(470/500) is carrying : 
+  cargo1641(340)
+  cargo138(130)
+  24 / 25 tanks used
+The Animals Ship The Majestic Eel(114/120) is carrying : 
+  cargo828(56)
+  cargo409(47)
+  cargo1813(11)
+  has a roamer
+The Container Ship The Majestic Galleon(1100/2100) is carrying : 
+  cargo1446(140)
+  cargo768(135)
+  cargo981(135)
+  cargo1654(125)
+  cargo235(100)
+  cargo787(90)
+  cargo221(75)
+  cargo479(75)
+  cargo1714(75)
+  cargo1995(70)
+  cargo1035(45)
+  cargo1561(35)
+  (43) slots remain
+The Tanker Ship The Majestic Hawk(290/400) is carrying : 
+  cargo1821(290)
+  73 / 100 tanks used
+The Tanker Ship The Majestic Kraken(290/300) is carrying : 
+  cargo298(290)
+  5 / 5 tanks used
+The Container Ship The Majestic Leviathan(450/450) is carrying : 
+  cargo1618(315)
+  cargo1669(135)
+  (78) slots remain
+The Container Ship The Majestic Narwhal(425/450) is carrying : 
+  cargo1624(310)
+  cargo1230(115)
+  (43) slots remain
+The Container Ship The Majestic Phoenix(260/2150) is carrying : 
+  cargo563(110)
+  cargo431(105)
+  cargo1058(45)
+  (92) slots remain
+The Container Ship The Majestic Shark(1650/1700) is carrying : 
+  cargo79(235)
+  cargo1261(230)
+  cargo1743(225)
+  cargo562(195)
+  cargo1276(195)
+  cargo281(190)
+  cargo726(190)
+  cargo1504(190)
+  (87) slots remain
+The Animals Ship The Majestic Snake(127/130) is carrying : 
+  cargo1071(52)
+  cargo633(47)
+  cargo1456(28)
+  has a roamer
+The Animals Ship The Majestic Turtle(159/160) is carrying : 
+  cargo1007(50)
+  cargo1844(47)
+  cargo854(46)
+  cargo596(16)
+  does not have a roamer
+The Container Ship The Majestic Whale(1085/1100) is carrying : 
+  cargo1227(310)
+  cargo372(290)
+  cargo1700(245)
+  cargo681(240)
+  (81) slots remain
+The Container Ship The Misty Boat(235/250) is carrying : 
+  cargo990(235)
+  (84) slots remain
+The Container Ship The Misty Clipper(795/800) is carrying : 
+  cargo295(285)
+  cargo381(275)
+  cargo17(235)
+  (52) slots remain
+The Container Ship The Misty Dolphin(985/2050) is carrying : 
+  cargo1831(150)
+  cargo1957(140)
+  cargo911(135)
+  cargo1806(120)
+  cargo718(105)
+  cargo314(95)
+  cargo31(85)
+  cargo1021(85)
+  cargo1803(70)
+  (71) slots remain
+The Container Ship The Misty Dragon(0/1450) is carrying : 
+  (55) slots remain
+The Animals Ship The Misty Dreadnought(116/120) is carrying : 
+  cargo583(45)
+  cargo1694(44)
+  cargo204(27)
+  has a roamer
+The Animals Ship The Misty Eagle(180/180) is carrying : 
+  cargo100(43)
+  cargo962(41)
+  cargo1596(38)
+  cargo1696(37)
+  cargo140(21)
+  does not have a roamer
+The Animals Ship The Misty Eel(115/120) is carrying : 
+  cargo84(56)
+  cargo663(54)
+  cargo1431(5)
+  does not have a roamer
+The Animals Ship The Misty Galleon(130/130) is carrying : 
+  cargo1549(54)
+  cargo1689(53)
+  cargo1164(23)
+  does not have a roamer
+The Container Ship The Misty Hawk(1605/2300) is carrying : 
+  cargo1731(175)
+  cargo290(170)
+  cargo638(170)
+  cargo1174(150)
+  cargo1214(150)
+  cargo1778(145)
+  cargo1867(145)
+  cargo904(140)
+  cargo1327(130)
+  cargo564(100)
+  cargo1182(85)
+  cargo1607(45)
+  (58) slots remain
+The Container Ship The Misty Kraken(970/1000) is carrying : 
+  cargo656(250)
+  cargo1497(250)
+  cargo261(245)
+  cargo155(225)
+  (61) slots remain
+The Container Ship The Misty Leviathan(1195/2350) is carrying : 
+  cargo1302(175)
+  cargo1391(155)
+  cargo1524(150)
+  cargo96(115)
+  cargo304(115)
+  cargo502(95)
+  cargo944(90)
+  cargo436(80)
+  cargo538(70)
+  cargo783(70)
+  cargo63(65)
+  cargo993(15)
+  (43) slots remain
+The Animals Ship The Misty Narwhal(97/100) is carrying : 
+  cargo771(49)
+  cargo215(48)
+  does not have a roamer
+The Animals Ship The Misty Phoenix(150/150) is carrying : 
+  cargo1326(41)
+  cargo1498(41)
+  cargo1238(40)
+  cargo1564(28)
+  has a roamer
+The Animals Ship The Misty Shark(129/130) is carrying : 
+  cargo1716(55)
+  cargo425(53)
+  cargo116(21)
+  does not have a roamer
+The Container Ship The Misty Snake(740/750) is carrying : 
+  cargo1216(265)
+  cargo949(255)
+  cargo1933(220)
+  (77) slots remain
+The Tanker Ship The Misty Turtle(940/1200) is carrying : 
+  cargo208(400)
+  cargo170(320)
+  cargo364(220)
+  5 / 5 tanks used
+The Tanker Ship The Misty Whale(0/300) is carrying : 
+  0 / 10 tanks used
+The Container Ship The Night Boat(0/1650) is carrying : 
+  (75) slots remain
+The Container Ship The Night Clipper(185/2000) is carrying : 
+  cargo1971(130)
+  cargo1869(55)
+  (83) slots remain
+The Tanker Ship The Night Dolphin(500/500) is carrying : 
+  cargo265(300)
+  cargo432(140)
+  cargo1693(60)
+  25 / 25 tanks used
+The Tanker Ship The Night Dragon(730/800) is carrying : 
+  cargo1445(380)
+  cargo1067(350)
+  92 / 100 tanks used
+The Animals Ship The Night Dreadnought(118/120) is carrying : 
+  cargo1004(51)
+  cargo1975(49)
+  cargo1745(18)
+  does not have a roamer
+The Container Ship The Night Eagle(495/550) is carrying : 
+  cargo1258(295)
+  cargo1372(200)
+  (68) slots remain
+The Tanker Ship The Night Eel(1060/1200) is carrying : 
+  cargo1065(330)
+  cargo1178(320)
+  cargo1223(320)
+  cargo657(90)
+  10 / 10 tanks used
+The Tanker Ship The Night Galleon(630/700) is carrying : 
+  cargo1591(320)
+  cargo207(310)
+  46 / 50 tanks used
+The Tanker Ship The Night Hawk(1040/1100) is carrying : 
+  cargo676(320)
+  cargo377(310)
+  cargo601(310)
+  cargo108(100)
+  10 / 10 tanks used
+The Container Ship The Night Kraken(2150/2300) is carrying : 
+  cargo59(275)
+  cargo64(255)
+  cargo1358(230)
+  cargo148(225)
+  cargo8(220)
+  cargo806(210)
+  cargo921(210)
+  cargo916(180)
+  cargo27(175)
+  cargo1092(170)
+  (75) slots remain
+The Animals Ship The Night Leviathan(139/140) is carrying : 
+  cargo1098(42)
+  cargo1119(42)
+  cargo1406(40)
+  cargo434(15)
+  has a roamer
+The Tanker Ship The Night Narwhal(1000/1200) is carrying : 
+  cargo244(350)
+  cargo1209(290)
+  cargo294(280)
+  cargo940(80)
+  10 / 10 tanks used
+The Container Ship The Night Phoenix(2000/2000) is carrying : 
+  cargo1674(235)
+  cargo1638(230)
+  cargo1181(225)
+  cargo1270(225)
+  cargo1954(215)
+  cargo1784(205)
+  cargo1671(200)
+  cargo1753(200)
+  cargo1801(200)
+  cargo1703(65)
+  (55) slots remain
+The Container Ship The Night Shark(0/2000) is carrying : 
+  (75) slots remain
+The Animals Ship The Night Snake(190/190) is carrying : 
+  cargo1541(52)
+  cargo941(51)
+  cargo1272(51)
+  cargo831(36)
+  does not have a roamer
+The Container Ship The Night Turtle(450/500) is carrying : 
+  cargo882(275)
+  cargo1605(175)
+  (68) slots remain
+The Tanker Ship The Night Whale(1120/1200) is carrying : 
+  cargo456(280)
+  cargo561(280)
+  cargo1970(230)
+  cargo329(220)
+  cargo951(110)
+  25 / 25 tanks used
+The Tanker Ship The Queen's Boat(1180/1200) is carrying : 
+  cargo1855(280)
+  cargo830(270)
+  cargo544(260)
+  cargo1074(250)
+  cargo461(120)
+  100 / 100 tanks used
+The Container Ship The Queen's Clipper(0/2150) is carrying : 
+  (65) slots remain
+The Tanker Ship The Queen's Dolphin(220/1100) is carrying : 
+  cargo306(220)
+  10 / 50 tanks used
+The Animals Ship The Queen's Dragon(160/160) is carrying : 
+  cargo1505(57)
+  cargo1629(56)
+  cargo747(47)
+  has a roamer
+The Container Ship The Queen's Dreadnought(0/1600) is carrying : 
+  (55) slots remain
+The Animals Ship The Queen's Eagle(179/180) is carrying : 
+  cargo1892(41)
+  cargo1982(39)
+  cargo604(38)
+  cargo1701(37)
+  cargo1219(24)
+  does not have a roamer
+The Animals Ship The Queen's Eel(92/100) is carrying : 
+  cargo4(55)
+  cargo1481(37)
+  does not have a roamer
+The Container Ship The Queen's Galleon(850/900) is carrying : 
+  cargo986(285)
+  cargo1938(285)
+  cargo1460(280)
+  (22) slots remain
+The Animals Ship The Queen's Hawk(106/110) is carrying : 
+  cargo460(56)
+  cargo466(50)
+  does not have a roamer
+The Container Ship The Queen's Kraken(0/2650) is carrying : 
+  (75) slots remain
+The Animals Ship The Queen's Leviathan(188/190) is carrying : 
+  cargo1192(48)
+  cargo1293(48)
+  cargo945(47)
+  cargo1070(45)
+  has a roamer
+The Tanker Ship The Queen's Narwhal(700/1200) is carrying : 
+  cargo961(330)
+  cargo592(200)
+  cargo1585(170)
+  31 / 50 tanks used
+The Animals Ship The Queen's Phoenix(140/140) is carrying : 
+  cargo1959(40)
+  cargo667(39)
+  cargo795(38)
+  cargo239(23)
+  has a roamer
+The Container Ship The Queen's Shark(940/1400) is carrying : 
+  cargo1123(300)
+  cargo1117(220)
+  cargo1766(220)
+  cargo1512(200)
+  (41) slots remain
+The Container Ship The Queen's Snake(1940/1950) is carrying : 
+  cargo913(270)
+  cargo1655(265)
+  cargo1679(265)
+  cargo1173(255)
+  cargo880(230)
+  cargo455(225)
+  cargo991(225)
+  cargo13(205)
+  (37) slots remain
+The Tanker Ship The Queen's Turtle(1030/1200) is carrying : 
+  cargo761(220)
+  cargo1640(220)
+  cargo808(200)
+  cargo1509(200)
+  cargo528(190)
+  24 / 25 tanks used
+The Container Ship The Queen's Whale(430/850) is carrying : 
+  cargo1275(225)
+  cargo1245(205)
+  (68) slots remain
+The Container Ship The Royal Boat(1645/1700) is carrying : 
+  cargo337(290)
+  cargo36(285)
+  cargo175(175)
+  cargo1310(165)
+  cargo1536(140)
+  cargo1525(125)
+  cargo1063(120)
+  cargo1400(115)
+  cargo166(110)
+  cargo1301(105)
+  cargo289(15)
+  (74) slots remain
+The Tanker Ship The Royal Clipper(590/900) is carrying : 
+  cargo688(300)
+  cargo1726(290)
+  4 / 5 tanks used
+The Tanker Ship The Royal Dolphin(290/300) is carrying : 
+  cargo1989(290)
+  10 / 10 tanks used
+The Container Ship The Royal Dragon(0/1750) is carrying : 
+  (60) slots remain
+The Tanker Ship The Royal Dreadnought(920/1200) is carrying : 
+  cargo952(280)
+  cargo565(260)
+  cargo1448(260)
+  cargo644(120)
+  10 / 10 tanks used
+The Tanker Ship The Royal Eagle(790/1200) is carrying : 
+  cargo1463(280)
+  cargo237(270)
+  cargo907(240)
+  5 / 5 tanks used
+The Container Ship The Royal Eel(0/2600) is carrying : 
+  (75) slots remain
+The Animals Ship The Royal Galleon(147/150) is carrying : 
+  cargo1205(50)
+  cargo1397(49)
+  cargo321(48)
+  does not have a roamer
+The Container Ship The Royal Hawk(0/650) is carrying : 
+  (45) slots remain
+The Animals Ship The Royal Kraken(169/170) is carrying : 
+  cargo285(56)
+  cargo924(51)
+  cargo702(50)
+  cargo1983(12)
+  has a roamer
+The Container Ship The Royal Leviathan(1320/1400) is carrying : 
+  cargo268(330)
+  cargo309(290)
+  cargo1086(250)
+  cargo847(225)
+  cargo1369(225)
+  (80) slots remain
+The Container Ship The Royal Narwhal(0/1200) is carrying : 
+  (70) slots remain
+The Animals Ship The Royal Phoenix(168/170) is carrying : 
+  cargo1698(36)
+  cargo1795(36)
+  cargo617(34)
+  cargo495(32)
+  cargo1363(30)
+  does not have a roamer
+The Container Ship The Royal Shark(305/350) is carrying : 
+  cargo1465(305)
+  (84) slots remain
+The Animals Ship The Royal Snake(100/100) is carrying : 
+  cargo972(56)
+  cargo959(44)
+  does not have a roamer
+The Animals Ship The Royal Turtle(166/170) is carrying : 
+  cargo690(29)
+  cargo724(29)
+  cargo1948(28)
+  cargo1639(27)
+  cargo1917(27)
+  cargo39(26)
+  has a roamer
+The Tanker Ship The Royal Whale(840/900) is carrying : 
+  cargo743(360)
+  cargo670(330)
+  cargo1099(150)
+  5 / 5 tanks used
+The Container Ship The Sailing Boat(1040/1050) is carrying : 
+  cargo1023(220)
+  cargo1399(210)
+  cargo1612(210)
+  cargo606(205)
+  cargo7(195)
+  (45) slots remain
+The Container Ship The Sailing Clipper(1545/1550) is carrying : 
+  cargo887(315)
+  cargo382(285)
+  cargo1886(270)
+  cargo1449(265)
+  cargo392(250)
+  cargo713(160)
+  (69) slots remain
+The Tanker Ship The Sailing Dragon(460/500) is carrying : 
+  cargo1785(360)
+  cargo1314(100)
+  46 / 50 tanks used
+The Container Ship The Sailing Dreadnought(330/500) is carrying : 
+  cargo1927(330)
+  (54) slots remain
+The Tanker Ship The Sailing Eagle(310/400) is carrying : 
+  cargo729(310)
+  8 / 10 tanks used
+The Tanker Ship The Sailing Eel(260/300) is carrying : 
+  cargo985(170)
+  cargo1003(90)
+  23 / 25 tanks used
+The Container Ship The Sailing Galleon(825/850) is carrying : 
+  cargo1519(240)
+  cargo1792(240)
+  cargo282(135)
+  cargo742(135)
+  cargo1113(75)
+  (40) slots remain
+The Tanker Ship The Sailing Hawk(1100/1200) is carrying : 
+  cargo335(280)
+  cargo631(220)
+  cargo1877(210)
+  cargo1565(200)
+  cargo576(190)
+  25 / 25 tanks used
+The Tanker Ship The Sailing Kraken(390/400) is carrying : 
+  cargo1350(330)
+  cargo69(60)
+  50 / 50 tanks used
+The Tanker Ship The Sailing Leviathan(880/1000) is carrying : 
+  cargo1388(340)
+  cargo1891(340)
+  cargo1056(200)
+  10 / 10 tanks used
+The Animals Ship The Sailing Narwhal(93/100) is carrying : 
+  cargo1320(49)
+  cargo320(44)
+  does not have a roamer
+The Container Ship The Sailing Phoenix(2335/2350) is carrying : 
+  cargo1961(270)
+  cargo473(255)
+  cargo115(250)
+  cargo912(245)
+  cargo629(235)
+  cargo195(225)
+  cargo1212(225)
+  cargo1875(225)
+  cargo1443(210)
+  cargo900(195)
+  (25) slots remain
+The Container Ship The Sailing Shark(2280/2300) is carrying : 
+  cargo1711(220)
+  cargo301(195)
+  cargo1076(190)
+  cargo894(185)
+  cargo578(180)
+  cargo1405(180)
+  cargo1085(175)
+  cargo326(165)
+  cargo896(165)
+  cargo1988(165)
+  cargo1355(160)
+  cargo605(155)
+  cargo754(145)
+  (37) slots remain
+The Container Ship The Sailing Snake(0/950) is carrying : 
+  (60) slots remain
+The Tanker Ship The Sailing Turtle(250/300) is carrying : 
+  cargo1114(250)
+  9 / 10 tanks used
+The Container Ship The Sailing Whale(950/1000) is carrying : 
+  cargo70(330)
+  cargo1285(250)
+  cargo499(220)
+  cargo1325(150)
+  (71) slots remain
+The Container Ship The Secret Boat(1225/2050) is carrying : 
+  cargo549(185)
+  cargo248(180)
+  cargo969(175)
+  cargo1341(170)
+  cargo1250(165)
+  cargo1643(160)
+  cargo1850(110)
+  cargo1602(80)
+  (62) slots remain
+The Tanker Ship The Secret Clipper(500/500) is carrying : 
+  cargo1719(270)
+  cargo1134(230)
+  100 / 100 tanks used
+The Tanker Ship The Secret Dolphin(700/800) is carrying : 
+  cargo1768(340)
+  cargo1418(290)
+  cargo647(70)
+  10 / 10 tanks used
+The Animals Ship The Secret Dragon(118/120) is carrying : 
+  cargo1554(45)
+  cargo548(43)
+  cargo119(30)
+  has a roamer
+The Animals Ship The Secret Eagle(174/180) is carrying : 
+  cargo127(37)
+  cargo465(37)
+  cargo1140(36)
+  cargo1420(33)
+  cargo61(31)
+  does not have a roamer
+The Animals Ship The Secret Eel(167/170) is carrying : 
+  cargo1188(60)
+  cargo1373(52)
+  cargo515(50)
+  cargo1939(5)
+  has a roamer
+The Container Ship The Secret Galleon(1695/1700) is carrying : 
+  cargo1451(260)
+  cargo154(255)
+  cargo142(235)
+  cargo1029(220)
+  cargo1150(220)
+  cargo1095(200)
+  cargo1208(110)
+  cargo1926(95)
+  cargo1777(65)
+  cargo773(35)
+  (50) slots remain
+The Animals Ship The Secret Hawk(170/170) is carrying : 
+  cargo1581(48)
+  cargo338(47)
+  cargo1398(45)
+  cargo1780(30)
+  does not have a roamer
+The Tanker Ship The Secret Kraken(400/500) is carrying : 
+  cargo30(400)
+  8 / 10 tanks used
+The Tanker Ship The Secret Leviathan(0/800) is carrying : 
+  0 / 25 tanks used
+The Animals Ship The Secret Narwhal(170/170) is carrying : 
+  cargo772(51)
+  cargo345(41)
+  cargo353(40)
+  cargo308(38)
+  does not have a roamer
+The Container Ship The Secret Phoenix(830/1600) is carrying : 
+  cargo1215(195)
+  cargo458(160)
+  cargo734(160)
+  cargo1901(160)
+  cargo1226(85)
+  cargo781(70)
+  (69) slots remain
+The Animals Ship The Secret Shark(190/190) is carrying : 
+  cargo1084(56)
+  cargo1953(51)
+  cargo437(48)
+  cargo344(35)
+  does not have a roamer
+The Container Ship The Secret Snake(1235/1250) is carrying : 
+  cargo1818(255)
+  cargo1376(250)
+  cargo157(245)
+  cargo1109(245)
+  cargo1934(240)
+  (80) slots remain
+The Animals Ship The Secret Turtle(157/160) is carrying : 
+  cargo1353(40)
+  cargo259(39)
+  cargo1033(39)
+  cargo1884(39)
+  does not have a roamer
+The Tanker Ship The Secret Whale(380/1000) is carrying : 
+  cargo1104(170)
+  cargo1217(110)
+  cargo1307(100)
+  20 / 50 tanks used
+The Container Ship The Shining Boat(360/450) is carrying : 
+  cargo472(220)
+  cargo930(140)
+  (68) slots remain
+The Container Ship The Shining Clipper(410/1150) is carrying : 
+  cargo942(225)
+  cargo927(110)
+  cargo1900(75)
+  (47) slots remain
+The Animals Ship The Shining Dolphin(159/160) is carrying : 
+  cargo540(34)
+  cargo1705(31)
+  cargo836(29)
+  cargo922(29)
+  cargo1981(29)
+  cargo185(7)
+  has a roamer
+The Container Ship The Shining Dragon(1790/1850) is carrying : 
+  cargo943(200)
+  cargo1557(200)
+  cargo1609(150)
+  cargo1997(150)
+  cargo593(145)
+  cargo1709(145)
+  cargo1974(145)
+  cargo995(130)
+  cargo1502(115)
+  cargo1883(115)
+  cargo1889(105)
+  cargo1202(100)
+  cargo83(90)
+  (32) slots remain
+The Tanker Ship The Shining Dreadnought(1070/1100) is carrying : 
+  cargo1921(260)
+  cargo717(240)
+  cargo1315(220)
+  cargo976(210)
+  cargo946(140)
+  50 / 50 tanks used
+The Animals Ship The Shining Eagle(140/140) is carrying : 
+  cargo107(42)
+  cargo1483(42)
+  cargo366(41)
+  cargo1424(15)
+  does not have a roamer
+The Animals Ship The Shining Eel(179/180) is carrying : 
+  cargo1680(57)
+  cargo1438(51)
+  cargo542(47)
+  cargo575(24)
+  does not have a roamer
+The Tanker Ship The Shining Galleon(210/300) is carrying : 
+  cargo1788(170)
+  cargo1551(40)
+  19 / 25 tanks used
+The Container Ship The Shining Hawk(1710/1750) is carrying : 
+  cargo1432(265)
+  cargo1588(255)
+  cargo118(250)
+  cargo362(250)
+  cargo1151(250)
+  cargo263(220)
+  cargo804(220)
+  (93) slots remain
+The Tanker Ship The Shining Kraken(1030/1100) is carrying : 
+  cargo147(240)
+  cargo497(230)
+  cargo1338(220)
+  cargo622(210)
+  cargo1644(130)
+  25 / 25 tanks used
+The Container Ship The Shining Leviathan(1665/1700) is carrying : 
+  cargo1001(275)
+  cargo1819(275)
+  cargo496(255)
+  cargo1167(255)
+  cargo1660(250)
+  cargo1390(210)
+  cargo452(145)
+  (78) slots remain
+The Container Ship The Shining Narwhal(625/1600) is carrying : 
+  cargo40(250)
+  cargo1552(225)
+  cargo1822(150)
+  (52) slots remain
+The Tanker Ship The Shining Phoenix(930/1000) is carrying : 
+  cargo88(340)
+  cargo1416(330)
+  cargo3(260)
+  25 / 25 tanks used
+The Container Ship The Shining Shark(825/850) is carrying : 
+  cargo1774(260)
+  cargo678(255)
+  cargo764(220)
+  cargo534(90)
+  (41) slots remain
+The Tanker Ship The Shining Snake(360/400) is carrying : 
+  cargo1617(360)
+  9 / 10 tanks used
+The Animals Ship The Shining Turtle(190/190) is carrying : 
+  cargo1622(53)
+  cargo554(49)
+  cargo648(41)
+  cargo0(39)
+  cargo1540(8)
+  does not have a roamer
+The Tanker Ship The Shining Whale(920/1100) is carrying : 
+  cargo1833(270)
+  cargo1218(230)
+  cargo35(220)
+  cargo1866(200)
+  10 / 10 tanks used
+The Container Ship The Slippery Boat(1365/1400) is carrying : 
+  cargo822(195)
+  cargo1458(195)
+  cargo1242(190)
+  cargo1772(185)
+  cargo258(175)
+  cargo939(140)
+  cargo1009(130)
+  cargo414(105)
+  cargo1479(50)
+  (56) slots remain
+The Tanker Ship The Slippery Clipper(500/500) is carrying : 
+  cargo812(330)
+  cargo76(170)
+  50 / 50 tanks used
+The Animals Ship The Slippery Dolphin(130/130) is carrying : 
+  cargo92(55)
+  cargo269(55)
+  cargo905(20)
+  does not have a roamer
+The Animals Ship The Slippery Dragon(159/160) is carrying : 
+  cargo838(52)
+  cargo1538(50)
+  cargo1907(49)
+  cargo457(8)
+  has a roamer
+The Tanker Ship The Slippery Dreadnought(590/600) is carrying : 
+  cargo1633(380)
+  cargo60(210)
+  25 / 25 tanks used
+The Tanker Ship The Slippery Eagle(230/300) is carrying : 
+  cargo99(230)
+  20 / 25 tanks used
+The Container Ship The Slippery Eel(1180/1250) is carrying : 
+  cargo844(235)
+  cargo435(205)
+  cargo1940(180)
+  cargo1015(170)
+  cargo1437(140)
+  cargo459(130)
+  cargo996(120)
+  (38) slots remain
+The Animals Ship The Slippery Galleon(140/140) is carrying : 
+  cargo519(46)
+  cargo1531(45)
+  cargo1572(39)
+  cargo451(10)
+  does not have a roamer
+The Container Ship The Slippery Hawk(1190/1200) is carrying : 
+  cargo1037(310)
+  cargo1155(175)
+  cargo123(170)
+  cargo426(170)
+  cargo749(140)
+  cargo1603(130)
+  cargo1135(95)
+  (83) slots remain
+The Container Ship The Slippery Kraken(1205/1250) is carrying : 
+  cargo1145(270)
+  cargo104(260)
+  cargo242(250)
+  cargo1045(250)
+  cargo336(175)
+  (70) slots remain
+The Container Ship The Slippery Leviathan(0/1600) is carrying : 
+  (35) slots remain
+The Container Ship The Slippery Narwhal(275/400) is carrying : 
+  cargo835(275)
+  (79) slots remain
+The Container Ship The Slippery Phoenix(895/2500) is carrying : 
+  cargo1685(165)
+  cargo506(160)
+  cargo785(155)
+  cargo141(150)
+  cargo1401(100)
+  cargo853(75)
+  cargo228(60)
+  cargo1317(30)
+  (77) slots remain
+The Animals Ship The Slippery Shark(110/110) is carrying : 
+  cargo1903(57)
+  cargo347(53)
+  does not have a roamer
+The Tanker Ship The Slippery Snake(470/500) is carrying : 
+  cargo714(350)
+  cargo580(120)
+  10 / 10 tanks used
+The Container Ship The Slippery Turtle(0/1650) is carrying : 
+  (60) slots remain
+The Tanker Ship The Slippery Whale(500/700) is carrying : 
+  cargo1244(260)
+  cargo1382(240)
+  4 / 5 tanks used
+The Container Ship The Swift Boat(0/400) is carrying : 
+  (50) slots remain
+The Animals Ship The Swift Clipper(188/190) is carrying : 
+  cargo1351(31)
+  cargo1930(31)
+  cargo1966(31)
+  cargo160(30)
+  cargo1885(30)
+  cargo1184(29)
+  cargo291(6)
+  does not have a roamer
+The Container Ship The Swift Dolphin(870/1050) is carrying : 
+  cargo279(295)
+  cargo505(290)
+  cargo689(285)
+  (47) slots remain
+The Animals Ship The Swift Dragon(146/150) is carrying : 
+  cargo610(52)
+  cargo846(50)
+  cargo1704(44)
+  does not have a roamer
+The Tanker Ship The Swift Dreadnought(330/400) is carrying : 
+  cargo1526(260)
+  cargo1964(70)
+  42 / 50 tanks used
+The Container Ship The Swift Eagle(2380/2450) is carrying : 
+  cargo1893(280)
+  cargo203(270)
+  cargo864(215)
+  cargo1374(215)
+  cargo1741(195)
+  cargo1786(195)
+  cargo9(185)
+  cargo1925(170)
+  cargo1060(155)
+  cargo1097(135)
+  cargo1380(125)
+  cargo1916(125)
+  cargo287(115)
+  (72) slots remain
+The Animals Ship The Swift Eel(190/190) is carrying : 
+  cargo389(37)
+  cargo823(37)
+  cargo1224(37)
+  cargo675(36)
+  cargo1386(36)
+  cargo1375(7)
+  does not have a roamer
+The Container Ship The Swift Galleon(245/250) is carrying : 
+  cargo1389(245)
+  (89) slots remain
+The Container Ship The Swift Hawk(630/1000) is carrying : 
+  cargo1914(295)
+  cargo879(95)
+  cargo129(80)
+  cargo616(80)
+  cargo1924(80)
+  (50) slots remain
+The Container Ship The Swift Kraken(770/2600) is carrying : 
+  cargo1128(165)
+  cargo1038(150)
+  cargo737(125)
+  cargo1861(120)
+  cargo182(105)
+  cargo1225(105)
+  (64) slots remain
+The Container Ship The Swift Leviathan(0/1600) is carrying : 
+  (70) slots remain
+The Animals Ship The Swift Narwhal(140/140) is carrying : 
+  cargo1103(49)
+  cargo58(48)
+  cargo275(43)
+  has a roamer
+The Tanker Ship The Swift Phoenix(480/1100) is carrying : 
+  cargo394(180)
+  cargo520(170)
+  cargo1908(130)
+  6 / 10 tanks used
+The Container Ship The Swift Shark(860/900) is carrying : 
+  cargo684(240)
+  cargo875(225)
+  cargo858(200)
+  cargo1993(195)
+  (71) slots remain
+The Container Ship The Swift Snake(930/1050) is carrying : 
+  cargo28(325)
+  cargo524(325)
+  cargo1824(280)
+  (92) slots remain
+The Tanker Ship The Swift Turtle(560/600) is carrying : 
+  cargo134(350)
+  cargo424(210)
+  5 / 5 tanks used
+The Animals Ship The Swift Whale(108/110) is carrying : 
+  cargo1290(54)
+  cargo1913(54)
+  does not have a roamer
+The Tanker Ship The Wet Boat(1070/1200) is carrying : 
+  cargo1207(200)
+  cargo1952(200)
+  cargo135(190)
+  cargo492(180)
+  cargo1532(160)
+  cargo448(140)
+  25 / 25 tanks used
+The Animals Ship The Wet Clipper(120/120) is carrying : 
+  cargo901(46)
+  cargo1(44)
+  cargo871(30)
+  does not have a roamer
+The Tanker Ship The Wet Dolphin(640/800) is carrying : 
+  cargo1610(290)
+  cargo790(200)
+  cargo1751(150)
+  9 / 10 tanks used
+The Container Ship The Wet Dragon(365/700) is carrying : 
+  cargo1688(185)
+  cargo1723(180)
+  (63) slots remain
+The Container Ship The Wet Dreadnought(0/950) is carrying : 
+  (65) slots remain
+The Container Ship The Wet Eagle(0/1950) is carrying : 
+  (75) slots remain
+The Animals Ship The Wet Eel(98/100) is carrying : 
+  cargo1484(53)
+  cargo184(45)
+  does not have a roamer
+The Container Ship The Wet Galleon(675/700) is carrying : 
+  cargo1365(290)
+  cargo1615(280)
+  cargo711(105)
+  (67) slots remain
+The Animals Ship The Wet Hawk(138/140) is carrying : 
+  cargo1169(54)
+  cargo1969(54)
+  cargo909(30)
+  does not have a roamer
+The Tanker Ship The Wet Kraken(130/1100) is carrying : 
+  cargo238(130)
+  2 / 10 tanks used
+The Container Ship The Wet Leviathan(1085/1100) is carrying : 
+  cargo1343(265)
+  cargo67(260)
+  cargo1854(255)
+  cargo1322(235)
+  cargo1316(70)
+  (55) slots remain
+The Container Ship The Wet Narwhal(1895/1950) is carrying : 
+  cargo417(305)
+  cargo218(270)
+  cargo1454(250)
+  cargo1769(245)
+  cargo1195(215)
+  cargo361(210)
+  cargo1825(200)
+  cargo1990(200)
+  (67) slots remain
+The Tanker Ship The Wet Phoenix(850/1200) is carrying : 
+  cargo727(320)
+  cargo90(290)
+  cargo1146(240)
+  5 / 5 tanks used
+The Container Ship The Wet Shark(690/700) is carrying : 
+  cargo1330(280)
+  cargo1366(280)
+  cargo1241(130)
+  (77) slots remain
+The Tanker Ship The Wet Snake(380/400) is carrying : 
+  cargo51(380)
+  24 / 25 tanks used
+The Container Ship The Wet Turtle(0/900) is carrying : 
+  (45) slots remain
+The Tanker Ship The Wet Whale(970/1000) is carrying : 
+  cargo283(350)
+  cargo797(310)
+  cargo1203(310)
+  25 / 25 tanks used
+The Container Ship The Wooden Boat(0/1700) is carrying : 
+  (45) slots remain
+The Container Ship The Wooden Clipper(0/1750) is carrying : 
+  (85) slots remain
+The Container Ship The Wooden Dolphin(935/1400) is carrying : 
+  cargo1724(340)
+  cargo137(300)
+  cargo1436(295)
+  (92) slots remain
+The Tanker Ship The Wooden Dragon(750/800) is carrying : 
+  cargo803(270)
+  cargo1356(270)
+  cargo1779(210)
+  48 / 50 tanks used
+The Container Ship The Wooden Dreadnought(280/900) is carrying : 
+  cargo883(280)
+  (69) slots remain
+The Tanker Ship The Wooden Eagle(680/700) is carrying : 
+  cargo421(280)
+  cargo1627(270)
+  cargo395(130)
+  25 / 25 tanks used
+The Tanker Ship The Wooden Eel(510/600) is carrying : 
+  cargo1896(310)
+  cargo1906(200)
+  22 / 25 tanks used
+The Tanker Ship The Wooden Galleon(500/500) is carrying : 
+  cargo1951(300)
+  cargo769(200)
+  100 / 100 tanks used
+The Container Ship The Wooden Hawk(1895/2000) is carrying : 
+  cargo1472(210)
+  cargo1895(210)
+  cargo46(205)
+  cargo187(205)
+  cargo407(205)
+  cargo1447(195)
+  cargo288(190)
+  cargo1918(165)
+  cargo577(160)
+  cargo668(150)
+  (20) slots remain
+The Animals Ship The Wooden Kraken(170/170) is carrying : 
+  cargo1247(47)
+  cargo243(44)
+  cargo412(44)
+  cargo640(35)
+  does not have a roamer
+The Container Ship The Wooden Leviathan(185/1750) is carrying : 
+  cargo169(70)
+  cargo868(55)
+  cargo545(45)
+  cargo523(15)
+  (76) slots remain
+The Tanker Ship The Wooden Narwhal(980/1000) is carrying : 
+  cargo1802(350)
+  cargo1014(320)
+  cargo144(310)
+  50 / 50 tanks used
+The Animals Ship The Wooden Phoenix(110/110) is carrying : 
+  cargo277(44)
+  cargo246(42)
+  cargo1575(24)
+  has a roamer
+The Animals Ship The Wooden Shark(140/140) is carrying : 
+  cargo1019(60)
+  cargo1480(57)
+  cargo296(23)
+  has a roamer
+The Container Ship The Wooden Snake(2045/2050) is carrying : 
+  cargo230(240)
+  cargo1781(240)
+  cargo1979(215)
+  cargo686(210)
+  cargo712(210)
+  cargo310(205)
+  cargo231(195)
+  cargo383(185)
+  cargo866(185)
+  cargo936(160)
+  (70) slots remain
+The Tanker Ship The Wooden Turtle(1110/1200) is carrying : 
+  cargo1253(360)
+  cargo988(330)
+  cargo1515(310)
+  cargo1281(110)
+  25 / 25 tanks used
+The Container Ship The Wooden Whale(2140/2150) is carrying : 
+  cargo1678(280)
+  cargo1313(275)
+  cargo1862(265)
+  cargo26(220)
+  cargo86(220)
+  cargo1838(210)
+  cargo639(200)
+  cargo557(185)
+  cargo1452(180)
+  cargo1473(105)
+  (60) slots remain

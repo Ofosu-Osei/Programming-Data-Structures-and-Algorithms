@@ -1,0 +1,31 @@
+Loading radioactive waste onto The Majestic Kraken from Mordor to Luthadel 150 capacity remains
+Loading cloth onto The Night Eagle from Mordor to Luthadel 1300 capacity remains
+Loading fireworks onto The Shining Turtle from Mordor to Sarth 400 capacity remains
+Loading radioactive waste onto The Shining Turtle from Mordor to Sarth 300 capacity remains
+Loading radioactive waste onto The Shining Turtle from Mordor to Sarth 200 capacity remains
+Loading radioactive waste onto The Majestic Dreadnought from Mordor to Sarth 1450 capacity remains
+Loading used batteries onto The Majestic Kraken from Mordor to Luthadel 100 capacity remains
+Loading toy cars onto The Majestic Dreadnought from Mordor to Sarth 1430 capacity remains
+Loading rat poison onto The Majestic Dreadnought from Mordor to Sarth 1410 capacity remains
+---Done Loading---Here are the ships---
+The Container Ship The Majestic Dreadnought(140/1550) is carrying : 
+  radioactive waste(100)
+  toy cars(20)
+  rat poison(20)
+  (1) slots remain
+The Container Ship The Majestic Kraken(550/650) is carrying : 
+  radioactive waste(500)
+  used batteries(50)
+  (7) slots remain
+The Container Ship The Misty Dreadnought(0/1550) is carrying : 
+  (3) slots remain
+The Container Ship The Night Eagle(200/1500) is carrying : 
+  cloth(200)
+  (5) slots remain
+The Container Ship The Swift Shark(0/2500) is carrying : 
+  (5) slots remain
+The Container Ship The Shining Turtle(300/500) is carrying : 
+  fireworks(100)
+  radioactive waste(100)
+  radioactive waste(100)
+  (0) slots remain

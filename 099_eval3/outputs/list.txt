@@ -1,0 +1,16 @@
+# Step 1
+./ships-step1 inputs/ships0.txt > outputs/step1/ships0_out.txt
+./ships-step1 inputs/ships1.txt > outputs/step1/ships1_out.txt
+./ships-step1 inputs/ships2.txt > outputs/step1/ships2_out.txt
+# Step 2
+./ships-step2 inputs/ships0.txt inputs/cargo0.txt > outputs/step2/ships0_cargo0_out.txt
+# Step 3
+./ships-step3 inputs/ships1.txt inputs/cargo1.txt > outputs/step3/ships1_cargo1_out.txt
+./ships-step3 inputs/ships1.txt inputs/cargo0.txt > outputs/step3/ships1_cargo0_out.txt
+./ships-step3 inputs/ships0.txt inputs/cargo1.txt > outputs/step3/ships0_cargo1_out.txt
+./ships-step3 inputs/ships2.txt inputs/cargo2.txt > outputs/step3/ships2_cargo2_out.txt
+# Step 4
+./ships-step4 inputs/ships0.txt inputs/cargo0.txt > outputs/step4/ships0_cargo0_out.txt
+./ships-step4 inputs/ships1.txt inputs/cargo1.txt > outputs/step4/ships1_cargo1_out.txt
+./ships-step4 inputs/ships2.txt inputs/cargo2.txt > outputs/step4/ships2_cargo2_out.txt
+

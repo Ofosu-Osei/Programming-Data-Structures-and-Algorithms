@@ -1,0 +1,4 @@
+initial_value = 3 * N
+Count from 0 to ( 2 * (N + 1)) (exclusive), call each number you count i 
+      Write down the number(initial_value  + 2 * i)
+      

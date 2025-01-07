@@ -1,0 +1,164 @@
+For the next 3 assignments, you will be writing a templated Polynomial class.
+We have broken this down into 3 assignments to help ensure you do some
+incremental testing (if nothing else, you have to grade before you move
+on to step 2).
+
+These 3 assignments are intended to help pull together a lot of the C++
+concepts you have worked with---making a class, using things from STL,
+overloading operators, outputing with <<, templates, and use of execeptions.
+(We got just a tiny amount of inheritance in by having you write your
+own exception subclass in part 3---but sadly no more inheritance fit
+in easily).
+
+In particular, your Polynomial should be templated over one type, NumT,
+which is the type for its coefficients, "x" and its resulting value.
+Natural choices for NumT might be int or double.  For example, if NumT is
+int, then you might have a polynomial like
+
+ 4*x^2 + 3*x - 2
+
+where x can be an int.   If you have NumT=double, then you might have
+
+  3.4*x^3 + 2.1*x^2 -1
+
+where x can be a double.
+
+However, they could also be std::complex<double> (that is complex numbers), or even
+other more sophisticated types.  Could you have a Polynomial
+whose NumT is IntMatrix?  Sure.  What about Polynomial<Polynomial<int>>?
+Also totally to doable (That is, a Polynomial whose coeffients are polynomials..).
+
+I you have NumT=std::complex<double> then you might have a polynomial like
+
+ (3.1 + 2.0*i) * x^2 - (4.2 + 1.7*i)
+
+where x is a complex number.
+
+
+All we will require of NumT (or really, all that you should require of NumT) is that it:
+   - Is default constructable
+   - Has NumT+NumT, NumT-NumT, -NumT, NumT * NumT, NumT == NumT, and NumT != NumT defined
+   - Has ostream << NumT defined
+   - If findZero is used, must also have std::abs<NumT> defined, as well as inquality (> or <),
+     and division. (Sadly, this cannot be done easily on our more crazy NumT types).
+
+NOTE: Your Polynomial will only have powers >=0.  You are not considering powers
+like x^-1, x^-2, etc.  Accordingly, division is not supported.
+
+Your first task is to make a class:
+
+template<typename NumT>
+class Polynomial
+
+We will describe all the methods it needs (for now), and you should think
+about how you want to represent the data before proceeding.   Your Polynomial
+should have the following public methods:
+
+  o Polynomial()
+     Default construct the polynomial to be "0" (i.e., 0*x^0)
+  o Polynomial operator+(const Polynomial & rhs) const ;
+     Add this Polynomial to rhs, and return the resulting polynomial.  For
+     example if this is 2*x^2 + 3, and rhs is x^2+4*x, you should
+     return the Polynomial 3*x^2 + 4*x + 3.
+  o Polynomial operator-() const;
+    Return the negation of this Polynomial.  For example, if this Polynomial
+    is 4*x^3 - 2, return -4*x^3 +2
+  o Polynomial operator-(const Polynomial & rhs) const;
+    Subtract rhs from this Polynomial and return the result.
+  o Polynomial operator*(const NumT & n) const;
+    Multiply this Polynomial by a scalar and return the result
+  o Polynomial operator*(const Polynomial & rhs) const;
+    Multiply this Polynomial by rhs, and return the result.  Remember
+    that if you have
+      this = 4*x^3 + 8*x^2 + 2*x + 3
+      rhs  =         2*x^2 + 3*x + 6
+     You have to multiply all pairs of terms, and add terms of the same exponent:
+       4*x^3 * 2*x^2  = 8*x^5
+       4*x^3 * 3*x    =        12*x^4
+       4*x^3 * 6      =                  24*x^3
+       8*x^2 * 2*x^2  =        16*x^4     
+       8*x^2 * 3*x    =                  24*x^3
+       8*x^2 * 6      =                           48*x^2
+       2*x   * 2*x^2  =                   4*x^3
+       2*x   * 3*x    =                            6*x^2
+       2*x   * 6      =                                    12*x
+       3     * 2*x^2  =                            6*x^2
+       3     * 3 *x   =                                    9*x
+    +  3     * 6      =                                           18
+    -------------------------------------------------------------------
+            answer    = 8*x^5 + 28*x^4 + 52*x^3 + 60*x^2 + 21*x + 18
+  o bool operator!=(const Polynomial & rhs) const;
+  o bool operator==(const Polynomial & rhs) const;
+     Compare two Polynomials for inequality/equality and return the result.
+      Two Polynomials are the same if they have exactly the same coefficients.
+      Note: depending on how you implemnent things, you may need to take
+      care to make sure that leading 0 coefficients don't cause problems.
+      (E.g., if p1=4*x^4 and p0=0, p1-p1==0 should be true, but
+      you might end up with p1-p1 having 0 coefficients for several
+      terms).
+  o void addTerm(const NumT & c, unsigned p);
+      Add (c*x^p) to this Polynomial, updatings its value.  For example,
+       Polynomial<int> p; //p is 0
+       p.addTerm(4,3);
+         //now p is 4*x^3
+       p.addTerm(2,2);
+         //now p is 4*x^3 + 2*x^2
+       p.addTerm(3,2);
+         //now p is 4*x^3 + 5*x^2
+  o Polynomial & operator+=(const Polynomial & rhs);
+  o Polynomial & operator-=(const Polynomial & rhs);
+  o Polynomial & operator*=(const Polynomial & rhs);
+  o Polynomial & operator*=(const NumT & rhs);
+     Perform the apporiate operation (+,-,*) but update this Polynomial,
+     instead of returning a different Polynomial.  Return (*this).
+     Hint:  These should be two lines of code each, making use of operations
+     you already wrote!
+     
+You should also make the following "friend" function, which resides outside the class:
+
+  o template<typename N>
+    std::ostream & operator<<(std::ostream & os, const Polynomial<N> & p);
+    This should write the Polynomial to "os" such that it looks like this:
+    "4*x^4 + 2*x^3 + -7*x^2 + 0*x^1 + -9*x^0"
+    Note the following constraints on the formatting of the resulting Polynomial:
+      o Each term should have no spaces inside it, unless they are produced by
+        NumT's << operator.  E.g., "4*x^4".   If you had a complex type whose
+        << operator wrote, e.g., (3 + 2i) then you might produce a term like
+        "(3 + 2i)*x^3".
+        Put another way: use whatever NumT's << operator gives you for
+        the coefficient, but don't add any spaces inside a term.
+      o Between each consecutive term, you should write " + ".
+        You should do this even if the next term is negative ("... + -9*x^0")
+        [which we note is simpler]
+      o Even though "*x^0" is 1, you should still write it.  E.g. "-9*x^0"
+        not "-9".  [Again, this is simpler than adding a special case to check
+        for x^0 and handle it differently.]
+      o For the Polynomial 0, you should produce the same output as
+         os << NumT()
+        For NumT = int, it should produce "0".
+      o You should not produce any terms with 0 coefficients.
+         For example
+            Polynomial<int> p1;
+            std::cout << p1 <<"\n"; //should print "0"
+            p1.addTerm(4,3);
+            std::cout << p1 <<"\n"; //should print 4*x^3
+            Polynomial<int> p2 = p1;
+            p1.addTerm(5,2);
+            std::cout << p1 <<"\n"; //should print 4*x^3 + 5*x^2
+            p1 -= p2;
+            std::cout << p1 <<"\n"; //should print 5*x^2
+   - If you need the rule of three methods, you should write them all.
+     If you do not need them, you should not write them.
+
+You may write any private methods you wish, and can have any private fields
+you find useful.  Take a moment to contemplate how you want to represent the data,
+and then implement the above class with the specified methods.
+
+Once you have done this, you should make use of the enclosed "test1.cpp"
+file which performs some *very basic* testing on your Step 1 code.
+It DOES NOT represent a comprehensive test suite.  Instead, it is just intended
+to make sure you have the basic formatting write for the output, etc.   The correct
+output is in "output.txt".   You should diff cleanly against it before
+proceeding.  As always, we recommend doing your own testing.
+
+You should commit, push, and grade to move onto the next step.

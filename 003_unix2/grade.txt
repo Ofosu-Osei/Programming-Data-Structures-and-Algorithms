@@ -1,0 +1,10 @@
+Grading at 08/29/2024:02:50:59.398417
+For commit ID 1d383a23b1d37b2ec23f617a7b7ead1b05f04224
+Grading at Wed Aug 28 10:50:59 PM EDT 2024
+'example.txt' exists (good)
+'example.txt' has the right contents (good)
+'answer.txt' exists (good)
+You got the correct output for the grep activity (good)
+You got the correct output for the diff activity (good)
+
+Overall Grade: PASSED

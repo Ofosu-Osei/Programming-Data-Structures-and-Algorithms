@@ -1,0 +1,56 @@
+For this assignment, you are going to write an *English* (not code) algorithm
+to generate a sequence of numbers, given a parameter N.  Note that this problem
+is AoP Ch 1 Practice Excercise 4 (in case e.g., you would prefer to see
+the table more nicely formatted)
+
+In particular, your algorithm should generate these
+sequences (but should also work for higher values of N).
+
+N |   Output
+--+----------------------------------------
+0 |   0  2
+1 |   3  5  7  9
+2 |   6  8 10 12 14 16
+3 |   9 11 13 15 17 19 21 23
+4 |  12 14 16 18 20 22 24 26 28 30
+5 |  15 17 19 21 23 25 27 29 31 33 35 37
+
+Write your algorithm into a file called "answer.txt".
+
+Once you have written your algorithm into answer.txt run
+the command
+
+sense-send
+
+This will send your algorithm to Sense which will give
+you feedback using the AI model they built for this problem.
+The command should print out a link that you can paste into your browser
+to view the feedback.
+
+Please remember that this is highly experimental (this is
+their first time trying to do this for natural language
+algorithms like this), and don't freak out if there are problems.
+
+If you want to update your algorithm based on the feedback you receive,
+you can do one of two things:
+  1.  Edit answers.txt on the MLP, then run sense-send again to
+      send it to them again.
+  2.  Edit on Sense's website, then run
+      sense-get
+      to download the file back from their site to the MLP.
+
+When you are done, git commit, git push, and grade as usual.
+Note that the grader will not be able to give you meaningful feedback
+as we do not have a way to authoritatively grade natural language algorithms.
+You'll instead get feedback from Sense, and hopefully use it to improve
+(or let us know if its bad, and we'll hopefully work on improving the feedback).
+
+Also, in case you are wondering....  We send your code to Sense, but
+do not send your identity. We instead send a unique identifier that
+looks something like this (you'll see yours in the link you get):
+
+da39a3ee5e6b4b0d3255bfef95601890afd80709
+
+which Drew can match to your identity, but nobody else can.  Of course,
+if you put identifying information in your submission, that will be sent,
+but there is no reason for you to do so.

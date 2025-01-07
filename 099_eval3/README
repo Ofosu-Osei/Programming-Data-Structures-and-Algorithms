@@ -1,0 +1,735 @@
+Before we begin, a word about C++11 vs C++03:
+You may choose to use C++11, but if you do,
+we expect you to use it *correctly*.  Correct use
+of C++11 includes (but is not limited to):
+    - Following the Rule of 5 instead of the Rule of 3
+    - Use of std::move where appropriate
+    - Correct use of noexcept specifications
+    - Proper use of lambdas
+    
+Most students should be using C++03 as that is what we have done in
+class. If you are using C++11, please change --std=gnu++03 to
+--std=gnu++11 in your Makefile.
+
+======================================================
+
+In this assignment, you are going to be writing a program control the
+logistics of a shipping fleet.  In particular, your program will read
+in a list of ships (with information about what they can carry, where
+they are departing from, and where they are going to) and a list of
+cargo (where it needs to go from/to, and information about its size
+and characteristics).  Your program will then determine which cargo is
+loaded onto what ship.
+
+This assignment is divided into 4 steps:
+  1. Read in ships and print total capacity on each route.
+  2. Make one type of ship (Container), with the rules about
+     what it can carry.  Read in a list of cargo and "load"
+     it using the first available ship.
+  3. Add more ship types (Tanker, Animal), with the rules
+     about what they can carry
+  4. Load the cargo into the ship whose remaining
+     capacity is "Best fit" (meaning has sufficient
+     space, but least extra space left over).
+
+Note that a lot of the focus of this assignment is
+on correct use of object-oriented programming.  Accordingly,
+while functionality (does it pass test cases?) is a significant
+portion of your grade, you will also be graded on how well
+you use OO concepts.  In Step 4, you will be graded on making
+*efficient* use of a Binary Search Tree to find the "best fit".
+
+============================
+Step 1: Print route capacity
+============================
+For this step, you will be reading an input file which describes the
+"fleet" of ships you are loading cargo into. You can take a look
+at inputs/ships0.txt or inputs/ships1.txt for examples of these input files.
+The file has one ship per line, with the following format:
+
+Name:Type info:Source:Destination:Total Capacity
+
+Note that these fields are colon (:) separated.
+Of these fields, Name, Type info, Source, and Destination are strings.
+Total Capacity is an unsigned 64 bit integer.
+
+For example,
+
+The Majestic Dreadnought:Container,4,radioactive,explosive,toxic:Mordor:Sarth:1550
+
+means the ship's name is "The Majestic Dreadnought", the information about
+its type is "Container,4,radioactive,explosive,toxic", it source (where
+it is sailing from) is "Mordor", its destination (where it is sailing to) is "Sarth",
+and it has a total capacity of 1550 (you can imagine the units to be tons, or
+megagrams, or whatever unit you want---the unit doesn't matter).
+
+Note that *for this step* you do not need to do anything with the type information.
+You do not even need to verify that the type information is valid---you can just
+ignore that field of the input file.  It is here for later steps of the assignment.
+However, when you use the pregrader, if your test case has invalid information
+in this field, we will consider it an error (as our code covers all four steps).
+Note that we will not test your step 1 code with invalid information in the
+type information field.
+
+What you do need to do in this phase is read in the ships and compute
+the total capacity on each route.  You should put your main in step1.cpp,
+and write whatever other cpp and hpp files you need.  You should put as little
+code in step1.cpp as possible, so you can reuse your code effectively
+for other steps (our implementation has less than 10 lines of code in step1.cpp).
+We have provided a Makefile which will build each step.  If you were to run
+
+./ships-step1 ships0.txt
+
+you should get the following output:
+
+(Gondor -> The Shire) has total capacity 1550
+(Mordor -> Luthadel) has total capacity 2150
+(Mordor -> Sarth) has total capacity 4550
+
+The first line shows the total capacity for ships sailing from
+Gondor to The Shire.  This particular route comes from
+only 1 ship (The Misty Dreadnought).  The second line
+shows the total capacity from Mordor to Luthadel, which
+is the sum of The Majestic Kraken's capacity (650) plus
+The Night Eagle's capacity (1500).  Likewise, the last
+line is the sum of the remaining three ships in the input
+file, as those ships are all sailing from Mordor to Sarth.
+
+Every ship name must be unique: it is an error
+to have two (or more) ships with the same name
+(this is true in all steps).
+
+The lines of output should be sorted by route (source
+first, ties broken by destination).
+
+If there are any errors in the input file, your program
+should print an error message to std::cerr and exit(EXIT_FAILURE).
+
+We have provided sample output in outputs/step1
+You can see how we generated each of these files by
+looking in outputs/list.txt
+
+The following are some (but possibly not all) considerations
+for OO design that you will be graded on:
+   - Classes are nouns, methods are verbs
+   - Good use of public + private
+   - Good use of has-A relationships
+   - const correctness of methods
+   - Following the Rule of 3  (which includes not writing *any* R03 methods when none are needed)
+   - Good use of STL data structures (don't reinvent the wheel)
+   - Proper use of references
+
+Note the TAs will only look at the final submission for these OO concerns,
+so they won't see your step 1 code in isolation---you will have more
+OO concerns later (which might affect this code), but these are things
+you should be thinking about now.
+
+As always, we recommend you test well, commit and push,
+and make good use of the pregrader at the end of each phase.
+
+As before, the pregrader will work by you providing "testcases.txt"
+which contains one testcase per line with the program
+to run and the arguments to give it.  We have provided
+you a placeholder that has
+
+ships-step1 inputs/ships0.txt
+
+as an example/reminder of what to put there.
+
+=========================
+Step 2: Container ships
+=========================
+A quick note before starting this phase:  we encourage you to read
+ahead to phase 3 before you write code.   Seeing what is coming might
+help you design your code in this phase to have less work later.
+
+In this phase, you are going to make use of the "type info"
+field in the ship information, as well as read in the cargo
+to load.
+
+If we go back to the type info field from our example
+in step 1:
+
+Container,4,radioactive,explosive,toxic
+
+The type information is comma separated, with the first
+field being the type of ship.  In this step,
+"Container" is the only value you need to be concerned
+with.  Note that in step 3, there will be other
+legal values ("Tanker" and "Animal").  We will
+not test your step 2 code with "Tanker" or "Animal".
+If you try the pregrader, it will accept these even
+in step 2, as we reduce duplication of code by accepting
+them.  Whether your final step2 code accepts them or
+considers them an error does not matter, as we won't
+test with them.
+
+The remaining fields in the type inforamtion are specific to the type
+of ship.  For a container ship, the next field (4 in this example) is
+the number of "slots", which is an unsigned int.  This ship has space
+for only 4 total pieces of cargo, even if its total capacity has not
+been reached.
+
+For a container ship, the remaining fields
+(radioactive, explosive, and toxic in this example)
+specify hazardous material capabilities for this ship.
+This ship is equipped to safely carry materials
+that are (any combination of) radioactive, explosive,
+and/or toxic.  However, it cannot carry materials
+with other hazardous material requirements (flammable,
+corrosive,....)
+
+Next, take a look at inputs/cargo0.txt.  This file
+describes the cargo to be shipped.
+The format is one piece of cargo per
+line, with comma separated fields:
+
+Name,Source,Destination,Weight,Properties
+
+Name, Source, and Destination are strings.
+Weight is an unsigned 64-bit integer.
+Properties is 1 or more (comma separated) strings.
+
+The first line of the file:
+
+toy cars,Mordor,Sarth,20,container
+
+Describes toy cars being shipped form Mordor to Sarth.
+The weight is 20 (meaning it will use up 20 capacity
+of the ship it is on).  There is only one property
+(container) which determines which type(s) of ships
+can carry this cargo (more on the rules below).
+
+The next line is
+
+fireworks,Mordor,Sarth,100,container,hazardous-explosive
+
+Note that this lie has two properties: container
+and hazardous-explosive.  There may be many properties,
+and they might be in any order.
+
+Right now, our only ship type is Container, which
+can carry a piece of cargo if ALL of the following
+conditions are met:
+   1. The ship must be on the proper route
+      (if the cargo is going from X to Y,
+       the ship must also be going from X to Y).
+   2. The cargo has the "container" property
+   3. The cargo ship has sufficient capacity
+      remaining (total capacity - capacity of
+      other cargo loaded so far >= weight of this cargo)
+   4. The cargo ship has a "slot" open
+      (the total number of slots for this ship >
+       the number of pieces of cargo loaded so far)
+   5. The cargo meets the "hazmat rules" (below)
+      for this ship.
+
+Hazmat rules (we spell these out separately,
+as Tanker ships use them in Step 3).
+   - Each ship has a set of hazardous material
+     capabilities (which might be empty). For
+     container ships, these are any fields
+     in the type information after
+     the number of slots
+     (Container,slots,[zero or more hazardous material capabilities])
+   - A piece of cargo may contain properties that
+     state hazardous material requirements. Each such
+     property starts with hazardous-
+   - In order for a ship to be able to carry a piece
+     of cargo, the ship must have ALL hazaradous material
+     capabilities requested by the cargo.  For example,
+     if a piece of cargo has
+     hazardous-corrosive,hazardous-explosive,hazardous-radioactive
+     then the ship with
+     explosive,corrosive,radioactive,flammable
+     could carry that cargo (the extra capability of flammable
+     is not a problem).  However, a ship with
+     corrosive,explosive
+     could not (as it is missing radioactive).
+
+With all of that in mind, your goal for this step is
+to write a program (with main in step2.c) which takes
+two command line arguments, a ships file (as
+in step 1), and a cargo file (e.g., inputs/cargo0.txt).
+
+The program should take each piece of cargo
+(in the order listed in the file) and
+  1. Find which ships COULD take the cargo
+  2. Print
+(number) ships can carry the (cargo name) from (source) to (destination)
+  3 print out ALL ships which COULD take
+     the cargo in alphabetical order
+     by their names.  For each ship, you should
+     print it one ship per line with 2 spaces
+     then the name of the ship.
+  2. Load the cargo onto the first ship
+     from the list above
+  3. Print out which ship the cargo
+     was loaded onto, with a line of the format:
+**Loading the cargo onto (ship name)**
+
+For example, if run with inputs/ships0.txt
+and inputs/cargo0.txt, the first piece of cargo (toy cars)
+would result in the following output:
+
+3 ships can carry the toy cars from Mordor to Sarth
+  The Majestic Dreadnought
+  The Shining Turtle
+  The Swift Shark
+**Loading the cargo onto The Majestic Dreadnought**
+
+If there are no ships that can carry the cargo, you
+should print a line with the format
+
+No ships can carry the (cargo name) from (source) to (destination)
+
+For example, when run with ships0.txt and inputs/cargo0.txt,
+you should have this line in your output:
+
+No ships can carry the rat poison from Mordor to Sarth
+
+Note that such output is not an error, and the program should
+continue processing the rest of the cargo.  Also note that it
+is NOT an error to have cargo where there are no ships on
+the requested route---you would print the "No ships can carry..."
+line and continue.
+
+After processing all the cargo, you should print
+
+---Done Loading---Here are the ships---
+
+then you should print the details of each ship,
+in the order that the ships were read in from the input file.
+The details of each ship vary based on the ships type,
+but for a container ship (the only type we have so far),
+you should print with this format:
+
+The Container Ship The Majestic Dreadnought(320/1550) is carrying :
+  toy cars(20)
+  fireworks(100)
+  radioactive waste(100)
+  radioactive waste(100)
+  (0) slots remain
+
+The first line is
+
+The [type of ship] Ship [name of ship] ([used capacity]/[total capacity]) is carrying:
+
+Then one line per cargo, in the order they were loaded with two space,
+followed by the name and then the weight in parenthesis.
+
+The last line of the output is the number of slots remaining,
+in this case there are 0, as The  Majestic Dreadnought has 4 slots,
+and we have loaded 4 pieces of cargo.
+
+As before, you can see sample outputs in outputs/step2/
+
+A few comments on OO design:
+   1. Continue to think about (and do a good job with)
+      all the things we mentioned in Step 1
+   2. Notice how the hazardous material rules are used
+      by Tanker ships in Step 3.  Please avoid duplication
+      of code (instead, make good use of OO ideas)
+   3. Think about good use of is-A relationships
+      and how to properly turn those into inheritance.
+
+As always, we strongly encourage you to test well,
+and make good use of the pregrader at the end of each step.
+
+=========================
+Step 3: More ship types
+=========================
+In this step, we are going to introduce two new ship types.
+Your program will have the same overall behavior (in terms
+of taking two command line arguments, printing the
+ships that can handle each piece of cargo, loading
+cargo onto the first elligible ship, and printing information
+about each ship at the end).   The only difference
+is that you will now support "Tanker" and "Animal" ship
+types, with rules we will discuss below.
+
+Before we dive into these rules, we will briefly note
+that when I wrote this, I realized my step3.cpp would
+be *exactly* the same as my step2.cpp.  Accordingly,
+rather than copying, I just did
+
+  ln -s step2.cpp step3.cpp
+
+It is totally fine (but not required) for you to do this
+if your step3.cpp would be the same.  We will also note
+that needing no changes in main from step2 to step3 is
+a good thing.
+
+* Tanker Ships
+
+If you look in inputs/ships1.txt, the third line is:
+
+The Dawn Dreadnought:Tanker,-185,-150,25,flamable:Luthadel:Midgar:700
+
+Here, the ship's type is Tanker, and there are three numbers
+after it.  These are (in order)
+
+min temperature (signed int)
+max temperature (signed int)
+number of tanks (unsigned int)
+
+After these three numbers, any remaining fields are hazardous material
+capabilities (following the same rules as hazardous materials for Container ships).
+
+The min and max temperature define the temperature ranges that
+this ship is capable of providing (in degrees C).   Cargo *can* have
+properties that specify a minimum or maximum temperature that it can be transported.
+These properties take the form of
+
+mintemp=(num)
+maxtemp=(num)
+
+Where num is a signed int.
+For example, we might have
+
+milk,Mordor,Sarth,20,liquid,mintemp=1,maxtemp=10
+
+which would specify that milk can be transported only if the ship is capable
+of some temperature between 1 and 10 C.  A ship with a temperature range
+of -20 to +40 would be acceptable (as SOME acceptable temperature for
+milk is in this range).  However, a ship with a temperature range of
+11 to 50 would not, as it cannot keep the milk cool enough.
+
+It is totally legal for cargo to specify only one side of the range:
+
+liquid hydrogen,Mordor,Sarth,200,liquid,maxtemp=-253,flamable
+
+Note that all of these ranges are inclusive of both bounds, so a
+ship that specifies a mintemp of -253 could carry the liquid
+hydrogen (if all other conditions are met) because it could do
+so at -253 degrees exactly.
+
+Note that the above adds a new "feature" to cargo specifications:
+some of the properties may now take the form name=value.
+We make the following rules for these property specifications:
+   1. At most one equals sign is allowed in any particular property,
+      so  maxtemp=-253 is legal, but max=temp=-253 is not.
+   2. Any property *may* have a value, even if it is not used.
+      So you could write liquid=10, even if the value 10
+      is not meaningful.
+   3. If a value is omitted but is needed, treat it as
+      if it were =0.  So if someone wrote 
+water,Mordor,Sarth,200,liquid,mintemp
+
+      it is not an error, but instead behaves as if they wrote
+water,Mordor,Sarth,200,liquid,mintemp=0
+
+    (Note: the combination of 2 + 3 are meant to simplify
+     things for you: your code that parses properties
+     does not need to know which properties expect values,
+     it can simply treat all properties as having a value
+     and provide a default value of 0 when one is not specified).
+
+Note that it is NOT an error to describe impossible cargo
+
+  water,Mordor,Sarth,200,liquid,mintemp=100,maxtemp=-200
+
+is not an error, even though there is no valid temperature
+range.
+
+The other new piece of information in the Tanker ship is
+the number of tanks.  The capacity is evenly divided between
+the tanks (so total capacty = 700, tanks = 25 means a capacity
+of 28 per tank).  It is an error if total capacity is not
+a multiple of the number of tanks.
+
+Only one type of cargo may go into a given tank.  For example,
+if we have total capacity 100, and 4 tanks (23 capacity per tank).
+If we load liquid hydrogen with weight=30, we would fill the
+first tank, and the second tank would have 5/25 hydrogen in it.
+If we then need to load 30 milk, we can't put milk and hydrogen
+in the same tank, so we would have
+
+25/25 hydrgen
+5/25 hydrogen
+25/25 milk
+5/25 milk
+
+At this point, the ship cannot handle a cargo of 25 milk,
+even though it would be under its total capacity, as we cannot
+put milk in the same tank as hydrogen.  However, we could load
+20 milk resulting in our tanks being filled like this:
+
+25/25 hydrgen
+5/25 hydrogen
+25/25 milk
+25/25 milk
+
+At this point, the ship could only take hydrogen (up to a total of 20 more).
+
+Note that when loading a cargo of the same type as a previously loaded
+cargo, any partially filled tanks of the same type should be filled
+before using new tanks.
+
+This means that the rules for a Tanker ship are:
+   1. It must be on the right route
+   2. It must follow the hazardous material rules
+      (same as cargo ship)
+   3. There must be sufficient total capacity remaining
+      (same as cargo ships)
+   4. The cargo must have either the property "liquid" or "gas"
+   5. There must be sufficient tanks available to hold
+      the material (as described above)
+   6. The temperature range (if any) required by the cargo
+      must include at least one temperature the ship can
+      provide.
+
+When printing Tanker ships (in the output at the end,
+which says what each ship is holding), the output should
+look like this:
+
+The Tanker Ship The Gleaming Narwhal(14/500) is carrying : 
+  propane(4)
+  hot stuff(10)
+  2 / 50 tanks used
+
+Notice that the output looks much like a Container Ship's
+output, except
+  1. The ship type is Tanker
+  2. Instead of the slots remaining, the number of tanks
+     used is printed at the end (used / total tanks used)
+
+* Animal ships
+
+The last type of ships is Animal ships, which can carry animals.
+They can also carry "small enough" other cargo (with certain rules).
+
+The type information for an animal ship looks like this:
+
+Animals,75
+
+Note that there are *exactly* two fields (unlike Container
+and Tanker, which can have many fields).   Animal ships
+cannot carry ANY hazardous materials.  Instead,
+the first field must be "Animals" (to specify
+this type of ship).  The second field is an unsigned
+integer which specifies what size of other cargo is
+"small enough" that it can be carried on this ship.
+
+Our animal ship follows the same basic rules as
+other ships:
+  1. It must be on the right route
+  2. It must have sufficient capacity for the cargo
+
+After that, if the cargo has property "animal" we
+load it according to these rules:
+   3. If the cargo does not have the property "roamer"
+      we can load it
+   4. If the cargo does have the property "roamer"
+      and we have not loaded any other cargo with
+      the properties "animal" and  "roamer". (This is an animal
+      that needs space to roam around, and our
+      ship only has one place for that to happen).
+
+If the cargo does NOT have property "animal" then we can
+load it if
+   5. It does not have property "liquid" or "gas"
+   6. It is not a hazardous material (no hazardous- properties)
+   7. It is "small" meaning its weight is less than
+      or equal to the "small enough" threshold specified
+      in the ship's information.
+    
+The details of an Animal ship should print out like this:
+
+The Animals Ship The Gleaming Eagle(50/140) is carrying : 
+  caribou(50)
+  has a roamer
+
+Notice that this output is the same basic format as
+the other ships. The differences are
+   1. The type is Animals
+   2. The last line is either
+  has a roamer
+OR
+  does not have a roamer
+      based on whether or not the ship has a roamer.
+
+As before, you can see sample outputs in outputs/step3/
+
+Note that for OO design in this step:
+   - Follow all the things from before
+   - Make good use of inheritance
+   - Make good use of subtype polymorphism
+   - Make good use of dynamic dispatch
+   - Avoid duplication of code.
+
+As always, we encourage you to test extensively
+and make good use of the pregrader at the end of each step.
+
+=========================
+Step 4: Best fit loading
+=========================
+
+Up to now, you have been finding the list of elligible ships
+and loading the cargo onto the ship from that list whose
+name is alphabetically first.  You decide to try a different
+strategy:
+
+ - First, sort the cargo from largest to smallest.
+ - Of all the ships that can take the cargo,
+   load it onto the one that will have the least
+   extra space leftover.
+          - If there is still a tie (two ships
+	    with the same best capacity), break that
+	    tie by the alphabetically first ship name.
+
+For sorting the cargo, you should break ties (equal capacity)
+by keeping equal elements in the same order.  Note that sorting
+algorithms which keep equal elements in the same order are
+called "stable" sorts, and std::stable_sort will handle this
+detail for you.
+
+For finding the ship that can carry the cargo, but with
+the least extra capacity leftover, you realize that
+a balanced binary search tree is the perfect data structure!
+
+As we don't cover balanced binary search trees, we have provided
+one for you---don't worry, all the parts that are different from
+a regular binary search tree are in the add and delete methods
+which we have already written.  You can search this tree just
+like you would any other BST.    The "AVL" part basically
+just means that if you add 1, 2, 3 to the tree you get
+
+     2                            1
+   /   \            instead of     \
+  1     3                           2
+                                     \
+				      3
+
+because the add method detects the imbalance and rotates
+the tree (manipulating pointers) to get a shorter tree
+and guarantee O(lg(N)) time on operations. 
+
+We have provided
+
+avlmultimap03.hpp   if you are using C++03 (most of you)
+avlmultimap11.hpp   if you are using C++11
+
+Whichever you pick, we provide
+
+template<typename K,
+         typename V,
+         typename CompareK = std::less<K>,
+         typename CompareV = std::less<V> >
+class AVLMultiMap {
+//a bunch of code
+};
+
+This class provides a map from K (key type) to a *set* of V (value type).
+We provide you this class in particular so you can map from remaining capacity (uint64_t)
+to a set of ships (whatever is appropriate in your code).   We also provide CompareK
+and CompareV so that you can specify different orderings as needed (e.g.,
+the set of values can be ordered by the ship's names if you want).  If you need
+a refresher/example on how this sort of parameter works, refer to your "huff_tree"
+assignment, where we provided class NodePtrCompare to specify how to order
+things in the priority_queue with the third template parameter of std::priority_queue:
+
+std::priority_queue<Node *,std::vector<Node*>,NodePtrCompare>
+
+You will want to write a method that finds the *best* ship to carry a given cargo.
+Recall that best means:
+   - The ship can carry the cargo
+       - Part of this is that the ship's remaining capacity is >= the cargo's weight
+   - The ship's remaining capacity is the smallest of those which can carry the cargo
+       (least extra capacity going to waste)
+       - Ties of capacity are broken with alphabetical ordering of names
+         (note that we map remaining capacity to a set of ships, so that all ships
+	  which tie on remaining capacity are in one set).
+
+A few notes about this method:
+   1. This method needs some way to check if a particular ship can carry a particular
+      piece of cargo.  You *could* write a method that works only for Ships
+      and Cargo.  Doing so is better than nothing (you will get functionality points),
+      but you will lose some OO points.
+      *Prefereable* is to make the method generic, so it works on any types of data
+      that need to be filtered in anyways.
+
+      * Students who are doing C++03 (most of you):
+         -  You might think about templates as one approach to this problem.
+	    Remember that you can make a templated method inside a templated
+	    class (see the formative assignment "read_templ1" where MyClass
+	    is templated over T and its f function is also templated over A
+	    for an example of the syntax).   If you choose this approach,
+	    you might also look at how we use CompareK in AVLMultiMap.
+	 -  You might think about subtype polymorphism and dynamic dispatch
+	    as a possible approach to this problem.  If you take this approach,
+	    you might draw inspiration from how we handled Functions in
+	    the "binsrch" formative assignment.
+	 
+      
+       * Students who are doing C++11
+        - If you are doing C++11, lambdas are the appropriate way to handle this.
+	  Note that the noexcept specification for this is a bit tricky, and is beyond what
+	  we expect you to know at this point, as we haven't covered std::declval.
+	  You won't get penalized for leaving noexcept off this function.
+      
+   2. This method should make good use of the binary tree's
+      structure. You *could* use a brute force, approach to finding
+      the appropriate ship by always examining every ship in the tree.
+      Such an approach would get you functionality points, but would
+      lose other points for inefficiency.  We will note that in the
+      absolute worst case (the cargo has very small weight, but no
+      ship is capable of carrying it), the best approach will still
+      have O(N) behavior---as it will have to check every ship to rule
+      it out.  However, a good approach should have O(lg(N)) behavior
+      in most cases.  In particular, if the K best ships by remaining
+      capacity are unable to carry the cargo, the algorithm should
+      run in O(lg(N)+K) time.
+
+   3. While we do not like casting in general, you might end up needing to cast
+      because std::set's iterators give read only access to the data.
+      That is, if you have
+      for(std::set<V*>::iterator it = curr->vals.begin();
+          it != curr->vals.end();
+	  ++it) {
+	const V * data = *it; //must be const because *it give back const
+	...
+      }
+      We found we needed to cast away the const-ness (because we want
+      to remove it from the tree, modify the remaining capacity, then re-add it), so
+      this cast was appropriate:
+      for(std::set<V*>::iterator it = curr->vals.begin();
+          it != curr->vals.end();
+	  ++it) {
+	V * data = const_cast<V*>(*it); //cast from const V* to V*
+	...
+      }
+      Note that if you do so, you must NOT modify the item while it is in
+      the set (at least not in any way that matters for the set ordering)---which is
+      why the iterator gives const values.   Best is remove from tree,
+      modify, add to tree.
+         - Note that the provided delete takes both a key and a value, as
+           we we need the key to find the right set of values, then need to
+	   remove that value from the set.
+
+Once you have done that, you should create step4.cpp and write
+a main method. The program should take two command line arguments
+(a ships file and a cargo file, as with steps 2 and 3). The output
+format is slightly different, as we are not going to examine all
+ships that can load a piece of cargo, instead, you will just print
+which ship it was loaded onto (or that it couldn't be loaded) in
+the first part of the output, with lines like this:
+
+Loading radioactive waste onto The Majestic Kraken from Mordor to Luthadel 150 capacity remains
+Loading cloth onto The Night Eagle from Mordor to Luthadel 1300 capacity remains
+
+After loading all the cargo, you will print the same
+---Done Loading---Here are the ships---
+line as before, then the details of the ships (as before).
+
+As with prior steps, you can see sample outputs in outputs/step4/
+
+There are two major things beyond functionality you will
+be graded on in this step:
+   1. How generic your method to search the AVLMultiMap is
+      (as discussed above)
+   2. How efficient your method to search the AVLMultiMap is
+      (as discussed above)
+Of course, general concerns about design and good use of OO
+will factor into your grade, as discussed in the previous steps.
+

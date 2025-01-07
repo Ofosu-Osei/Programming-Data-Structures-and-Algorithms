@@ -1,0 +1,24 @@
+No ships can carry the toy cars from Mordor to Sarth
+No ships can carry the fireworks from Mordor to Sarth
+No ships can carry the used batteries from Mordor to Luthadel
+No ships can carry the radioactive waste from Mordor to Sarth
+No ships can carry the radioactive waste from Mordor to Sarth
+No ships can carry the radioactive waste from Mordor to Sarth
+No ships can carry the radioactive waste from Mordor to Luthadel
+No ships can carry the cloth from Mordor to Luthadel
+No ships can carry the rat poison from Mordor to Sarth
+---Done Loading---Here are the ships---
+The Container Ship The Dawn Clipper(0/1700) is carrying : 
+  (2) slots remain
+The Animals Ship The Dawn Dolphin(0/110) is carrying : 
+  does not have a roamer
+The Tanker Ship The Dawn Dreadnought(0/700) is carrying : 
+  0 / 25 tanks used
+The Tanker Ship The Gleaming Dreadnought(0/600) is carrying : 
+  0 / 10 tanks used
+The Animals Ship The Gleaming Eagle(0/140) is carrying : 
+  does not have a roamer
+The Tanker Ship The Gleaming Narwhal(0/500) is carrying : 
+  0 / 50 tanks used
+The Animals Ship The Gleaming Shark(0/190) is carrying : 
+  does not have a roamer

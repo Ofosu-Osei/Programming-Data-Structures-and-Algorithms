@@ -1,0 +1,117 @@
++============================================================
+|Computing launch from Planet A to Planet B at time 0.00
++------------------------------------------------------------
+|Solution 0
++------------------------------------------------------------
+| Target launch at (200.00, 0.00)
+| Angle 0.00 degrees and takes 10.00 hours
+| Arrival time would be 10.00
+| At arrival, distance from ship (200.00,0.00) to planet (199.24,17.43) is 17.45
+| Will arrive at time 10.00 but need to wait until 720.00
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 1
++------------------------------------------------------------
+| Target launch at (199.24, 17.43)
+| Angle 9.96 degrees and takes 10.08 hours
+| Arrival time would be 10.08
+| At arrival, distance from ship (199.24,17.43) to planet (199.23,17.56) is 0.13
+| The space ship's arrival is close enough to enter orbit immediately
+| ***Better solution: using this one***
++============================================================
+Planet A     to Planet B     at          0 requires  9.96 deg and takes      10.1 hours
+   Will arrive at time      10.08 and land immediately
++============================================================
+|Computing launch from Planet A to Planet C at time 0.00
++------------------------------------------------------------
+|Solution 0
++------------------------------------------------------------
+| Target launch at (-100.00, 0.00)
+| Angle 180.00 degrees and takes 20.00 hours
+| Arrival time would be 20.00
+| At arrival, distance from ship (-100.00,0.00) to planet (-93.97,-34.20) is 34.73
+| Will arrive at time 20.00 but need to wait until 360.00
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 1
++------------------------------------------------------------
+| Target launch at (-93.97, -34.20)
+| Angle 190.00 degrees and takes 19.70 hours
+| Arrival time would be 19.70
+| At arrival, distance from ship (-93.97,-34.20) to planet (-94.15,-33.70) is 0.53
+| The space ship's arrival is close enough to enter orbit immediately
+| ***Better solution: using this one***
++============================================================
+Planet A     to Planet C     at          0 requires 190.00 deg and takes      19.7 hours
+   Will arrive at time      19.70 and land immediately
++============================================================
+|Computing launch from Planet A to Planet D at time 0.00
++------------------------------------------------------------
+|Solution 0
++------------------------------------------------------------
+| Target launch at (-200.00, 0.00)
+| Angle 180.00 degrees and takes 30.00 hours
+| Arrival time would be 30.00
+| At arrival, distance from ship (-200.00,0.00) to planet (-193.19,-51.76) is 52.21
+| Will arrive at time 30.00 but need to wait until 720.00
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 1
++------------------------------------------------------------
+| Target launch at (-193.19, -51.76)
+| Angle 190.01 degrees and takes 29.77 hours
+| Arrival time would be 29.77
+| At arrival, distance from ship (-193.19,-51.76) to planet (-193.29,-51.38) is 0.40
+| The space ship's arrival is close enough to enter orbit immediately
+| ***Better solution: using this one***
++============================================================
+Planet A     to Planet D     at          0 requires 190.01 deg and takes      29.8 hours
+   Will arrive at time      29.77 and land immediately
++============================================================
+|Computing launch from Planet A to Planet B at time 360.00
++------------------------------------------------------------
+|Solution 0
++------------------------------------------------------------
+| Target launch at (-200.00, 0.00)
+| Angle 180.00 degrees and takes 150.00 hours
+| Arrival time would be 510.00
+| At arrival, distance from ship (-200.00,0.00) to planet (-51.76,-193.19) is 243.50
+| Will arrive at time 510.00 but need to wait until 1080.00
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 1
++------------------------------------------------------------
+| Target launch at (-51.76, -193.19)
+| Angle 231.85 degrees and takes 122.83 hours
+| Arrival time would be 482.83
+| At arrival, distance from ship (-51.76,-193.19) to planet (-95.69,-175.62) is 47.30
+| Will arrive at time 482.83 but need to wait until 510.00
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 2
++------------------------------------------------------------
+| Target launch at (-95.69, -175.62)
+| Angle 221.91 degrees and takes 131.47 hours
+| Arrival time would be 491.47
+| At arrival, distance from ship (-95.69,-175.62) to planet (-82.19,-182.33) is 15.07
+| Will arrive at time 491.47 but need to wait until 1202.83
++------------------------------------------------------------
+|Solution 3
++------------------------------------------------------------
+| Target launch at (-82.19, -182.33)
+| Angle 225.02 degrees and takes 128.88 hours
+| Arrival time would be 488.88
+| At arrival, distance from ship (-82.19,-182.33) to planet (-86.29,-180.43) is 4.52
+| Will arrive at time 488.88 but need to wait until 491.47
+| ***Better solution: using this one***
++------------------------------------------------------------
+|Solution 4
++------------------------------------------------------------
+| Target launch at (-86.29, -180.43)
+| Angle 224.08 degrees and takes 129.67 hours
+| Arrival time would be 489.67
+| At arrival, distance from ship (-86.29,-180.43) to planet (-85.04,-181.02) is 1.38
+| Will arrive at time 489.67 but need to wait until 1208.88
++============================================================
+Planet A     to Planet B     at        360 requires 225.02 deg and takes     128.9 hours
+   Will arrive at time     488.88 but need to wait until     491.47

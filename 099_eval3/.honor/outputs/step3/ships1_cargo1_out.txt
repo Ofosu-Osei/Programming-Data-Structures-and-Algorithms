@@ -1,0 +1,82 @@
+4 ships can carry the toy cars from Luthadel to Midgar
+  The Dawn Clipper
+  The Dawn Dolphin
+  The Gleaming Eagle
+  The Gleaming Shark
+  **Loading the cargo onto The Dawn Clipper**
+3 ships can carry the toy planes from Luthadel to Midgar
+  The Dawn Clipper
+  The Dawn Dolphin
+  The Gleaming Shark
+  **Loading the cargo onto The Dawn Clipper**
+No ships can carry the fireworks from Luthadel to Midgar
+1 ships can carry the liquid hydrogen from Luthadel to Midgar
+  The Dawn Dreadnought
+  **Loading the cargo onto The Dawn Dreadnought**
+3 ships can carry the milk from Luthadel to Midgar
+  The Dawn Dreadnought
+  The Gleaming Dreadnought
+  The Gleaming Narwhal
+  **Loading the cargo onto The Dawn Dreadnought**
+1 ships can carry the propane from Luthadel to Midgar
+  The Gleaming Narwhal
+  **Loading the cargo onto The Gleaming Narwhal**
+No ships can carry the liquid hydrogen from Luthadel to Midgar
+1 ships can carry the hot stuff from Luthadel to Midgar
+  The Gleaming Narwhal
+  **Loading the cargo onto The Gleaming Narwhal**
+No ships can carry the liquid helium from Luthadel to Midgar
+3 ships can carry the lions from Luthadel to Midgar
+  The Dawn Dolphin
+  The Gleaming Eagle
+  The Gleaming Shark
+  **Loading the cargo onto The Dawn Dolphin**
+2 ships can carry the caribou from Luthadel to Midgar
+  The Gleaming Eagle
+  The Gleaming Shark
+  **Loading the cargo onto The Gleaming Eagle**
+3 ships can carry the cats from Luthadel to Midgar
+  The Dawn Dolphin
+  The Gleaming Eagle
+  The Gleaming Shark
+  **Loading the cargo onto The Dawn Dolphin**
+3 ships can carry the paper from Luthadel to Midgar
+  The Dawn Dolphin
+  The Gleaming Eagle
+  The Gleaming Shark
+  **Loading the cargo onto The Dawn Dolphin**
+1 ships can carry the birds from Luthadel to Midgar
+  The Gleaming Shark
+  **Loading the cargo onto The Gleaming Shark**
+3 ships can carry the milk from Luthadel to Midgar
+  The Dawn Dreadnought
+  The Gleaming Dreadnought
+  The Gleaming Narwhal
+  **Loading the cargo onto The Dawn Dreadnought**
+---Done Loading---Here are the ships---
+The Container Ship The Dawn Clipper(80/1700) is carrying : 
+  toy cars(30)
+  toy planes(50)
+  (0) slots remain
+The Animals Ship The Dawn Dolphin(110/110) is carrying : 
+  lions(50)
+  cats(30)
+  paper(30)
+  has a roamer
+The Tanker Ship The Dawn Dreadnought(673/700) is carrying : 
+  liquid hydrogen(200)
+  milk(472)
+  milk(1)
+  25 / 25 tanks used
+The Tanker Ship The Gleaming Dreadnought(0/600) is carrying : 
+  0 / 10 tanks used
+The Animals Ship The Gleaming Eagle(50/140) is carrying : 
+  caribou(50)
+  has a roamer
+The Tanker Ship The Gleaming Narwhal(14/500) is carrying : 
+  propane(4)
+  hot stuff(10)
+  2 / 50 tanks used
+The Animals Ship The Gleaming Shark(180/190) is carrying : 
+  birds(180)
+  does not have a roamer

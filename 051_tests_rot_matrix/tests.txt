@@ -1,0 +1,8 @@
+nonexistent
+
+test 0.txt
+binary_file
+empty_file
+nonprintable_file
+test1.txt
+test2.txt

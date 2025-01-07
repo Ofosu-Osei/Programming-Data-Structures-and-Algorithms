@@ -1,0 +1,6 @@
+The Majestic Dreadnought:Container,4,radioactive,explosive,toxic:Mordor:Sarth:1550
+The Majestic Kraken:Container,9,radioactive,corrosive,flamable:Mordor:Luthadel:650
+The Misty Dreadnought:Container,3:Gondor:The Shire:1550
+The Night Eagle:Container,6:Mordor:Luthadel:1500
+The Swift Shark:Container,5:Mordor:Sarth:2500
+The Shining Turtle:Container,3,radioactive,explosive:Mordor:Sarth:500

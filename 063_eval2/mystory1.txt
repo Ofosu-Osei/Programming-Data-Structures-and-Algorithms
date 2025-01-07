@@ -1,0 +1,4 @@
+Programming is the an of expressing _solutions_ to problems so that a computer
+can execute those _solutions_. Much of the effort in progranuning is spent finding
+and refining _solutions_. Often, a problem is only fully understood through the
+process of programming a _solution_ for it.

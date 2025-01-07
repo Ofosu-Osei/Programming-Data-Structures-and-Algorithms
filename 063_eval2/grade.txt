@@ -1,0 +1,236 @@
+Grading at 11/09/2024:15:15:12.421432
+For commit ID a4350397495251c8561d986abd24f7d113a1e706
+Grading at Sat Nov  9 10:14:43 AM EST 2024
+
+=========================================================================
+Step 1
+
+Checking that story-step1 compiles
+rm -f *~ story-step1 story-step2 story-step3 story-step4 story-step1.o story-step2.o story-step3.o story-step4.o rand_story.o
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c rand_story.c
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c story-step1.c
+gcc -o story-step1 story-step1.o rand_story.o provided.o
+rm story-step1.o
++-----------------------------------------------------------------------+
+Test case 1
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 2
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 3
+Your program successfully indicated a failure case
+                                                         [1/1]
++-----------------------------------------------------------------------+
+Test case 4
+Your program successfully indicated a failure case
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 5
+                                                         [3/3]
++-----------------------------------------------------------------------+
+Test case 6
+                                                         [3/3]
++-----------------------------------------------------------------------+
+Test case 7
+                                                         [3/3]
++-----------------------------------------------------------------------+
+Test case 8
+                                                         [1/1]
++-----------------------------------------------------------------------+
+Test case 9
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 10
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 11
+                                                         [2/2]
+
+Step 1 total                                             [20.0/20]
+
+=========================================================================
+Step 2
+
+Checking that story-step2 compiles
+rm -f *~ story-step1 story-step2 story-step3 story-step4 story-step1.o story-step2.o story-step3.o story-step4.o rand_story.o
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c rand_story.c
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c story-step2.c
+gcc -o story-step2 story-step2.o rand_story.o provided.o
+rm story-step2.o
++-----------------------------------------------------------------------+
+Test case 12
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 13
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 14
+Valgrind reported memory errors
+Your program successfully indicated a failure case
+                                                         [.8/1]
++-----------------------------------------------------------------------+
+Test case 15
+Your program successfully indicated a failure case
+                                                         [3/3]
++-----------------------------------------------------------------------+
+Test case 16
+                                                         [4/4]
++-----------------------------------------------------------------------+
+Test case 17
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 18
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 19
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 20
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 21
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 22
+                                                         [1/1]
+
+Step 2 total                                             [19.8/20]
+
+=========================================================================
+Step 3
+
+Checking that story-step3 compiles
+rm -f *~ story-step1 story-step2 story-step3 story-step4 story-step1.o story-step2.o story-step3.o story-step4.o rand_story.o
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c rand_story.c
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c story-step3.c
+gcc -o story-step3 story-step3.o rand_story.o provided.o
+rm story-step3.o
++-----------------------------------------------------------------------+
+Test case 23
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 24
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 25
+Your program successfully indicated a failure case
+                                                         [1/1]
++-----------------------------------------------------------------------+
+Test case 26
+Your program successfully indicated a failure case
+                                                         [1/1]
++-----------------------------------------------------------------------+
+Test case 27
+Your program successfully indicated a failure case
+                                                         [1/1]
++-----------------------------------------------------------------------+
+Test case 28
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 29
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 30
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 31
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 32
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 33
+Your file matched the expected output
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 34
+Your file matched the expected output
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 35
+Your file matched the expected output
+                                                         [2/2]
+
+Step 3 total                                             [20.0/20]
+
+=========================================================================
+Step 4
+
+Checking that story-step4 compiles
+rm -f *~ story-step1 story-step2 story-step3 story-step4 story-step1.o story-step2.o story-step3.o story-step4.o rand_story.o
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c rand_story.c
+gcc -std=gnu99 -pedantic -Wall -Werror -ggdb3 -c story-step4.c
+gcc -o story-step4 story-step4.o rand_story.o provided.o
+rm story-step4.o
++-----------------------------------------------------------------------+
+Test case 36
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 37
+Your program did not indicate a failure case
+  But it printed to stderr
+                                                         [.25/0.5]
++-----------------------------------------------------------------------+
+Test case 38
+Valgrind reported memory errors
+Your program successfully indicated a failure case
+                                                         [.40/0.5]
++-----------------------------------------------------------------------+
+Test case 39
+Your program successfully indicated a failure case
+                                                         [0.5/0.5]
++-----------------------------------------------------------------------+
+Test case 40
+Your program successfully indicated a failure case
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 41
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 42
+                                                         [2/2]
++-----------------------------------------------------------------------+
+Test case 43
+                                                         [4/4]
++-----------------------------------------------------------------------+
+Test case 44
+                                                         [4/4]
++-----------------------------------------------------------------------+
+Test case 45
+                                                         [4/4]
+
+Step 4 total                                             [19.65/20]
+
+=========================================================================
+
+========================================
+For implementation, you earned 79.45 /  80
+--------------------------------
+Code quality was graded by: Zhicheng Jiang
+Please ask them if you have any questions:
+------------------------------------------
+ * Makes good use of C library functions: Always (>90%)
+ * Functions are short: Always (>90%)
+ * Step 4 makes good re-use of step 3 code: Often (70-90%)
+ * Comments explain how things work where appropriate: Always (>90%)
+ * Functions have good names: Always (>90%)
+ * Variables have good names: Always (>90%)
+ * Line lengths are reasonable: Always (>90%)
+ * Indentation is proper: Always (>90%)
+ * Brace style is consistent: Always (>90%)
+Your TA wrote the following comments:
+The code is functional and well-structured, showing a solid grasp of modularity and memory management.
+
+For quality, you earned 19.2 / 20 points
+==================================================
+
+
+Overall Grade: 98.65

@@ -1,0 +1,413 @@
+The year is 3542.  Humans have developed fast space travel,
+and spread across the solar system.  You have recently
+been hired at the inter-planetary launch control center,
+where flights between planets are planned.
+
+For each flight from one planet to another, your job
+is to figure out the direction the flight needs
+to leave its source planet, and how long it will
+take to get to its destination.
+
+Before we dive in, we are going to have some simplifications
+over how the real solar system works.  In particular,
+  - the orbits of our planets are all perfectly circular
+  - the orbits of our planets all lie within a plane
+  - our spaceships instantly accelerate and decelarate
+    to their max speed (we don't need to account
+    for accel/decel time).
+  - our spaceships can fly through other planets or
+    the sun with no problem (you do not need
+    to figure out if a ship's path goes through
+    anything else in the solar system)
+
+We'll also say that this assignment uses some trigonometry
+domain knowledge---we aim to give you all the trigonometry
+you need in case you forgot it, but please ask your
+Professor if you have domain knowledge questions.
+
+
+Step 1:
+=======
+In Step 1, you will be parsing a string describing
+a planet into a planet_t struct.  Start by taking
+a look at "sol.txt" (which describes our solar system).
+You will see that it has lines with this format:
+
+Name:Oribtal radius:Period:Initial Position
+
+Name: a string, can contain any character except ':', '\n', '\0'.
+      Note: as you have not learned about dynamic memory allocation yet,
+      we will impose a limit of 31 characters in the planet's name.
+Orbital radius:  distance from the sun in km  [positive double]
+Period: Length of one year, in hours [positive double]
+Initial Position: Angle of the planet in its orbit, in degrees [non-negative double]
+     Note: you need to convert degrees to radians as you parse
+     your input.  All the C library functions that work with
+     angles expect radians.  If you do not remember the conversion,
+     a full circle is 2*PI radians = 360 degrees.  Not that
+     you can (and should) use the constant M_PI which is defined
+     in math.h
+
+All planets rotate counter-clockwise (increasing angle from initial position), which
+we do to make the math simpler.
+
+Once you have familiarized yourself with the input format, please look at
+provided.h and find the declaration of struct planet_tag, which is then
+typedefed to planet_t.  Observe that there are 4 fields which correspond
+exactly to the 4 fields of the input line as described above.
+
+The name field can hold 32 characters so that the planet's maximium
+name length can be 31 characters with space for the '\0' after.
+
+Now, open myinput.c.  You will find one function,
+
+ void parse_planet_info(planet_t * planet, char * line)
+
+which you should write to parse the passed in input line
+(in the format described above) into the planet struct.
+Note that this function modifies the field in planet,
+it does not return a value.
+
+  - If the name of the planet exceeds the space
+    available, you should print an error message (to stderr)
+    and exit
+  - If there are the wrong number of fields, you should
+    print an error and exit
+  - If any of the fields have the incorrect format,
+    you should print an error and exit.
+  - Don't forget to convert initial_pos from degrees
+    to radians.
+
+We have provided a main in step1.c.  You do NOT
+need to modify this main!
+
+You can build step1 with the provided Makefile via
+
+  make launches-step1
+
+This will produce launches-step1, which expects
+one command line argument---namely, the name of
+the planets file, such as
+
+  ./launches-step1 sol.txt
+
+We have provided our output of ./launches-step1 sol.txt
+in sol-step1-output.txt
+
+Note that this main calls our read_planets,
+which calls your parse_planet_info function
+for each line.  You do not have the source code
+to read_planets, so if you need to step through
+your parse_planet_info, we recommend
+
+ 1. Run gdb (e.g., M-x gdb)
+ 2. set args sol.txt
+ 3. break parse_planet_info
+ 4. run
+
+*************
+* Pregrader *
+*************
+For this (and other eval assignments), we have provided
+a "pregrader".  If you do "grade" on this assignment
+before the deadline, we will run *your* testcases
+and tell you if we agree or not.   To use the pregrader,
+include a file named "testcases.txt" which specifies
+which test cases you want to run.  A testcase is
+the name of the program followed by the command line
+arguments you want to give it.  For example you could include
+
+launches-step1 sol.txt
+launches-step1 missingfile
+
+The first would ask the pregrader to run launches-step1
+(your step1 binary) with one argument: sol.txt.
+We would run our implementation and see if we agree
+on the behavior, and report back to you.
+
+The second case would run with missingfile,
+which (assuming it is missing as the name suggests),
+would be an error.  Our programs' behavior should agree
+in that we should both print an error message to stderr
+and exit with EXIT_FAILURE.  You do not need to agree
+on the particular error message.
+
+Note: at the deadline approaches, the queue to grade may
+become quite large---if many students are using the pregrader
+heavily at the deadline, you may have to wait a long time
+to get your results.  We recommend starting early.
+
+
+Step 2:
+=======
+
+For this step, you are going to write two functions in
+planet-util.c:
+
+point_t get_location_at(const planet_t * p, double time);
+
+planet_t * find_planet(const planet_list_t * lst, const char * name);
+
+The first of these, get_location_at takes a planet and a time (in hours).
+This function should compute (and return) the (x,y) coordinates of the
+planet at the given time.  Recall that the input file gives the starting
+angle of the planet in degrees, and you should have converted it
+to radians so you can use it with trig functions.
+
+The input file also has the period of the planet's orbit (also in hours),
+which is the time it takes to go one full revolution around the sun.
+With the initial angle, the period, the time, and the radius (also
+in the input file), you can compute the position.
+
+In case your trigonometry is rusty, we will help refresh that domain
+knowledge here.  The following two equations give the x and y
+coordinates for something moving in a circle around the origin
+(our "sun" is at the origin):
+
+
+    x = radius * cos(angle)
+    y = radius * sin(angle)
+
+**If you have questions about this domain knowledge, please  ** 
+**ask your Professor.                                        **
+
+The other function you need to write for this step is:
+
+planet_t * find_planet(const planet_list_t * lst, const char * name);
+
+Note that planet_list_t is defined in provided.h.
+
+This function should search the list of planets (lst) for one with
+the specified name.  If such a planet is found, this function should
+return it.  If not, your program should print an error to stderr
+and exit with EXIT_FAILURE.
+
+
+Note that we have provided step2.c which has the main for this
+step, and you can build step2 with our Makefile via
+
+make launches-step2
+
+We have provided the output of
+
+./launches-step2 sol.txt
+
+in the file sol-step2-output.txt.
+
+We recommend you make use of the pregrader once again before
+moving on from this phase.
+
+Step 3:
+=======
+
+For this phase, you will write two functions in the file target.c:
+
+launch_result_t compute_launch_by_info(const launch_input_t * this_launch,
+                                       const planet_list_t * planets) {
+
+All of the types referenced here are defined in provided.h.
+planet_list_t should be familiar from Step 2.  The launch_input_t
+tells you information about one launch.  For now, you only
+need the first four fields: the time (remember you wrote
+a function to find a planet's location at a given time),
+the source/destination planet names (remember, you wrote
+a function to find a planet given its name), and the speed
+of this spaceship (km/h---which matches the units you
+are working with).
+
+This function should return a launch_result_t, which
+has the angle (in radians) to launch, as well as the duration
+(in hours) of the trip.
+
+Note that while the spaceship is in flight, the destination
+planet is still moving---however, for right now, you are
+only doing the simple calculation, in which you target
+the destination planet's location at the time of launch.
+Here is some domain knowledge you might need:
+
+
+   distance = sqrt((x2-x1)^2 + (y2-y1)^2)
+   time = distance / speed
+   angle = atan ((y2-y1)/(x2-x1))
+           with the note that this will only give an angle between
+	   -PI/2 radians (-90 degrees) and +PI/2 radians (+90 degrees).  
+           If x2-x1 is negative, you need to add PI to the angle.
+           Also note that we expect the answer to be normalized
+	   to [0,2*PI), so if you get e.g. -PI/2 (-90 deg) you need to
+	   normalize it to 3PI/2 (270 deg)
+
+**If you need help with this domain knowledge, as your professor!**
+
+As we noted above, we are going to naively launch to the destination
+planet's current location (At the time of launch).  This approach
+is valid if our spaceship can just wait at the destination location
+for that planet to complete another orbit.  Accordingly,
+you should write:
+
+double when_does_planet_return_to(const planet_t * planet,
+                                  point_t pos,
+                                  double start_time);
+
+This function asks when the specific planet  will return
+to the (x,y) coordiantes specified (pos) at the earliest
+time not later than start_time.
+
+Put another way, if a spaceship flies to pos, and
+arrives at start_time, at what time (in hours
+from the start) will the ship be able to land on the planet.
+
+Note that the return value should be a "total time" not
+"how long to wait".  Put another way, if you compute how
+long to wait, you should add it to start_time before returning
+it.
+
+Note that you should have all the domain knowledge you need
+from the previous discussion, however, you might not know
+that to do "mod" on floating point numbers, you need
+to use the "fmod" function instead of the % operator.
+Consult
+
+man fmod
+
+for details.
+
+As before, we have provided the main in step3.c
+and you can build step3 using our Makefile with
+
+make launches-step3
+
+We have provided the output of
+./launches-step3 sol.txt launches1.txt
+
+in sol-step3-output.txt
+
+As always, we recommend testing extensively
+and making good use of the pregrader.
+
+Step 4:
+=======
+
+For this step, you will be writing one function in iter_target.c:
+
+launch_result_t solve_launch(const launch_input_t * this_launch,
+                             const planet_list_t * planets);
+
+The idea of this function is to iteratively refine your solution
+until either (1) the spaceship arrives with no waiting or (2)
+you have reached a maximum number of steps (specified in the input),
+in which case you will return the best (smallest total time) solution
+you have found so far.
+
+To see this, let us imagine the following situation, where
+E is Earth and J is Jupiter, and S is the Sun (origin):
+
+Suppose at the time of our launch, we have this situation:
+
+                          E
+                  S                       J
+
+The spaceship will launch from Earth at and angle of about 350 degrees.
+While it is flying (lets say 10,000 hours) to Jupiter, however, the planets move:
+
+                  E
+                                        J <- has moved
+                           
+                  S                        <-spaceship is here
+
+Note that we would then take 10,000 hours to get there, and
+(Jupiter's year - 10,000 hours) of waiting time.  That is A solution,
+but is it not a great solution.   However, we can use it to get
+a better solution:
+
+We can now compute a launch from Earth (at its current position)
+to Jupiter's position 10,000 hours from now.  Why?  Because
+if 10,000 hours is a good approximation of the trip's time
+to that position, we'd land in the right spot.
+
+That is we take our current (as of the time of launch)
+positions, project Jupiter forward by 10,000 hours:
+
+                                      *<-projected target   
+                          E               
+                  S                       J
+
+and then compute the launch to our projected target (where
+Jupiter will be in 10,000 hours).
+
+Now we have a different solution---let's suppose
+ it is to launch at an angle of +15 degrees and that it takes
+ 8,500 hours to get there.  Our spaceship would now need
+ to wait for 1,500 hours, for a total trip of 10,000 hours.
+That's much better than a Jupiter year (103,894 hours), but
+we are still waiting around.  We can repeat the process again:
+where will Jupiter be in 8,500 hours? What launch solution
+do we get for that?
+
+How do we know when we are done? Our launch_info has a
+max_iterations field.  We should try this iterative refinement
+max_iterations times, and return the best total (flying + waiting)
+time solution.
+
+We'll note that as planets are large and have a significant amount
+of space around them in which a spaceship would enter orbit,
+the launch info also has a field close_enough: if,upon
+arrival the distance from the spaceship
+to the planet's coordinate are less than close_enough,
+we consider the arrival to be immediate with no waiting.
+At this point, the iterative process also ends,
+and yield the best solution so far (which typically
+would be the one with no waiting, but not always).
+
+As you might have guessed, we have provided the main
+in step4.c, and you can build step4 with our Makefile
+via
+
+make launches-step4
+
+We have run our step4 with some debug output to
+show you how this works.  This uses "simple.txt" for
+the solar system (where the planets have simpler orbits
+than sol) and launches_simple.txt. Namely, we ran:
+
+./launches-step4 simple.txt launches_simple.txt
+
+and stored the result in simple-step4-debug.txt
+
+We give you this to show you how the iterative process works.
+Notice that on the first one, two steps are sufficient
+to get close enough.   On the last one, we hit the iteration
+limit (5 solutions), and use the best solution so far (the
+2nd to last one, Solution 3), which is pretty good.
+
+Note that you should *NOT* produce this debug output
+in your submission (you are welcome to print any debug
+output you want while you are debugging, but take it out
+at the end).
+
+We have given you the expected output (Without the extra
+debug info) in simple-step4.txt.  We have also provided
+the output of
+./launches-step4 sol.txt launches1.txt
+
+in sol-step4-output.txt
+
+NOTE/HINT: We found it useful to abstract out
+part of compute_launch_by_info from Step 3
+into a separate function.  You are welcome to
+do so.  If you do, you are welcome to edit
+target.h to include a prototype of
+that function so you can call it from
+your code in iter-target.c in Step 4.
+
+As always, make good use of the pregrader!
+
+
+
+
+
+
+
+
+
+
+

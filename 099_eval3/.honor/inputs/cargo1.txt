@@ -1,0 +1,15 @@
+toy cars,Luthadel,Midgar,30,container
+toy planes,Luthadel,Midgar,50,container
+fireworks,Luthadel,Midgar,100,container,hazardous-explosive
+liquid hydrogen,Luthadel,Midgar,200,liquid,maxtemp=-253,hazardous-flammable
+milk,Luthadel,Midgar,472,liquid,mintemp=1,maxtemp=10
+propane,Luthadel,Midgar,4,gas,hazardous-flammable
+liquid hydrogen,Luthadel,Midgar,200,liquid,maxtemp=-253,hazardous-flammable
+hot stuff,Luthadel,Midgar,10,liquid,mintemp=51,maxtemp=100
+liquid helium,Luthadel,Midgar,100,liquid,maxtemp=-261
+lions,Luthadel,Midgar,50,animal,roamer
+caribou,Luthadel,Midgar,50,animal,roamer
+cats,Luthadel,Midgar,30,animal
+paper,Luthadel,Midgar,30,container
+birds,Luthadel,Midgar,180,animal
+milk,Luthadel,Midgar,1,liquid,mintemp=1,maxtemp=10

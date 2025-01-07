@@ -1,0 +1,17 @@
+Grading at 09/28/2024:02:26:40.922206
+For commit ID aff039c3618be4f63377c20560717ef062233f87
+Grading at Fri Sep 27 10:26:36 PM EDT 2024
+Attempting to compile breaker.c 
+make: 'breaker' is up to date.
+testcase1 passed
+#################################################
+testcase2:
+testcase2 passed
+#################################################
+testcase3:
+testcase3 passed
+#################################################
+testcase4:
+testcase4 passed
+
+Overall Grade: A

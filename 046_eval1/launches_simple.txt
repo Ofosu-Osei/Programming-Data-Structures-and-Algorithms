@@ -1,0 +1,4 @@
+0:Planet A:Planet B:10:5:1
+0:Planet A:Planet C:10:5:1
+0:Planet A:Planet D:10:5:1
+360:Planet A:Planet B:2:5:1

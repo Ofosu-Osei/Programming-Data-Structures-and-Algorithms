@@ -1,0 +1,153 @@
+We are now going to do a bit more practice with Linux skills,
+in particular, globbing, braces, redirection, and pipes.
+Note that you should have read AoP Appendeix B sections
+6 through 8 before attempting this assignment.
+
+Instead of Eshell, we are going to use the "raw" shell.  We are doing
+this for two reasons.  The first is so you can try out some different
+things (and see which you like better).  The second is that eshell
+doesn't support brace expansion, which is one of the skills we'll be practicing.
+Run
+M-x shell
+
+and you should now have a buffer called *shell* which should
+display the command prompt in the current directory. Note that
+unlike Eshell, the raw shell uses arrow key up/down for cursor movement.
+Getting the previous command is done with  M-p.
+
+Start by doing "ls" to see what files are here.  Besides this README,
+you should see 5 files for each of apple, bread, cheese, grape, and herb.
+
+Let's start by using * to see all the types of cheese, by doing this command:
+
+cat cheese*.txt
+
+Remember that "cat" displays the contents of each of its command line arguments.
+Before running cat, the shell expands this command to:
+
+cat cheese1.txt cheese2.txt cheese3.txt cheese4.txt cheese5.txt
+
+So you see the contents of these 5 files.  Next, let's use redirection
+to put the output of that command into a file:
+
+cat cheese*.txt > all_cheeses.txt
+
+You should get no output (it all went to the file all_cheeses.txt).
+Take a moment to look in that file (cat all_cheeses.txt) to convince
+yourself its right.   Also
+
+git add all_cheeses.txt
+
+as it will be part of what we grade.
+
+Note that we can use the * expansion anywhere (or multiple places)
+in the name.   To see the * in a different place, try:
+
+cat *1.txt > one_each.txt
+
+Then cat one_each.txt.  You will see that this has one
+apple, one bread, one cheese, one grape, and one herb.
+That is because this command expands to
+
+cat apple1.txt bread1.txt cheese1.txt grape1.txt herb1.txt > one_each.txt
+
+Take a moment to
+git add one_each.txt
+
+Next, let us suppose we want to list breads, cheeses, and herbs.
+We *could* write
+
+cat bread*.txt cheese*.txt herb*.txt
+
+However, we can do slightly better:
+
+cat {bread,cheese,herb}*.txt
+
+The above uses brace expansion---the shell first
+expands the braces to get:
+
+cat bread*.txt cheese*.txt herb*.txt
+
+Then expands the * to get all the bread, cheese, and
+herb files.
+
+Now, let us suppose we wanted to use the output
+of that command as the input to grep---maybe
+we want to search our breads, cheeses, and herbs
+for ones that have the letter "i" in them
+(try this out):
+
+cat {bread,cheese,herb}*.txt | grep i
+
+Note the character between txt and grep is |
+(read "pipe"---and typed shift \ on US
+keyboard layouts).
+
+
+The pipe connects the output of one command
+to the input of the next.  You can use many
+pipes at once, for example (try this out too):
+
+cat {bread,cheese,herb}*.txt | grep i | sort
+
+would make the output of cat be the input of
+grep, and the output of grep be the input of sort.
+
+You can also redirect the output of the end of
+a pipeline to a file.  Run the command:
+
+cat {bread,cheese,herb}*.txt | grep i | sort > all_bch.txt
+
+to put a sorted list of all bread, cheese, and herbs in the
+file all_bch.txt.  Take a moment to also
+
+git add all_bch.txt
+
+Note that we can use multiple braces in one pattern.
+Suppose that rather than all bread, cheese, and herb
+files, we wanted only the ones numbered 1, 3, and 4
+of each.  We could do:
+
+cat {bread,cheese,herb}{1,3,4}.txt
+
+Lets use some pipes to sort that and then get them
+first 8 items, and save that in a file
+
+cat {bread,cheese,herb}{1,3,4}.txt | sort | head -8  > bch_8.txt
+
+(remember that head gives the first N lines of a file.  By default,
+N is 10, but we can specify a different number of lines with -N,
+such as -8 above makes N=8).
+
+Go ahead and
+
+git add bch_8.txt
+
+
+Now we have 4 things for you to try on your own:
+
+ 1. cat all the bread files together and write
+    the output into a file called all_bread.txt
+
+ 2. Make a list of all apples and grapes in sorted order
+    (hint: use cat with a combination of brace expansion
+    and *, and pipe to sort).  Redirect the output to a file
+    called sorted_fruit.txt
+
+ 3. Make a list of all the apples and grapes in sorted
+    order, find the ones with "a" in them, and
+    cut the list down to only the first 2 (hint:
+    use what you did in 2, but add two more |s
+    one for grep, and one for head).  Redirect
+    the output to a file called first_a_apples.txt
+
+ 4. Do the same thing as step 3, except instead of using
+    head to get the first 2 lines, use tail to get the
+    last 3 lines.  Redirect this output to a
+    file called last_a_apples.txt
+
+git add all_bread.txt sorted_fruit.txt first_a_apples.txt last_a_apples.txt
+git commit -m "Did unix3 assignment"
+git push
+grade
+

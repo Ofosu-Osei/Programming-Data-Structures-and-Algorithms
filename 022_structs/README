@@ -1,0 +1,105 @@
+One of the key ideas that you are learning about is
+structs.  For this assignment, you are going to use
+a struct to represent a three dimensional vector,
+and implement three operations on that vector.
+
+To do this, you have four tasks.
+
+Task 1:
+  Open vector.h.  Find where it says
+
+//write a struct here
+//it should have a tag of vector_tag
+//and should have 3 doubles named x, y, and z.
+
+//YOUR CODE HERE
+
+and write the declaration for a struct whose
+tag is vector_tag.  In that struct, put three fields,
+named x, y, and z, all of which are of type double.
+
+Task 2:
+  Scroll down in vector.h to the next
+//YOUR CODE GOES HERE
+
+comment and write a typedef which makes vector_t
+another name for struct vector_tag
+
+Don't forget to save vector.h!  (Also note
+that when you have done these tasks, the error
+highlighting on all the vector_t uses should go away).
+
+Task 3:
+  Now open vector.c.  Go the first function (dot_product).
+  This function should compute the dot product of the
+  two vectors passed in.  The dot product of two vectors
+  is a scalar (just a number, not a vector), so this
+  function returns a double.  The dot product is computed
+  as
+     v1's x * v2's x 
+   + v1's y * v2's y
+   + v1's z * v2's z
+  For example, if v1 is <1,2,3> and v2 is <4,5,6>
+  their dot product would be 32 because
+     1 * 4 + 2 * 5 + 3 * 6 = 32
+
+Task 4:
+  Go to the next function (cross_product) in vector.c
+  This function should compute the cross product of
+  the two vectors passed in.  The cross product of
+  two vectors is also a vector (so this function returns
+  a vector).  Note that you will want to declare
+  a vector_t for the answer, compute (and assign) the values
+  for each of its fields (x, y, and z), then return that
+  answer vector_t.   You can compute each of the fields
+  as follows:
+
+  The x of the answer is v1's y * v2's z - v1's z * v2's y.
+  The y of the answer is v1's z * v2's x - v1's x * v2's z.
+  The z of the answer is v1's x * v2's y - v1's y * v2's x.
+
+Once you have completed these three tasks, compile your
+code with the provided Makefile (running "make" should
+build your code---if you are in Emacs, C-c C-v will
+run make).
+
+We have provided some code to print the vectors and
+to print out the inputs/outputs for each test.  We have
+also provided a main which does a few tests on your code.
+Note that you are more than welcome to look at this code, but
+should not modify it.
+
+We have also provided the expected output in a file called
+output.txt
+
+You can run
+
+./vector > my.txt
+
+to run your program and redirect the output to a file.
+Then you can run
+
+diff my.txt output.txt
+
+If diff produces no output, then the files are the same,
+meaning your output is the same as ours.  If you have
+trouble reading the output of diff, you might try
+
+diff -y my.txt output.txt
+
+which will show the two files side-by-side (my.txt
+on the left, and output.txt on the right).  Or you might
+use M-x diff in Emacs (or if you run diff in Eshell,
+this is the diff you get anyways) which will color code
+the differences for you, as discussed in a previous assignment.
+
+
+When you are finished, do
+
+make clean
+
+to remove your compiled binary (you generally do NOT
+put compiled binaries nor object files in version control).
+Then add and commit vector.c and vector.h.  git push
+and grade.
+

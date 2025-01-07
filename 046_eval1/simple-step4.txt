@@ -1,0 +1,8 @@
+Planet A     to Planet B     at          0 requires  9.96 deg and takes      10.1 hours
+   Will arrive at time      10.08 and land immediately
+Planet A     to Planet C     at          0 requires 190.00 deg and takes      19.7 hours
+   Will arrive at time      19.70 and land immediately
+Planet A     to Planet D     at          0 requires 190.01 deg and takes      29.8 hours
+   Will arrive at time      29.77 and land immediately
+Planet A     to Planet B     at        360 requires 225.02 deg and takes     128.9 hours
+   Will arrive at time     488.88 but need to wait until     491.47

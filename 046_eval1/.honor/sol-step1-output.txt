@@ -1,0 +1,8 @@
+Mercury      has radius     57900000.00, year length     2111.00 initial angle 4.7124
+Venus        has radius    108200000.00, year length     5387.00 initial angle 5.4105
+Earth        has radius    149600000.00, year length     8766.00 initial angle 5.4978
+Mars         has radius    228000000.00, year length    16478.00 initial angle 3.3161
+Jupiter      has radius    779300000.00, year length   103894.00 initial angle 0.6981
+Saturn       has radius   1427000000.00, year length   258070.00 initial angle 5.6723
+Neptune      has radius   2871000000.00, year length   735928.00 initial angle 6.1087
+Pluto        has radius   5913000000.00, year length  2177736.00 initial angle 5.2360

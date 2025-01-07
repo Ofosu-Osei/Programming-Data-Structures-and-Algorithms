@@ -1,0 +1,10 @@
+pdouble is now 3*x^5 + 4.5*x^4
+or on complex(3,0)*x^5 + (4.5,0)*x^4
+p1: 4*x^4 + 2*x^3 + -7*x^2 + -9*x^0
+First zero: -1.82691
+Second zero: 1.44849
+Failed to converge. Last x was 0
+Failed to converge. Last x was -27.3221
+But will converge to -1.82691 with more steps
+pc is (2,1.5)*x^1 + (-2.5,1)*x^0
+zero of pc is (0.56,-0.92)

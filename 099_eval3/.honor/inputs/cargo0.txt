@@ -1,0 +1,9 @@
+toy cars,Mordor,Sarth,20,container
+fireworks,Mordor,Sarth,100,container,hazardous-explosive
+used batteries,Mordor,Luthadel,50,hazardous-corrosive,container
+radioactive waste,Mordor,Sarth,100,container,hazardous-radioactive
+radioactive waste,Mordor,Sarth,100,container,hazardous-radioactive
+radioactive waste,Mordor,Sarth,100,container,hazardous-radioactive
+radioactive waste,Mordor,Luthadel,500,container,hazardous-radioactive
+cloth,Mordor,Luthadel,200,container
+rat poison,Mordor,Sarth,20,container,hazardous-toxic

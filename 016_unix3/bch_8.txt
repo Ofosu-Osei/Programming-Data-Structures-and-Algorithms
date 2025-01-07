@@ -1,0 +1,8 @@
+basil
+brie
+brioche
+ciabatta
+dill
+feta
+garlic
+mozzerella

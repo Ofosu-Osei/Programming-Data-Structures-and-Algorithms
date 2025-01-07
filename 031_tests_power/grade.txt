@@ -1,0 +1,78 @@
+Grading at 09/13/2024:00:05:37.893003
+For commit ID 56203b283d5215715361c99a12d267ad7357190e
+Grading at Thu Sep 12 08:05:36 PM EDT 2024
+**Testing broken implementation 10 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 2, Expected: 8
+**Testing broken implementation 11 **
+-------------------------------------
+
+Input: power(12345, 1)
+Failed:
+Got: 1, Expected: 12345
+**Testing broken implementation 1 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 2, Expected: 8
+**Testing broken implementation 2 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 9, Expected: 8
+**Testing broken implementation 3 **
+-------------------------------------
+
+Input: power(0, 0)
+Failed:
+Got: 0, Expected: 1
+**Testing broken implementation 4 **
+-------------------------------------
+
+Input: power(2, 31)
+Failed:
+Got: 0, Expected: 2147483648
+**Testing broken implementation 5 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 0, Expected: 8
+**Testing broken implementation 6 **
+-------------------------------------
+
+Input: power(0, 5)
+Failed:
+Got: 32, Expected: 0
+**Testing broken implementation 7 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 27, Expected: 8
+**Testing broken implementation 8 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 6, Expected: 8
+**Testing broken implementation 9 **
+-------------------------------------
+
+Input: power(2, 3)
+Failed:
+Got: 0, Expected: 8
+**Testing correct implementation **
+-------------------------------------
+
+All test cases passed successfully.
+
+All tests were ok.
+
+
+Overall Grade: PASSED

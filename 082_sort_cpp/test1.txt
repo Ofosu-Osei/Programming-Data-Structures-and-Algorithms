@@ -1,0 +1,7 @@
+Data Source Layer:Event-Level Data: Data from platforms like Wyscout.
+Scholarship Data: Player and scholarship data from institutional sources.
+Historical Player Advanced Stats: Past performance metrics and statistics.
+Data Processing Layer:Data Cleaning and Preprocessing: Filtering, organizing, and cleaning the data.
+Database Creation: A structured relational database (or CSV collection) that stores cleaned data.
+Feature Engineering Layer: Event Aggregation: Transforming event-level data into summarized features.
+Response Variable Calculation: Response variables such as goal probability impact (VAEP) and RAPM.

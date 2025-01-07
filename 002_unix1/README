@@ -1,0 +1,88 @@
+For this assignment, you will be practicing some basic unix commands.
+
+We are also going to practice a couple different ways to use the shell, so
+that you can see what you like best.
+
+The first thing you should do (and read this whole part before you do it) is:
+
+Press control z  (C-z) to Suspend emacs.
+Run the "ls" command to see what files are in this directory (its just the README right now)
+Run the "fg" command to get back into the emacs you Suspended.
+  - Note: if you run emacs again, you will have two emacses running,
+    with the original suspended.
+
+That method of using the shell takes you out of emacs.   There are some
+programs that expect to have full control over the terminal, and can't really
+be run inside Emacs.   If you need to run them, you will need to suspend Emacs (C-z),
+do the shell commands, and resume emacs (bg).
+
+For most things, however Eshell is great.  Again, read all these instructions
+before you do any of them:
+
+Run M-x eshell (that is Escape, then x, then type eshell, then hit enter).
+Now, split your screen horizontally (C-x 2) (control+x at the same time, release them and hit 2)
+Now, change your current split back to the README:
+   C-x b (control+x at the same time, release them and hit b).
+   You will get prompted for what buffer to switch to.  It should say (default README), so
+   just hit enter (if it doens't say the right thing, start typing README, but use TAB
+   completion to finish).
+
+
+After those three steps, you should have Emacs split into two windows with this README
+on top and and *eshell* on the bottom.  Note that the *s around the name mean
+the buffer is special---its not a file, its something else (in this case, interaction
+with the shell process).
+
+Now hit C-x o (control+x at the same time, release them, then lowercase o). Your cursor
+will move into the *eshell* buffer.  Now you can run the ls command, and see
+what is in the directory (same as you did before). To come back to the README,
+hit C-x o again.  Use C-x o whenever you want to move between the windows in Emacs
+(in this case, between README and *eshell*).
+
+Before we proceed, run this command in your eshell:
+
+cp /usr/local/ece551/unix1/* ./
+
+Note: you can copy and paste that:
+  1. Go to the start of the line with the command
+  2. Hit C-[space] (control + space) to set the mark
+  3. Hit C-e (control+e ) to go to the end of the line.
+  4. Hit M-w (escape then w) to copy
+  5. Hit C-o to go into eshell
+  6. Hit C-y to paste
+
+How if you do ls, you should see this:
+copyme  deleteme  file1  file2  renameme
+
+Now you should use your knowledge of Linux commands to accomplish the following tasks:
+
+ (1) copy the file called "copyme" to the file "acopy"
+ (2) rename the file called "renameme" to be called "renamed"
+ (3) delete the file called "deleteme"
+ (4) make a directory called "mydir"
+ (5) copy "file1" into mydir
+ (6) move "file2" into mydir
+
+Once you have done this, run:
+
+git add '*'
+git commit -m "Did assignment Unix 1"
+git push
+grade
+
+Note that once you have waited a bit for the grading to finish
+you should do
+
+git pull
+
+Or you can use waitgrade.sh to wait until grading and releasing is
+done, and it will git pull for you.
+
+to get your grade report and (if you passed) the next assignment.   You can open
+up your grade report with
+C-x C-f grade.txt
+(remember you can change buffers with C-x b to get back to the README!)
+
+Once you have passed, you dont even need to leave Emacs to open the next assignment
+C-x C-f (backspace through 001_unix1, then type 002[TAB] to tab complete 002_unix2).
+

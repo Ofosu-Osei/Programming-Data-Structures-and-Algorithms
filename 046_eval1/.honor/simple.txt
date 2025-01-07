@@ -1,0 +1,4 @@
+Planet A:100:360:0
+Planet B:200:720:0
+Planet C:100:360:180
+Planet D:200:720:180

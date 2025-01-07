@@ -1,0 +1,4 @@
+Earth        to Venus        at          0 requires 147.71 deg and takes  214310.0 hours
+   Will arrive at time  214309.98 but need to wait until  215480.00
+Earth        to Mars         at         36 requires 337.52 deg and takes  409788.4 hours
+   Will arrive at time  409824.39 but need to wait until  418078.61

@@ -1,0 +1,6 @@
+do they know fprintf stderr?
+check for too many fields in input
+README steps2-4
+pregrader
+test weird cases
+sample outputs (+ Makefile) steps 2-4, plus simple step1

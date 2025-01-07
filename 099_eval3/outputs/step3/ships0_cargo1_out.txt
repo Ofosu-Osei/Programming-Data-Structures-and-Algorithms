@@ -1,0 +1,28 @@
+No ships can carry the toy cars from Luthadel to Midgar
+No ships can carry the toy planes from Luthadel to Midgar
+No ships can carry the fireworks from Luthadel to Midgar
+No ships can carry the liquid hydrogen from Luthadel to Midgar
+No ships can carry the milk from Luthadel to Midgar
+No ships can carry the propane from Luthadel to Midgar
+No ships can carry the liquid hydrogen from Luthadel to Midgar
+No ships can carry the hot stuff from Luthadel to Midgar
+No ships can carry the liquid helium from Luthadel to Midgar
+No ships can carry the lions from Luthadel to Midgar
+No ships can carry the caribou from Luthadel to Midgar
+No ships can carry the cats from Luthadel to Midgar
+No ships can carry the paper from Luthadel to Midgar
+No ships can carry the birds from Luthadel to Midgar
+No ships can carry the milk from Luthadel to Midgar
+---Done Loading---Here are the ships---
+The Container Ship The Majestic Dreadnought(0/1550) is carrying : 
+  (4) slots remain
+The Container Ship The Majestic Kraken(0/650) is carrying : 
+  (9) slots remain
+The Container Ship The Misty Dreadnought(0/1550) is carrying : 
+  (3) slots remain
+The Container Ship The Night Eagle(0/1500) is carrying : 
+  (6) slots remain
+The Container Ship The Swift Shark(0/2500) is carrying : 
+  (5) slots remain
+The Container Ship The Shining Turtle(0/500) is carrying : 
+  (3) slots remain

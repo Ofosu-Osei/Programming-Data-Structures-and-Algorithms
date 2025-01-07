@@ -1,0 +1,7 @@
+Hello world!
+I love cake.
+Sometimes I eat bananas too.
+Bluberries make wonderful pies, but can also be eaten straight up.
+Why did someone stick this line in here?
+Diff is a great command.
+I hope you love it as much as I do.

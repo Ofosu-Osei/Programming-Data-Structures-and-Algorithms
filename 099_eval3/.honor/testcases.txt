@@ -1,0 +1,1 @@
+ships-step1 inputs/ships0.txt

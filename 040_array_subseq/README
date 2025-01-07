@@ -1,0 +1,53 @@
+-------------------------------------------------------------
+This is another assignment where we are trying out Sense's AI
+
+Once you have written your code, you can use
+
+sense-send
+
+to send it to Sense.  You can do this before you have passed the
+assignment (as sometimes they can give some feedback that can help you
+figure out what is wrong if you are failing test cases), and/or
+after you have passed the assignment (as they can also give you
+feedback on code quality that our test cases cannot).
+
+We encourage you to send it at least once after you have
+passed to get feedback on code quality.
+
+As always, please remember this is experimental, and don't
+be too upset if the AI gives incorrect feedback.
+
+If you edit your code on their site, you can do
+
+sense-get
+
+to download the updates to the MLP.
+
+We hope it works well, and would love to hear
+feedback from you on it!
+------------------------------------------------------------
+In this assignment you are going to implement maxSeq.
+
+ 1. Create a file called maxSeq.c and write the function:
+ 
+      size_t  maxSeq(int * array, size_t n);
+      
+    which returns the length of the maximum increasing contiguous
+    subsequence in the array. The parameter n specifies the length of the
+    array. For example, if the array passed in were
+   
+      {1, 2, 1, 3, 5, 7, 2, 4, 6, 9}
+  
+    this function would return 4 because the longest sequence of (strictly)
+    increasing numbers in that array is 1, 3, 5, 7 which has length 4. Note
+    that 1, 3, 5, 7, 9 is an increasing subsequence, but is not contiguous
+    (finding discontiguous ones efficiently takes techniques we haven't
+    learned yet). 
+
+ 2. Compile and test your code using the test-subseq.c you wrote
+    previously. (As before, compile the .c files separately, and link them
+    together).
+
+ 3. Submit your code for maxSeq.c
+     
+Hint: Can you abstract a complex step out into a simple function?

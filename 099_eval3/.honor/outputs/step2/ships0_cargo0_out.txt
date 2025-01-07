@@ -1,0 +1,51 @@
+3 ships can carry the toy cars from Mordor to Sarth
+  The Majestic Dreadnought
+  The Shining Turtle
+  The Swift Shark
+  **Loading the cargo onto The Majestic Dreadnought**
+2 ships can carry the fireworks from Mordor to Sarth
+  The Majestic Dreadnought
+  The Shining Turtle
+  **Loading the cargo onto The Majestic Dreadnought**
+1 ships can carry the used batteries from Mordor to Luthadel
+  The Majestic Kraken
+  **Loading the cargo onto The Majestic Kraken**
+2 ships can carry the radioactive waste from Mordor to Sarth
+  The Majestic Dreadnought
+  The Shining Turtle
+  **Loading the cargo onto The Majestic Dreadnought**
+2 ships can carry the radioactive waste from Mordor to Sarth
+  The Majestic Dreadnought
+  The Shining Turtle
+  **Loading the cargo onto The Majestic Dreadnought**
+1 ships can carry the radioactive waste from Mordor to Sarth
+  The Shining Turtle
+  **Loading the cargo onto The Shining Turtle**
+1 ships can carry the radioactive waste from Mordor to Luthadel
+  The Majestic Kraken
+  **Loading the cargo onto The Majestic Kraken**
+1 ships can carry the cloth from Mordor to Luthadel
+  The Night Eagle
+  **Loading the cargo onto The Night Eagle**
+No ships can carry the rat poison from Mordor to Sarth
+---Done Loading---Here are the ships---
+The Container Ship The Majestic Dreadnought(320/1550) is carrying : 
+  toy cars(20)
+  fireworks(100)
+  radioactive waste(100)
+  radioactive waste(100)
+  (0) slots remain
+The Container Ship The Majestic Kraken(550/650) is carrying : 
+  used batteries(50)
+  radioactive waste(500)
+  (7) slots remain
+The Container Ship The Misty Dreadnought(0/1550) is carrying : 
+  (3) slots remain
+The Container Ship The Night Eagle(200/1500) is carrying : 
+  cloth(200)
+  (5) slots remain
+The Container Ship The Swift Shark(0/2500) is carrying : 
+  (5) slots remain
+The Container Ship The Shining Turtle(100/500) is carrying : 
+  radioactive waste(100)
+  (2) slots remain

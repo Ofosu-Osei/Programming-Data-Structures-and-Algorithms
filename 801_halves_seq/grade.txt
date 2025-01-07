@@ -1,0 +1,17 @@
+Grading at 09/21/2024:21:33:38.698222
+For commit ID cdeedba2867f55a1bd2e8de70479ceb57aa73203
+Grading at Sat Sep 21 05:33:37 PM EDT 2024
+make clean
+rm -rf *.o *~ hseq
+make
+gcc -o hseq -Wall -Werror -std=gnu99 -pedantic hseq.c
+Test case: ./hseq 1 12
+Your file matched the expected output
+Test case: ./hseq 20 30
+Your file matched the expected output
+Test case: ./hseq 10 21
+Your file matched the expected output
+Test case: ./hseq 30 33
+Your file matched the expected output
+
+Overall Grade: PASSED

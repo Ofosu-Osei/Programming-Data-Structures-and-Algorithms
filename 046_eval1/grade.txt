@@ -1,0 +1,1563 @@
+Grading at 10/20/2024:01:24:50.479544
+For commit ID 38814bc297b3ddb4baf6dd40b32c7c6af17117c5
+Grading at Sat Oct 19 09:23:40 PM EDT 2024
+I need to compile your code for launches-step1 (make launches-step1)
+
+Compiling launches-step1
+rm -f iter_target.o myinput.o planet_util.o step1.o step2.o step3.o step4.o target.o *~ launches-step? launches-step4-debug
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 step1.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 myinput.c
+gcc -o launches-step1 -Wall -Werror --std=gnu99 -pedantic -ggdb3 step1.o myinput.o provided.o dummy-s2.o dummy-s3.o -lm
+-> The code compiles for launches-step1 1/1 points
+--------------------------------
+ Test case 0
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_A.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use simple.txt and check Planet_A
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 0 is 0.5/0.5
+--------------------------------
+ Test case 1
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_B.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use simple.txt and check Planet_B
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 1 is 0.5/0.5
+--------------------------------
+ Test case 2
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_C.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use simple.txt and check Planet_C
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 2 is 0.5/0.5
+--------------------------------
+ Test case 3
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_D.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use simple.txt and check Planet_D
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 3 is 0.5/0.5
+--------------------------------
+ Test case 4
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Earth.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Earth
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 4 is 0.5/0.5
+--------------------------------
+ Test case 5
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Jupiter.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Jupiter
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 5 is 0.5/0.5
+--------------------------------
+ Test case 6
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Mars.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Mars
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 6 is 0.5/0.5
+--------------------------------
+ Test case 7
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Mercury.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Mercury
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 7 is 0.5/0.5
+--------------------------------
+ Test case 8
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Neptune.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Neptune
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 8 is 0.5/0.5
+--------------------------------
+ Test case 9
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Pluto.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Pluto
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 9 is 0.5/0.5
+--------------------------------
+ Test case 10
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Saturn.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Saturn
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 10 is 0.5/0.5
+--------------------------------
+ Test case 11
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Venus.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: Use sol.txt and check Venus
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 11 is 0.5/0.5
+--------------------------------
+ Test case 12
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Apple.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Apple
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 12 is 0.5/0.5
+--------------------------------
+ Test case 13
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Banana.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Banana
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 13 is 0.5/0.5
+--------------------------------
+ Test case 14
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Cat.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Cat
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 14 is 0.5/0.5
+--------------------------------
+ Test case 15
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Dog.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Dog
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 15 is 0.5/0.5
+--------------------------------
+ Test case 16
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Elephant.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Elephant
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 16 is 0.5/0.5
+--------------------------------
+ Test case 17
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Frog.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Frog
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 17 is 0.5/0.5
+--------------------------------
+ Test case 18
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Grape.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Grape
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 18 is 0.5/0.5
+--------------------------------
+ Test case 19
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Hawaii.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Hawaii
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 19 is 0.5/0.5
+--------------------------------
+ Test case 20
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Ice_Cream.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Ice_Cream
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 20 is 0.5/0.5
+--------------------------------
+ Test case 21
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Jack_O_Lantern.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 1: A new solar system, planet Jack_O_Lantern
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 21 is 0.5/0.5
+--------------------------------
+ Test case 22
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/archer4.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: A planet named "Archer 4" should not be an error
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 22 is 1/1
+--------------------------------
+ Test case 23
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/planet31.txt 
+ and counts for 1.5 points
+ Our description of this test case is:
+ Step 1: A planet with a name of length 31 works
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 23 is 1.5/1.5
+--------------------------------
+ Test case 24
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/planet32.txt 
+ and counts for 1.5 points
+ Our description of this test case is:
+ Step 1: A planet with a name of length 32 is an error
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 24 is 1.5/1.5
+--------------------------------
+ Test case 25
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/invalid_radius.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Orbital radius is not a valid number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 25 is 1/1
+--------------------------------
+ Test case 26
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/invalid_year.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Year length is not a valid number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 26 is 1/1
+--------------------------------
+ Test case 27
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/invalid_position.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Initial position is not a valid number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 27 is 1/1
+--------------------------------
+ Test case 28
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/too-few-fields.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Too few fields present
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 28 is 1/1
+--------------------------------
+ Test case 29
+--------------------------------
+ This test case will run 
+ launches-step1 
+ With arguments 
+ /usr/local/ece551/eval1-data/too-many-fields.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Too many fields present
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 29 is 1/1
+I need to compile your code for launches-step2 (make launches-step2)
+
+Compiling launches-step2
+rm -f myinput.o step1.o *~ launches-step? launches-step4-debug
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 step2.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 myinput.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 planet_util.c
+gcc -o launches-step2 -Wall -Werror --std=gnu99 -pedantic -ggdb3 step2.o myinput.o provided.o planet_util.o dummy-s3.o -lm
+-> The code compiles for launches-step2 1/1 points
+--------------------------------
+ Test case 30
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_A.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use simple.txt and check Planet_A
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 30 is 0.5/0.5
+--------------------------------
+ Test case 31
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_B.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use simple.txt and check Planet_B
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 31 is 0.5/0.5
+--------------------------------
+ Test case 32
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_C.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use simple.txt and check Planet_C
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+[         0] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (        -100.00,           0.00)					[         0] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (        -100.00,           0.00)
+[       100] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          17.36,         -98.48)					[       100] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          17.36,         -98.48)
+[       200] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          93.97,          34.20)					[       200] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          93.97,          34.20)
+[       300] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -50.00,          86.60)					[       300] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -50.00,          86.60)
+[       400] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -76.60,         -64.28)					[       400] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -76.60,         -64.28)
+[       500] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          76.60,         -64.28)					[       500] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          76.60,         -64.28)
+[       600] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          50.00,          86.60)					[       600] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (          50.00,          86.60)
+[       700] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -93.97,          34.20)					[       700] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -93.97,          34.20)
+[       800] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -17.36,         -98.48)					[       800] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         -17.36,         -98.48)
+[       900] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         100.00,           0.00)				     |	[       900] Planet C     (r=         100.00, yl=     360.00, ip=3.1416) is at (         100.00,          -0.00)
+Your file did not match the expected output
+** Points earned for testcase 32 is 0/0.5
+--------------------------------
+ Test case 33
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple_Planet_D.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use simple.txt and check Planet_D
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 33 is 0.5/0.5
+--------------------------------
+ Test case 34
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Earth.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Earth
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 34 is 0.5/0.5
+--------------------------------
+ Test case 35
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Jupiter.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Jupiter
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 35 is 0.5/0.5
+--------------------------------
+ Test case 36
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Mars.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Mars
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 36 is 0.5/0.5
+--------------------------------
+ Test case 37
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Mercury.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Mercury
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 37 is 0.5/0.5
+--------------------------------
+ Test case 38
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Neptune.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Neptune
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 38 is 0.5/0.5
+--------------------------------
+ Test case 39
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Pluto.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Pluto
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 39 is 0.5/0.5
+--------------------------------
+ Test case 40
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Saturn.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Saturn
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 40 is 0.5/0.5
+--------------------------------
+ Test case 41
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol_Venus.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: Use sol.txt and check Venus
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 41 is 0.5/0.5
+--------------------------------
+ Test case 42
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Apple.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Apple
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 42 is 0.5/0.5
+--------------------------------
+ Test case 43
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Banana.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Banana
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 43 is 0.5/0.5
+--------------------------------
+ Test case 44
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Cat.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Cat
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 44 is 0.5/0.5
+--------------------------------
+ Test case 45
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Dog.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Dog
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 45 is 0.5/0.5
+--------------------------------
+ Test case 46
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Elephant.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Elephant
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 46 is 0.5/0.5
+--------------------------------
+ Test case 47
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Frog.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Frog
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 47 is 0.5/0.5
+--------------------------------
+ Test case 48
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Grape.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Grape
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 48 is 0.5/0.5
+--------------------------------
+ Test case 49
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Hawaii.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Hawaii
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 49 is 0.5/0.5
+--------------------------------
+ Test case 50
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Ice_Cream.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Ice_Cream
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 50 is 0.5/0.5
+--------------------------------
+ Test case 51
+--------------------------------
+ This test case will run 
+ launches-step2 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem_Jack_O_Lantern.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 2: A new solar system, planet Jack_O_Lantern
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 51 is 0.5/0.5
+I need to compile your code for launches-step3 (make launches-step3)
+
+Compiling launches-step3
+rm -f myinput.o planet_util.o step2.o *~ launches-step? launches-step4-debug
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 step3.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 myinput.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 planet_util.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 target.c
+gcc -o launches-step3 -Wall -Werror --std=gnu99 -pedantic -ggdb3 step3.o myinput.o provided.o planet_util.o target.o -lm
+-> The code compiles for launches-step3 1/1 points
+--------------------------------
+ Test case 52
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/inv_planet.txt 
+ and counts for 2 points
+ Our description of this test case is:
+ Step 2: find_planet of name name on in list (note: we need to run this on Step 3's main)
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 52 is 2/2
+--------------------------------
+ Test case 53
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_a.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, first launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 53 is 0.5/0.5
+--------------------------------
+ Test case 54
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_a.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, first launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 54 is 0.5/0.5
+--------------------------------
+ Test case 55
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_a.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, first launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 55 is 0.5/0.5
+--------------------------------
+ Test case 56
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_b.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, second launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 56 is 0.5/0.5
+--------------------------------
+ Test case 57
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_b.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, second launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 57 is 0.5/0.5
+--------------------------------
+ Test case 58
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_b.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, second launch, checking flight waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 58 is 0.5/0.5
+--------------------------------
+ Test case 59
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_c.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, third launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 59 is 0.5/0.5
+--------------------------------
+ Test case 60
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_c.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, third launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 60 is 0.5/0.5
+--------------------------------
+ Test case 61
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_c.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, third launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 61 is 0.5/0.5
+--------------------------------
+ Test case 62
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_d.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, fourth launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 62 is 0.5/0.5
+--------------------------------
+ Test case 63
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_d.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, fourth launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 63 is 0.5/0.5
+--------------------------------
+ Test case 64
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_d.txt 
+ and counts for 0.5 points
+ Our description of this test case is:
+ Step 3: simple.txt, fourth launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 64 is 0.5/0.5
+--------------------------------
+ Test case 65
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, first launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 65 is 1/1
+--------------------------------
+ Test case 66
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, first launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 66 is 1/1
+--------------------------------
+ Test case 67
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, first launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 67 is 1/1
+--------------------------------
+ Test case 68
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, second launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 68 is 1/1
+--------------------------------
+ Test case 69
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, second launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 69 is 1/1
+--------------------------------
+ Test case 70
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: sol system, second launch, echecking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 70 is 1/1
+--------------------------------
+ Test case 71
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, first launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 71 is 1/1
+--------------------------------
+ Test case 72
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, first launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 72 is 1/1
+--------------------------------
+ Test case 73
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, first launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 73 is 1/1
+--------------------------------
+ Test case 74
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, second launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 74 is 1/1
+--------------------------------
+ Test case 75
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, second launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 75 is 1/1
+--------------------------------
+ Test case 76
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, second launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 76 is 1/1
+--------------------------------
+ Test case 77
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_c.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, third launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 77 is 1/1
+--------------------------------
+ Test case 78
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_c.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, third launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 78 is 1/1
+--------------------------------
+ Test case 79
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_c.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, third launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 79 is 1/1
+--------------------------------
+ Test case 80
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_d.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fourth launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 80 is 1/1
+--------------------------------
+ Test case 81
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_d.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fourth launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 81 is 1/1
+--------------------------------
+ Test case 82
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_d.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fourth launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 82 is 1/1
+--------------------------------
+ Test case 83
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_e.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fifth launch, checking angle
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 83 is 1/1
+--------------------------------
+ Test case 84
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_e.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fifth launch, checking flight duration
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 84 is 1/1
+--------------------------------
+ Test case 85
+--------------------------------
+ This test case will run 
+ launches-step3 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_e.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: A new solar system, fifth launch, checking waiting time
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 85 is 1/1
+I need to compile your code for launches-step4 (make launches-step4)
+
+Compiling launches-step4
+rm -f myinput.o planet_util.o step3.o target.o *~ launches-step? launches-step4-debug
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 step4.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 myinput.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 planet_util.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 target.c
+gcc -c -Wall -Werror --std=gnu99 -pedantic -ggdb3 iter_target.c
+gcc -o launches-step4 -Wall -Werror --std=gnu99 -pedantic -ggdb3 step4.o myinput.o provided.o planet_util.o target.o iter_target.o -lm
+-> The code compiles for launches-step4 1/1 points
+--------------------------------
+ Test case 86
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: simple.txt launch 1
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Planet A     to Planet B     at          0 requires  0.00 deg and takes      10.0 hours								     |	Planet A     to Planet B     at          0 requires  9.96 deg and takes      10.1 hours
+   Will arrive at time      10.00 but need to wait until     720.00										     |	   Will arrive at time      10.08 and land immediately
+Your file did not match the expected output
+** Points earned for testcase 86 is 0/1
+--------------------------------
+ Test case 87
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: simple.txt launch 2
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Planet A     to Planet C     at          0 requires 180.00 deg and takes      20.0 hours							     |	Planet A     to Planet C     at          0 requires 190.00 deg and takes      19.7 hours
+   Will arrive at time      20.00 but need to wait until     360.00										     |	   Will arrive at time      19.70 and land immediately
+Your file did not match the expected output
+** Points earned for testcase 87 is 0/1
+--------------------------------
+ Test case 88
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_c.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: simple.txt launch 3
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Planet A     to Planet D     at          0 requires 180.00 deg and takes      30.0 hours							     |	Planet A     to Planet D     at          0 requires 190.01 deg and takes      29.8 hours
+   Will arrive at time      30.00 but need to wait until     720.00										     |	   Will arrive at time      29.77 and land immediately
+Your file did not match the expected output
+** Points earned for testcase 88 is 0/1
+--------------------------------
+ Test case 89
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/simple.txt /usr/local/ece551/eval1-data/launches_simple_d.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: simple.txt launch 4
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Planet A     to Planet B     at        360 requires 180.00 deg and takes     150.0 hours							     |	Planet A     to Planet B     at        360 requires 225.02 deg and takes     128.9 hours
+   Will arrive at time     510.00 but need to wait until    1080.00										     |	   Will arrive at time     488.88 but need to wait until     491.47
+Your file did not match the expected output
+** Points earned for testcase 89 is 0/1
+--------------------------------
+ Test case 90
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: sol.txt launch 1
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 90 is 1/1
+--------------------------------
+ Test case 91
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/sol.txt /usr/local/ece551/eval1-data/launches1_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: sol.txt launch 2
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 91 is 1/1
+--------------------------------
+ Test case 92
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_a.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: A new solar system launch 1
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Apple        to Ice Cream    at          0 requires 89.92 deg and takes  578083.1 hours								     |	Apple        to Ice Cream    at          0 requires 90.10 deg and takes  578310.2 hours
+   Will arrive at time  578083.13 but need to wait until  578961.00										     |	   Will arrive at time  578310.23 but need to wait until  578533.96
+Your file did not match the expected output
+** Points earned for testcase 92 is 0/1
+--------------------------------
+ Test case 93
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_b.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: A new solar system launch 2
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 93 is 1/1
+--------------------------------
+ Test case 94
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_c.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: A new solar system launch 3
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 94 is 1/1
+--------------------------------
+ Test case 95
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_d.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: A new solar system launch 4
+-------------------------------
+Running our code...
+Running your code
+We both agreed this was not an error, but your output is different from ours
+Your output on the left, ours on the right
+Jack O Lantern to Grape        at        127 requires 350.05 deg and takes 6381742.9 hours							     |	Jack O Lantern to Grape        at        127 requires 231.03 deg and takes 6379992.9 hours
+   Will arrive at time 6381869.85 but need to wait until 6623479.00										     |	   Will arrive at time 6380119.92 and land immediately
+Your file did not match the expected output
+** Points earned for testcase 95 is 0/1
+--------------------------------
+ Test case 96
+--------------------------------
+ This test case will run 
+ launches-step4 
+ With arguments 
+ /usr/local/ece551/eval1-data/newsystem.txt /usr/local/ece551/eval1-data/newsystem_launches_e.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 4: A new solar system launch 5
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 96 is 1/1
+
+========================================
+For implementation, you earned 68.5 /  75.0
+--------------------------------
+Code quality was graded by: Kevin Xue
+Please ask them if you have any questions:
+------------------------------------------
+ * Makes good use of C library functions: Always (>90%)
+ * Functions are short: Often (70-90%)
+ * Step 4 makes good re-use of step 3 code: Always (>90%)
+ * Comments explain how things work where appropriate: Always (>90%)
+ * Functions have good names: Always (>90%)
+ * Variables have good names: Always (>90%)
+ * Line lengths are reasonable: Always (>90%)
+ * Indentation is proper: Always (>90%)
+ * Brace style is consistent: Always (>90%)
+Your TA wrote the following comments:
+Certain functions a bit too long.
+
+For quality, you earned 24 / 25 points
+==================================================
+
+
+Overall Grade: 92.5

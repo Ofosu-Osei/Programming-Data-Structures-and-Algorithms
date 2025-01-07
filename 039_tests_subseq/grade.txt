@@ -1,0 +1,66 @@
+Grading at 09/22/2024:03:51:18.461333
+For commit ID bf24c2e03220219d497257209db747da8d0ea02d
+Grading at Sat Sep 21 11:51:17 PM EDT 2024
+**Testing broken implementation 10 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 9 returned  5, expected 4
+ 
+**Testing broken implementation 11 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  5, expected 4
+ 
+**Testing broken implementation 1 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 4 returned  4, expected 1
+ 
+**Testing broken implementation 2 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  2, expected 4
+ 
+**Testing broken implementation 3 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 4 returned  2, expected 1
+ 
+**Testing broken implementation 4 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 0 returned  1, expected 0
+ 
+**Testing broken implementation 5 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  11, expected 4
+ 
+**Testing broken implementation 6 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 4 returned  0, expected 1
+ 
+**Testing broken implementation 7 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  18446744073709551615, expected 4
+ 
+**Testing broken implementation 8 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  1, expected 4
+ 
+**Testing broken implementation 9 **
+-------------------------------------
+
+Failed: maxSeq Test on array of size 10 returned  2, expected 4
+ 
+**Testing correct implementation **
+-------------------------------------
+
+All tests passed successfully.
+
+All test programs were handled correctly
+
+Overall Grade: PASSED

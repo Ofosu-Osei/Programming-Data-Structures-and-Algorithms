@@ -1,0 +1,3 @@
+(Gondor -> The Shire) has total capacity 1550
+(Mordor -> Luthadel) has total capacity 2150
+(Mordor -> Sarth) has total capacity 4550

@@ -1,0 +1,9 @@
+The Dawn Boat:Animals,50:Midgar:Mordor:190
+The Dawn Clipper:Tanker,-270,-250,5,radioactive,corrosive:Elantris:Mordor:1000
+The Dawn Dolphin:Animals,35:Mordor:Sarth:150
+The Dawn Dragon:Container,55,corrosive,toxic:Mordor:Luthadel:300
+The Dawn Boat:Container,45,explosive,flammable:Elantris:Mordor:1550
+The Dawn Eagle:Tanker,1,90,10:Midgar:Sarth:300
+The Dawn Eel:Animals,50:Midgar:Luthadel:180
+The Dawn Galleon:Tanker,-185,-150,10,radioactive,toxic,explosive,flammable:Mordor:Luthadel:400
+The Dawn Hawk:Container,40,corrosive,explosive,toxic,flammable:Mordor:Elantris:650

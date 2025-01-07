@@ -1,0 +1,4 @@
+This is an example text file.
+It is mostly here for the wget excercise
+in the unix practice assignment!
+

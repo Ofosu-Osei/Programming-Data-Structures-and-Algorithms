@@ -1,0 +1,5 @@
+This story is for someone who has never programed before but is willing
+to work hard to learn. It helps you understand the principles and acquire the
+practical skills of _programming using the C++ programming language. My aim
+is for you to gain sufficient knowledge and experience to perform simple useful
+programming tasks using the best up-to-date_ techniques.

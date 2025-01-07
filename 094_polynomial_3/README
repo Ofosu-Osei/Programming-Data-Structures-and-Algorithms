@@ -1,0 +1,179 @@
+Before you start, copy (with cp) in (or symlink, with ln -s )
+the work you did in the previous assignment.
+
+
+For the final step of this assignment, you will be writing two functions
+
+  o template<typename OtherNumT>
+    Polynomial<OtherNumT> convert() const;
+
+  o template<typename ToleranceT>
+    NumT findZero(NumT x,
+                  unsigned maxSteps,
+                  const ToleranceT & tolerance,
+                  const ToleranceT & deriv_tolerance) 
+
+The first of these (convert) will convert this Polynomial into
+one with another coefficient type, but equivalent coefficients.
+For example if we have
+
+Polynomial<int> p1;
+p1.addTerm(4,4); //p1 = is 4 * x ^ 4 where x is an int
+Polynomial<double> p2 = p1.convert<double>();
+//now p2 is 4.0 * x ^4 where x is a double
+
+Note that convert is a templated method, inside a templated class.
+That is totally fine (yay composability!) Both NumT and OtherNumT
+are valid types inside of convert.
+
+How will we convert the coefficients themselves?  We are going
+to have to assume that we can do this:
+
+ //oldCoefficient is a NumT which is one of the coefficients
+ //of "this" polynomial
+ OtherNumT newCoefficient(oldCoefficient);
+
+this requirement limits what we can convert (int->double
+and double -> std::complex<double> will work find,
+but some types might not work).  Note that if we were doing
+C++11, we could take a std::function<OtherNumT(const NumT&)>
+to specify how to convert, but we aren't doing C++11.
+
+Note: this method should not be very long and complicated.
+Mine is about 5 lines.
+
+***NOTE: I needed to add a seemingly weird friend declaration
+to my Polynomial class (and you might too):
+
+template<typename T>
+friend class Polynomial; //this is inside my Polynomial class
+
+This arose because my convert method wanted to use
+a private constructor for Polynomial<OtherNumT>,
+but as its in Polynomial<NumT>, they aren't the same class.
+That meant that I couldn't call the private constructor
+on Polynomial<OtherNumT> from Polynomial<NumT> code.
+
+The above declaration seems strange, but fixes this problem.
+It seems strange because its seems to say "Polynomial is a friend
+of Polynomial"  but what it really says is that
+"Polynomial<anytype> is a friend of Polynomial<NumT>".
+
+
+
+The second of these (findZero)  will use the Newton-Raphson
+method of numerically finding the zero of a Polynomial. 
+
+In particular, this method computes
+
+   xnew = x - f(x)/f'(x)
+
+ then uses xnew as x to repeat the process, untill a suitable x can be found.
+ Ideally, we would like "myPoly(x)=0" but getting *exactly* 0 is a bit tricky.  Instead,
+ we want "close enough to 0 that we don't notice the difference."  This is where
+ the "tolerance " parameter comes in.
+
+ Whenever
+    std::abs(f(x)) <= tolerance
+ we declare "x" to be "sufficiently close to 0" and return it as our answer.
+
+ Note that for some types, std::abs does not return the same type as its parameter.
+ For example, on complex<double> we would have:
+   double std::abs(const std::complex<double> & z)
+
+ Accordingly, our tolerance has a (potentially) different type (ToleranceT).
+
+ The maxSteps parameter limits the number of times we can try the process
+ before giving up.   We also will give up if f'(x) is ever 0, since
+ we would divide by 0 in that case.  Note that because f'(x) returns
+ a NumT(), so when we say "0" what we really mean is when
+ 
+    std::abs(f'(x)) < deriv_tolerance
+    
+
+ Whenever you need to "give up" you will throw a convergence_failure
+ exception, which is a class you will create.  In particular,
+ convergence_failure should be a templated class, templated
+ over one type, NumT.  It should have a public const field of type NumT,
+ called value.
+ It should have a constructor which takes a const NumT & and initialize
+ the value field  from its parameter.  It should also override "what" as
+   virtual const char * what() const throw() { return "Convergence failure"; }
+ Your convergence_failure class should extend std::exception.
+ Note that it may seem a bit unusual to have a templated exception, but
+ there is nothing wrong with it, and everything works the way you would
+ expect (yay--composability!).
+ Whenever you "give up" and throw convergence_failure, you should pass
+ it the current value of x (then the code which catches it can examine
+ what value you reached before failing).
+
+As an example of how this works, suppose we did the following (as is in test3.cpp)
+  Polynomial<double> p1;
+  p1.addTerm(4, 4);
+  p1.addTerm(2, 3);
+  p1.addTerm(-7, 2);
+  p1.addTerm(-9, 0);
+  std::cout << "p1: " << p1 << "\n";
+  double z1 = p1.findZero(-1.5, 5, 0.0001);
+
+That is, we are looking for a zero of  "4*x^4 + 2*x^3 + -7*x^2 + -9*x^0"
+starting from -1.5, with a maximum of 5 steps, and a tolerance of 0.0001.
+This means that whenever p1.eval(x) <= 0.0001 we declare x as being "close
+enough" to the zero of p1.
+
+The computation might proceed as follows (i.e., this is my debug output):
+5 step remaining x= -1.5, f(x) = -11.25, f'(x) = -19.5
+4 step remaining x= -2.07692, f(x) = 17.3156, f'(x) = -88.386
+3 step remaining x= -1.88101, f(x) = 2.9975, f'(x) = -58.9235
+2 step remaining x= -1.83014, f(x) = 0.16876, f'(x) = -52.3603
+1 step remaining x= -1.82692, f(x) = 0.000647361, f'(x) = -51.9589
+0 step remaining x= -1.82691, f(x) = 9.64616e-09, f'(x) = -51.9573
+
+Note that since we found the answer with 0 steps remaining, we consider it to converge
+and return the answer.  If we had specified maxSteps=4, this would have thrown
+convergence_failure(-1.82692)
+
+Also observe how the value of x changes.  Our initial value is -1.5,
+where f(-1.5) is -11.25 and f'(-19.5) [i.e., the derivative of our polynomial
+at -1.5] is -19.5.
+
+We compute the next x as
+   x - f(x) / f'(x)
+  =
+   -1.5 - -11.25/-19.5
+  =
+   -1.5 - .57692
+  = -2.07692
+
+Then we repeat the process with x= -2.07692
+
+Hint:
+  - You already have derivative() and eval(NumT) from Step 2!  They do most of the work
+    here :)
+
+We have provided you with test3.cpp to help you test.  Unlike before,
+we have given youtwo output files.  The first of these
+  output_debug.txt
+
+has my debug output in findZero.  Before the start of my loop,
+and at the end of each iteration, I have the following print statement:
+
+    std::cout << stepsLeft << " step remaining x= " << x << ", f(x) = " << y
+              << ", f'(x) = " << deriv.eval(x) << "\n";
+
+where stepsLeft is how many steps are left (starst at maxSteps, and
+is decremented each loop iteration before the print statement),
+x is the current x value (updated each loop iteration as described above),
+y is the result of evaluating this polynomial at x, and deriv is the
+derivative of this polynomial (computed by
+Polynomial deriv = derivative(); at the start of this method).
+
+You are welcome to use this file (and print statement) to help you
+debug problems with your findZero method.
+
+The other file, output.txt  is the result of running the code
+without that debug output.  You should make sure you diff
+cleanly against output.txt before you submit (remove/comment
+out any debug output before you submit).
+
+When you are happy, git add, commit, push, and then grade.

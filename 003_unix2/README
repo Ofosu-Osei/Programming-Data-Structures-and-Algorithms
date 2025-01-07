@@ -1,0 +1,389 @@
+Now you are going to practice with a few other Unix commands.  If you can
+here directly from the unix1 assignment (without quitting emacs), you will
+see that the filename is README<003_unix2>.  That is because you have two files
+named README open (which is fine), and Emacs puts the directory name in <>
+to disambiguate them.
+
+Before we proceed, let's close README<002_unix1>.
+Hit C-x k.  Note the default is *this* buffer, which is not what you want to kill (close).
+Instead, you want to type R[TAB] which should tab complete up to README<00  then type 1
+and hit TAB again to TAB complete README<002_unix1>.  [Note: type a bit, TAB, type a bit
+TAB is something you really want to get proficient at!]  Then hit Enter.
+
+Notice that now the filename shown for this buffer is just README (its the only README
+open).
+
+Hopefully your window is still split to have the README at the top and *eshell* at the bottom.
+If not,
+   - If eshell is not running at all, run M-x eshell
+   - If you need to split your window, C-x 2
+   - If you need to change what buffer is displayed in a window C-x b
+
+Remember that "C-x o" lets you switch between windows (e.g., README -> *eshell*)
+If your eshell is still in the 002_unix1 directory, e.g., the prompt ends in 002_unix1 $
+then you should use "cd" to change directories:
+
+cd ../003_unix2
+
+[Note: you can/should TAB complete!]
+
+Remember that ../ is the parent directory (go up one level to where all your assignments
+are) then 003_unix2 is in that.
+
+Now we are going to run a few other commands that were not in your AoP reading, but
+will give you some practice running commands.
+
+First, we are going to practice using the "wget" command.  What is the wget command?
+Remember that the man pages (short for manual pages) will tell you all about commands
+and library functions.  Before we have you run "man wget", we want to remind you
+that you can use "C-x b" to change buffers back to the README (we recommend
+you get familiar with C-x b quickly).
+
+So now, go to your *eshell* window (with C-x o) and run
+
+man wget
+
+Note that Eshell handles this specially and will bring the man page up in its own window in Emacs.
+(Note that you can get a man page in Emacs directly with "M-x man" then typing the name of the man
+page---you don't have to go through eshell for it).
+After you do that use "C-x b" to switch back to the README.  At this point, you can use
+"C-x o" to go up into the window that shows the wget manpage, so you can scroll around,
+search, etc. Note that one of the nice things about viewing man pages in Emacs is that
+you can use Emacs commands for movement and searching.
+
+Let's start with what this does.  The top should say something like this:
+---------------------------------
+NAME
+       Wget - The non-interactive network downloader.
+
+SYNOPSIS
+       wget [option]... [URL]...
+
+DESCRIPTION
+       GNU Wget is a free utility for non-interactive download of files from
+       the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as
+---------------------------------
+
+In short, wget (which is short for World Wide Web Get) will download a file for you
+off the internet.  Feel free to take a moment to scroll up down and look around.
+Now, you want to run the wget command.   We need *eshell* back.  We'll note
+that if we wanted to have the README, *eshell*, and *Man wget* all visible
+at the same time, we could do so by splitting our window again.   We don't
+really need this at the moment, but its good practice.  If your cursor
+isn't already in the *Man wget* window, hit "C-x o" to get it there.
+Now hit "C-x 3" to split the window verticlly.   You should now have
+*Man wget* windows side by side (note that sometimes it is quite useful
+to have two windows on the same buffer---e.g., to look at two parts
+of your code at one time). In this case, however, we want to change
+one of these *Man wget* windows to display *eshell*.  Use "C-x o" to
+get to the on you want to switch to *eshell* (it will move circularly
+through all windows) then do "C-x b".  If the default is *eshell*,
+then just hit enter. Otherwsise *e[TAB] should tab complete what you need.
+
+Now you can run use wget to download this file
+wget https://adhilton.pratt.duke.edu/files/2024/example.txt
+
+Remember: you can use Emacs key commands to copy and paste!
+  - Go to the start of what you want to copy
+  - Hit C-[space] (control space)
+  - Hit C-e to go to the end of the line
+  - Hit M-w to copy
+  - Hit C-x o to go into the *eshell* buffer
+  - Hit C-y to paste
+
+wget should run and give you some output.  If you want to scroll
+back up to see what it printed, you will find that the up arrow
+goes back through your command history.  C-p (Control + p, p is
+for previous) will scroll up and C-n (Control + n, n is for next)
+will scroll down. 
+
+Looking at this output, we find that its a bit cramped with the
+side-by-side split with *Man wget*, and we are done with that
+anyways.  Use "C-x o" to go into the *Man wget* window,
+then "C-x 0" (note this is Control+x, then the number zero),
+which gets rid of the current window.   Note the *Man wget*
+buffer is still open, it just isn't visible (you could use
+C-x k to kill the buffer if you wanted to).
+
+Let's take a quick look at what we downloaded.  Go back
+to *eshell* with C-x o, and do
+
+cat example.txt
+
+It will print out a few lines of text, which are the contents
+of the file (not very excited, but just to practice with).
+
+Now that you have some practice with wget, let's move on to another command.
+
+The second command you will use "grep" (which stands for "global regular expression print").
+We aren't going to delve into the intracacies of regular expressions, but instead
+just search for a simple text pattern.  You are going to do this two different ways
+
+First, run
+
+/usr/bin/grep ndisce /usr/share/dict/words
+
+Remember, you can copy and paste by
+ - going to the start of that line
+ - C-space to set the mark
+ - C-e to go to the end of the line
+ - M-w to copy
+ - C-o to go into *eshell*
+ - C-y to paste
+
+What does this command do?  It runs the program /usr/bin/grep (note
+that is an absolute path--we'll see why in a second) with two arguments
+
+ndisce  : the pattern to search for
+/usr/share/dict/words : the file to look in (the system dictionary)
+
+Basically this is going to look through the dictionary for any line
+with the pattern "ndisce". It should print out one word.
+
+At the end of this assignment, you will write the line that
+was printed out into a file called "answer.txt".
+
+Now, we wouldn't usually run grep with an absolute path---its on
+the system PATH, so normally we can just run it by "grep" instead
+of the full path name. If you were to suspend emacs (C-z) and do
+
+grep ndisce /usr/share/dict/words
+
+you would get the same results (remember: you would resume Emacs with bg).
+
+However, if you run
+
+grep ndisce /usr/share/dict/words
+
+in *eshell* you get slightly different results (before
+you do it, remember C-x b changes buffers!)
+
+In *eshell* it will just say
+#<buffer *grep*>
+
+but you will now have a *grep* buffer with a bunch of stuff in it.
+Eshell has a built-in grep command that runs grep and displays
+the results in a special buffer (with their line number first).
+This behavior can be super helpful for large output sets
+(where grep matched many lines)---as you can use emacs
+commands to search them etc.
+
+
+Another command that we are going to practice with is "diff".
+This command shows the differences between two files,
+and may be quite helpful to you on assignments where
+we give you the expected output of running your program.
+In such cases, you can use diff to find any differences
+between your program's output and the file we gave you.
+
+Lets start with the regular unix command diff:
+
+Run this command in eshell (do you remember how
+to copy/paste?)
+
+/usr/bin/diff file1.txt file2.txt
+
+You'l get output that looks like this:
+
+2,4c2,3
+< I love apples.
+< Sometimes I eat bannanas too.
+< Pears are great.
+---
+> I love cake.
+> Sometimes I eat bananas too.
+5a5
+> Why did someone stick this line in here?
+
+
+What on earth does that mean?
+First lets take a look at the contents of these two files.
+Go to your *eshell* buffer (with C-x o) and split
+vertically (C-x 3).  In the current window, lets
+open file1.txt with C-x C-f  (note this is
+Control+x and the Control+f). Then you should
+be prompted something like this (the course
+number might be different depending on what
+class you are in):
+
+Find file: ~/gd510/dist/unix2/
+
+Type file1.txt so it should say e.g.,
+
+Find file: ~/gd510/dist/unix2/file1.txt
+
+and hit enter.
+
+Now you should see the contents of file1.txt
+Now hit C-x o to the other window with *eshell*,
+and open file2.txt (C-x C-f, then type file2.txt
+and hit enter).
+
+You can now see these files side by side.  The first
+line is the same (Hello world!).  The second line
+is different.  In file1.txt it says
+
+I love apples.
+
+in file2.txt it says
+
+I love cake.
+
+Now look at line 3. Are they the same?  It *looks* like it,
+but bannanas/bananas are spelled differently.
+
+file1.txt has a line (Pears are great) that file2.txt does not
+have. The next line is the same.  Then file2.txt has a line
+that file1.txt does not.    Now lets go back and look
+at that diff output.
+
+There are two different "hunks" of differences:
+
+[Chunk 1]
+
+2,4c2,3
+< I love apples.
+< Sometimes I eat bannanas too.
+< Pears are great.
+---
+> I love cake.
+> Sometimes I eat bananas too.
+
+[Chunk 2]
+
+5a5
+> Why did someone stick this line in here?
+
+In both of these chunks, < means "this was in the first
+file (file1.txt)" and > means "this was in the second
+file (file2.txt)".  Diff (by default) only reports
+the differences---not the same lines.
+
+The 2,4c2,3 is the "hunk header" in this case,
+it is saying that it shows lines 2 through 4
+of the first file, which changed (c), and lines
+2 thourgh 3 of the second file.  
+
+After that, we see the changes
+< I love apples.
+< Sometimes I eat bannanas too.
+< Pears are great.
+---
+> I love cake.
+> Sometimes I eat bananas too.
+
+The first three say "these are the lines that
+were in the first file here" (<) and the ---
+separates those from the second files (>).
+
+The second hunk has an "a" in the header (added),
+and shows just the one line that was added to the
+second file (not in the first).
+
+Note that sometimes subtle differences might be
+harder to spot---bannanas vs bananas might
+look the same as you look over the diff output.
+
+Let's instead use Eshell's integration to show the
+diff output in Emacs.  First if you still have
+three windows open, lets get rid of one.  Go
+to file2.txt and do C-x 0 (control+x then zero).
+Now go to file1.txt and do C-x b *eshell*.
+Hopefully you have just the README and *eshell* now.
+Before the next command, remember that if you need
+to get back to the README, you can use "C-x b" to change
+what buffer is in a window, and "C-x o" to change what
+window you are in.  Now run:
+
+diff file1.txt file2.txt
+
+Note that in *eshell* this will run Eshell's integration
+with diff (at a "regular" command prompt you would
+just get the plain diff, and don't need to specify the
+absolute path).
+
+Now you have some very different output---with a bunch
+of colors!  First, note that the first line
+tells us what command it ran.  You can see
+that Eshell added -u.  What does this mean?
+You could do M-x man diff and search (C-s)
+for -u.  But I'll just tell you: it gives
+up to 3 lines of context for the differences.
+That is, it gives up to 3 that are
+the same between the files before and after
+the changes to help you understand where they
+are.
+
+Next, the output list the files that got diffed
+and their timestamps.  The fourth line is
+the chunk header, which is formatted differently
+(because of -u). The - and + here indicate
+which files (- is the left, + is the right).
+The 1,7 says "lines 1 through 7"---so here,
+both files are showing lines 1 through 7.
+Next we have teh differences.
+The first line starts with a space (meaning no
+difference---it is part of the context). Notice
+that emacs colored it in "regular" font.
+
+After that, there are lines that start with a -
+there were in the first file but not the second
+(minus because they were removed if we are thinking
+about how we got from the first to the second).
+These lines have a red background.... but some
+parts are more of a light pink. If you look closely,
+the light pink parts are what changed between the lines.
+For example:
+
+I love apples.
+     to
+I love cake.
+
+Has "apples" in light pink because that's what
+in particular changed on that line.
+
+Later we see lines with a + (in the second
+file but not the first).  These have a green
+background. As with the "removed" lines,
+there is a lighter green for the specific changes
+(apples->cake).
+
+Notice that this coloring scheme not only makes it
+easier to see the difference in "bannanas" vs "bananas"
+but also shows us that one of those lines has an
+extra space at the end!
+
+Now that you have the hang of diff, lets use it to find
+the difference in a big file.  The file
+
+/usr/local/ece551/unix2/w.txt
+
+is almost but not quite like
+
+/usr/share/dict/words
+
+I have made one change in it.  Use diff
+to find the change with
+
+diff /usr/share/dict/words /usr/local/ece551/unix2/w.txt
+
+Once you have done that, open a file called "answer.txt"
+(C-x C-f answer.txt) and write two lines (each one
+word) in it.  The first line should be the word
+that
+
+grep ndisce /usr/share/dict/words
+
+showed you.  The second line should be the word
+from /usr/share/dict/words that has other stuff
+written on its line in /usr/local/ece551/unix2/w.txt
+
+Once you have written these two words into answer.txt,
+you should save it (C-x C-s). Once the file is saved,
+go to *eshell* and run
+
+git add example.txt answer.txt
+git commit -m "Did unix2 assignment"
+git push
+grade
+

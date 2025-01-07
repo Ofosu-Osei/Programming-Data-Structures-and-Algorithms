@@ -1,0 +1,7 @@
+The Dawn Clipper:Container,2:Luthadel:Midgar:1700
+The Dawn Dolphin:Animals,75:Luthadel:Midgar:110
+The Dawn Dreadnought:Tanker,-260,50,25,flammable:Luthadel:Midgar:700
+The Gleaming Dreadnought:Tanker,-260,50,10:Luthadel:Midgar:600
+The Gleaming Eagle:Animals,35:Luthadel:Midgar:140
+The Gleaming Narwhal:Tanker,1,90,50,flammable:Luthadel:Midgar:500
+The Gleaming Shark:Animals,65:Luthadel:Midgar:190
