@@ -1,0 +1,28 @@
+oIteration 0: Angle = 0.00 deg, Distance = 100.00 km, Flight time = 10.00 hours, Waiting time = 710.00 hours
+Iteration 1: Angle = 0.00 deg, Distance = 100.76 km, Flight time = 10.00 hours, Waiting time = 0.00 hours
+Iteration 2: Angle = 0.00 deg, Distance = 100.76 km, Flight time = 10.00 hours, Waiting time = 0.00 hours
+Iteration 3: Angle = 0.00 deg, Distance = 100.76 km, Flight time = 10.00 hours, Waiting time = 0.00 hours
+Iteration 4: Angle = 0.00 deg, Distance = 100.76 km, Flight time = 10.00 hours, Waiting time = 0.00 hours
+Planet A     to Planet B     at          0 requires  0.00 deg and takes      10.0 hours
+   Will arrive at time      10.00 but need to wait until     720.00
+Iteration 0: Angle = 180.00 deg, Distance = 200.00 km, Flight time = 20.00 hours, Waiting time = 340.00 hours
+Iteration 1: Angle = 180.00 deg, Distance = 196.96 km, Flight time = 20.00 hours, Waiting time = 0.00 hours
+Iteration 2: Angle = 180.00 deg, Distance = 196.96 km, Flight time = 20.00 hours, Waiting time = 0.00 hours
+Iteration 3: Angle = 180.00 deg, Distance = 196.96 km, Flight time = 20.00 hours, Waiting time = 0.00 hours
+Iteration 4: Angle = 180.00 deg, Distance = 196.96 km, Flight time = 20.00 hours, Waiting time = 0.00 hours
+Planet A     to Planet C     at          0 requires 180.00 deg and takes      20.0 hours
+   Will arrive at time      20.00 but need to wait until     360.00
+Iteration 0: Angle = 180.00 deg, Distance = 300.00 km, Flight time = 30.00 hours, Waiting time = 690.00 hours
+Iteration 1: Angle = 180.00 deg, Distance = 297.72 km, Flight time = 30.00 hours, Waiting time = 0.00 hours
+Iteration 2: Angle = 180.00 deg, Distance = 297.72 km, Flight time = 30.00 hours, Waiting time = 0.00 hours
+Iteration 3: Angle = 180.00 deg, Distance = 297.72 km, Flight time = 30.00 hours, Waiting time = 0.00 hours
+Iteration 4: Angle = 180.00 deg, Distance = 297.72 km, Flight time = 30.00 hours, Waiting time = 0.00 hours
+Planet A     to Planet D     at          0 requires 180.00 deg and takes      30.0 hours
+   Will arrive at time      30.00 but need to wait until     720.00
+Iteration 0: Angle = 180.00 deg, Distance = 300.00 km, Flight time = 150.00 hours, Waiting time = 570.00 hours
+Iteration 1: Angle = 180.00 deg, Distance = 245.67 km, Flight time = 150.00 hours, Waiting time = 0.00 hours
+Iteration 2: Angle = 180.00 deg, Distance = 245.67 km, Flight time = 150.00 hours, Waiting time = 0.00 hours
+Iteration 3: Angle = 180.00 deg, Distance = 245.67 km, Flight time = 150.00 hours, Waiting time = 0.00 hours
+Iteration 4: Angle = 180.00 deg, Distance = 245.67 km, Flight time = 150.00 hours, Waiting time = 0.00 hours
+Planet A     to Planet B     at        360 requires 180.00 deg and takes     150.0 hours
+   Will arrive at time     510.00 but need to wait until    1080.00

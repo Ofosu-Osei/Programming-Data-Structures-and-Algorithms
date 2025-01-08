@@ -1,0 +1,51 @@
+Before you start, copy (with cp) in (or symlink, with ln -s )
+the work you did in the previous assignment.
+
+For this step, you will add two operations to your Polynomial class:
+
+ o NumT eval(const NumT & x) const;
+   This evaluates the Polynomial at the given value of "x", and returns that answer.
+   If this Polynomial is 2*x^2 + 3*x^1 + 4*x^0, then eval(7) would return
+     2*7^2 - 3*7 + 4 = 2 * 49 -21 + 4 = 81.
+
+ o Polynomial derivative() const;
+    This takes the derivative of this Polynomial, resulting in another Polynomial,
+    which it returns.   Recall that the derivative of a*x^n is (a*n)*x^(n-1).
+    That is, the derivative of 3*x^2 is 6*x, and the derivative of 5*x^7 is 35*x^6.
+    For multiple terms, you sum their derivatives to get the derivative of the whole
+    Polynomial.  That is the derivative of
+      5*x^7 + 3*x^2
+    is
+     35*x^6 + 6*x
+
+    Note:  You might be tempted to do something like this:
+            ans.addTerm(i * coeffs[i], i - 1);
+    where i is a size_t. This is the right idea, and will work
+    great if NumT is int or double. However, if NumT is
+    a type where size_t * NumT is not defined, then it will
+    cause an error (and remember: with the way templates
+    work, this won't cause an error until you try to use it
+    with a type for NumT where that multiplication is not
+    defined).  However, as long as size_ts can be converted
+    to NumTs, being explicit solves the problem:
+           ans.addTerm(NumT(i) * coeffs[i], i - 1);
+                     ^^^^^^^^^ explicit conversion
+		     
+We will also overload the operator() to evaluate the Polynomial.  As you have
+already written eval, this operator should just call eval.
+
+  NumT operator()(const NumT & x) const { return eval(x); }
+
+Overloading operator() lets us treat our Polynomial like a function, and just
+do
+
+  myPoly(7);  //calls operator() with x=7, which does eval(7)
+
+Does this overloading make sense?  Yes!  The polynomial is a mathematical function,
+so being able to call it like one to evaluate it makes sense.
+
+We have provided test2.cpp which does some testing of this step.
+Please make good use of it, and diff your output against the provided
+output.txt.  As always, your own testing is encouraged.
+
+When you are done, git add, commit, push, and then grade.

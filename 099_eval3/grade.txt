@@ -1,18 +1,10 @@
-Grading at 12/10/2024:04:07:36.936982
+Grading at 12/14/2024:15:11:34.840079
 For commit ID 97a353d08b9a66948d60f8447a40e68435d2a482
-Grading at Mon Dec  9 11:07:04 PM EST 2024
-Doing make clean
-rm -rf *.o *~ ships-step1 ships-step2 ships-step3 ships-step4
-Running your test cases
--------------------------
- This test case will run 
- ships-step1 
- With arguments 
- inputs/ships0.txt 
--------------------------
+Grading at Sat Dec 14 10:10:44 AM EST 2024
 I need to compile your code for ships-step1 (make ships-step1)
 
 Compiling ships-step1
+rm -rf *.o *~ ships-step1 ships-step2 ships-step3 ships-step4
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 animalShip.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 cargo.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 containerShip.cpp
@@ -21,58 +13,200 @@ g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 ship.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 tankerShip.cpp
 g++ -o ships-step1 -Wall -Werror -ggdb3 -pedantic --std=gnu++03 step1.cpp animalShip.o cargo.o containerShip.o port.o ship.o tankerShip.o
 rm cargo.o port.o containerShip.o ship.o animalShip.o tankerShip.o
-Running our code...
-Running your code
-We agreed on this testcase and valgrind was clean
- *** This is one of the three test cases for step 1 early start EC **
--------------------------
+-> The code compiles for ships-step1 1/1 points
+--------------------------------
+ Test case 0
+--------------------------------
  This test case will run 
  ships-step1 
  With arguments 
- inputs/ships1.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships0.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 1: Provided ships0.txt file
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the three test cases for step 1 early start EC **
--------------------------
+** Points earned for testcase 0 is 4/4
+--------------------------------
+ Test case 1
+--------------------------------
  This test case will run 
  ships-step1 
  With arguments 
- inputs/ships2.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships1.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 1: provided ships1.txt file
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the three test cases for step 1 early start EC **
--------------------------
+** Points earned for testcase 1 is 4/4
+--------------------------------
+ Test case 2
+--------------------------------
  This test case will run 
  ships-step1 
  With arguments 
- inputs/ships3.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships2.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 1: provided ships2.txt file
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 2 is 4/4
+--------------------------------
+ Test case 3
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships3.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 1: a different valid file of ships that we didn't give you
+-------------------------------
 Running our code...
 Running your code
 We agreed this was an error, and you printed something to stderr
 And valgrind reported no errors
--------------------------
+** Points earned for testcase 3 is 4/4
+--------------------------------
+ Test case 4
+--------------------------------
  This test case will run 
  ships-step1 
  With arguments 
- inputs/ships4.txt 
--------------------------
+  
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid command line parameters: no parameters given
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 4 is 1/1
+--------------------------------
+ Test case 5
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/ships1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid command line parameters: too many parameters given
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 5 is 1/1
+--------------------------------
+ Test case 6
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/dup_ship.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: Duplicate ship name (error)
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 6 is 1/1
+--------------------------------
+ Test case 7
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/missing_file.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid file name: file does not exist
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 7 is 1/1
+--------------------------------
+ Test case 8
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship0.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid ship: too few fields
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 8 is 1/1
+--------------------------------
+ Test case 9
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid ship: too many fields
+-------------------------------
+Running our code...
+Running your code
+We said this was an error.  Our error message was
+Ship input line has 6 parts, expected 5
+However, you exited with EXIT_SUCCESS
+** Points earned for testcase 9 is 0/1
+--------------------------------
+ Test case 10
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship3.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: invalid ship: total capacity is not a number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 10 is 1/1
+--------------------------------
+ Test case 11
+--------------------------------
+ This test case will run 
+ ships-step1 
+ With arguments 
+ /usr/local/ece551/eval3-data/large.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 1: ships capacity is valid, but too big for a 32-bit integer
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
--------------------------
- This test case will run 
- ships-step2 
- With arguments 
- inputs/ships0.txt inputs/cargo0.txt 
--------------------------
+** Points earned for testcase 11 is 1/1
 I need to compile your code for ships-step2 (make ships-step2)
 
 Compiling ships-step2
+rm -rf *.o *~ ships-step1 ships-step2 ships-step3 ships-step4
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 animalShip.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 cargo.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 containerShip.cpp
@@ -81,19 +215,121 @@ g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 ship.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 tankerShip.cpp
 g++ -o ships-step2 -Wall -Werror -ggdb3 -pedantic --std=gnu++03 step2.cpp animalShip.o cargo.o containerShip.o port.o ship.o tankerShip.o
 rm cargo.o port.o containerShip.o ship.o animalShip.o tankerShip.o
+-> The code compiles for ships-step2 1/1 points
+--------------------------------
+ Test case 12
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/cargo0.txt 
+ and counts for 5 points
+ Our description of this test case is:
+ Step 2: provided ships0.txt and cargo0.txt
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is the test case for step 2 early start EC **
--------------------------
+** Points earned for testcase 12 is 5/5
+--------------------------------
+ Test case 13
+--------------------------------
  This test case will run 
- ships-step3 
+ ships-step2 
  With arguments 
- inputs/ships0.txt inputs/cargo1.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships0a.txt /usr/local/ece551/eval3-data/cargo0a.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 2: a different valid ships/cargo files
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 13 is 4/4
+--------------------------------
+ Test case 14
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/err_cargo0.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 2: invalid cargo: too few fields
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 14 is 1/1
+--------------------------------
+ Test case 15
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/err_cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 2 invalid cargo: capacity is not a number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 15 is 1/1
+--------------------------------
+ Test case 16
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship2.txt /usr/local/ece551/eval3-data/cargo0.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 2: invalid ship container slots is not a number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 16 is 1/1
+--------------------------------
+ Test case 17
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 2: invalid command line parameters: too few given
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 17 is 1/1
+--------------------------------
+ Test case 18
+--------------------------------
+ This test case will run 
+ ships-step2 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/cargo0.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 2: invalid command line parameters: too many given
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 18 is 1/1
 I need to compile your code for ships-step3 (make ships-step3)
 
 Compiling ships-step3
+rm -rf *.o *~ ships-step1 ships-step2 ships-step3 ships-step4
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 animalShip.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 cargo.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 containerShip.cpp
@@ -102,49 +338,154 @@ g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 ship.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 tankerShip.cpp
 g++ -o ships-step3 -Wall -Werror -ggdb3 -pedantic --std=gnu++03 step3.cpp animalShip.o cargo.o containerShip.o port.o ship.o tankerShip.o
 rm cargo.o port.o containerShip.o ship.o animalShip.o tankerShip.o
-Running our code...
-Running your code
-We agreed on this testcase and valgrind was clean
- *** This is one of the four test cases for step 3 early start EC **
--------------------------
+-> The code compiles for ships-step3 1/1 points
+--------------------------------
+ Test case 19
+--------------------------------
  This test case will run 
  ships-step3 
  With arguments 
- inputs/ships1.txt inputs/cargo0.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships1.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 4 points
+ Our description of this test case is:
+ Step 3: provided ships1.txt/cargo1.txt
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four test cases for step 3 early start EC **
--------------------------
+** Points earned for testcase 19 is 4/4
+--------------------------------
+ Test case 20
+--------------------------------
  This test case will run 
  ships-step3 
  With arguments 
- inputs/ships1.txt inputs/cargo1.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships2.txt /usr/local/ece551/eval3-data/cargo2.txt 
+ and counts for 3 points
+ Our description of this test case is:
+ Step 3: provided ships2.txt/cargo2.txt
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 3 early start EC **
--------------------------
+** Points earned for testcase 20 is 3/3
+--------------------------------
+ Test case 21
+--------------------------------
  This test case will run 
  ships-step3 
  With arguments 
- inputs/ships2.txt inputs/cargo2.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships1.txt /usr/local/ece551/eval3-data/cargo1a.txt 
+ and counts for 3 points
+ Our description of this test case is:
+ Step 3: provided ships1.txt with different cargo
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 3 early start EC **
--------------------------
+** Points earned for testcase 21 is 3/3
+--------------------------------
+ Test case 22
+--------------------------------
  This test case will run 
- ships-step4 
+ ships-step3 
  With arguments 
- inputs/ships0.txt inputs/cargo1.txt 
--------------------------
+ /usr/local/ece551/eval3-data/warp_ships.txt /usr/local/ece551/eval3-data/warp_cargo.txt 
+ and counts for 2 points
+ Our description of this test case is:
+ Step 3: cargo is "warp plasma" with a minimum temperature of 900000
+-------------------------------
+Running our code...
+Running your code
+We agreed on this testcase and valgrind was clean
+** Points earned for testcase 22 is 2/2
+--------------------------------
+ Test case 23
+--------------------------------
+ This test case will run 
+ ships-step3 
+ With arguments 
+ /usr/local/ece551/eval3-data/ships1.txt /usr/local/ece551/eval3-data/err_cargo2.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: invalid cargo: maxtemp is not a number
+-------------------------------
+Running our code...
+Running your code
+We said this was an error.  Our error message was
+Could not convert foo to a number
+However, you exited with EXIT_SUCCESS
+** Points earned for testcase 23 is 0/1
+--------------------------------
+ Test case 24
+--------------------------------
+ This test case will run 
+ ships-step3 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship4.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: invalid ship: tanker min temperature is not a number
+-------------------------------
+Running our code...
+Running your code
+We said this was an error.  Our error message was
+Could not convert x to a number
+However, you exited with EXIT_SUCCESS
+** Points earned for testcase 24 is 0/1
+--------------------------------
+ Test case 25
+--------------------------------
+ This test case will run 
+ ships-step3 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship5.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: invalid ship: tanker max temperature is not a number
+-------------------------------
+Running our code...
+Running your code
+We said this was an error.  Our error message was
+Could not convert x to a number
+However, you exited with EXIT_SUCCESS
+** Points earned for testcase 25 is 0/1
+--------------------------------
+ Test case 26
+--------------------------------
+ This test case will run 
+ ships-step3 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship6.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: invalid ship: tanker number of tanks is not a number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 26 is 1/1
+--------------------------------
+ Test case 27
+--------------------------------
+ This test case will run 
+ ships-step3 
+ With arguments 
+ /usr/local/ece551/eval3-data/err_ship8.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 1 points
+ Our description of this test case is:
+ Step 3: invalid ship: animal "small enough" threshold is not a number
+-------------------------------
+Running our code...
+Running your code
+We agreed this was an error, and you printed something to stderr
+And valgrind reported no errors
+** Points earned for testcase 27 is 1/1
 I need to compile your code for ships-step4 (make ships-step4)
 
 Compiling ships-step4
+rm -rf *.o *~ ships-step1 ships-step2 ships-step3 ships-step4
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 animalShip.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 cargo.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 containerShip.cpp
@@ -153,49 +494,90 @@ g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 ship.cpp
 g++ -c -Wall -Werror -ggdb3 -pedantic --std=gnu++03 tankerShip.cpp
 g++ -o ships-step4 -Wall -Werror -ggdb3 -pedantic --std=gnu++03 step4.cpp animalShip.o cargo.o containerShip.o port.o ship.o tankerShip.o
 rm cargo.o port.o containerShip.o ship.o animalShip.o tankerShip.o
-Running our code...
-Running your code
-We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 4 early start EC **
--------------------------
+-> The code compiles for ships-step4 1/1 points
+--------------------------------
+ Test case 28
+--------------------------------
  This test case will run 
  ships-step4 
  With arguments 
- inputs/ships1.txt inputs/cargo0.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships0.txt /usr/local/ece551/eval3-data/cargo0.txt 
+ and counts for 2 points
+ Our description of this test case is:
+ Step 4: provided ships0/cargo0 files
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 4 early start EC **
--------------------------
+** Points earned for testcase 28 is 2/2
+--------------------------------
+ Test case 29
+--------------------------------
  This test case will run 
  ships-step4 
  With arguments 
- inputs/ships1.txt inputs/cargo1.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships1.txt /usr/local/ece551/eval3-data/cargo1.txt 
+ and counts for 2 points
+ Our description of this test case is:
+ Step 4: provided ships1/cargo1 files
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 4 early start EC **
--------------------------
+** Points earned for testcase 29 is 2/2
+--------------------------------
+ Test case 30
+--------------------------------
  This test case will run 
  ships-step4 
  With arguments 
- inputs/ships2.txt inputs/cargo2.txt 
--------------------------
+ /usr/local/ece551/eval3-data/ships2.txt /usr/local/ece551/eval3-data/cargo2.txt 
+ and counts for 5 points
+ Our description of this test case is:
+ Step 4: provided ships2/cargo2 files
+-------------------------------
 Running our code...
 Running your code
 We agreed on this testcase and valgrind was clean
- *** This is one of the four cases for step 4 early start EC **
-You have already pass the basic tests for step1:
-**step1 basic tests passed for oo46 at 1731885482** : 73cad5df013adb7838621383fbf3a1d914b82f7c  -
-You have already pass the basic tests for step2:
-**step2 basic tests passed for oo46 at 1732575447** : ccb1b103d850c63cb5578f3fe490bfe0f048ec23  -
-You have already pass the basic tests for step3:
-**step3 basic tests passed for oo46 at 1733193569** : 3a5807730aeba0e258184c80d2881318f7ad463e  -
-You have already pass the basic tests for step4:
-**step4 basic tests passed for oo46 at 1733692589** : 35c819538f23a0c9a10ab9fe6c8000255d755c52  -
-You have PASSED all of your test cases
-Keep adding test cases until you are satisfied your program is correct
+** Points earned for testcase 30 is 5/5
 
-Overall Grade: NO GRADE YET
+========================================
+For implementation, you earned 64 /  68
+--------------------------------
+Code quality was graded by: Xianjing Huang
+Your TA graded this based on use of C++03
+Please ask them if you have any questions:
+------------------------------------------
+ * Classes are nouns: Always (>90%)
+ * Methods are verbs: Always (>90%)
+ * Good Use of Has-A: Always (>90%)
+ * Good Use of IS-A: Always (>90%)
+ * Uses references (avoids needless copies): Always (>90%)
+ * Follows Rule of 3: Always (>90%)
+ * Good use of public/private: Always (>90%)
+ * const correct: Always (>90%)
+ * Good use of STL (vector, set, map): Always (>90%)
+ * Avoids Duplicating Code Between Container and Tanker: Yes
+ * Uses subtype polymorphism + dynamic dispatch (as opposed to if-else on type of ship): Yes
+ * Step 4: Find fitting ship efficiently: O(lg(N)+K)
+ * Find method is generic: Yes
+Your TA wrote the following comments:
+Eexcellent! Your use of object-oriented concepts and careful memory handling demonstrates a solid understanding of C++ programming. Your functions are clearly named, making the code easier to follow. Your comments are sufficient and clearly explain your logic. Keep up the excellent work!
+
+For quality, you earned 32 / 32 points
+==================================================
+ - For Step 1, the extra credit was due on Mon Nov 18 11:59:59 PM EST 2024
+   You completed it on Sun Nov 17 06:18:02 PM EST 2024
+ You get +2.5 points for completing this extra credit
+ - For Step 2, the extra credit was due on Mon Nov 25 11:59:59 PM EST 2024
+   You completed it on Mon Nov 25 05:57:27 PM EST 2024
+ You get +2.5 points for completing this extra credit
+ - For Step 3, the extra credit was due on Mon Dec  2 11:59:59 PM EST 2024
+   You completed it on Mon Dec  2 09:39:29 PM EST 2024
+ You get +2.5 points for completing this extra credit
+ - For Step 4, the extra credit was due on Thu Dec  5 11:59:59 PM EST 2024
+   You completed it on Sun Dec  8 04:16:29 PM EST 2024
+ This was not done in time to get extra credit
+
+
+Overall Grade: 103.5

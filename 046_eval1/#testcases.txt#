@@ -1,0 +1,8 @@
+launches-step1 sol.txt
+launches-step1 missingfile
+launches-step1 toomanyinputs.txt
+launches-step1 toofewinputs.txt
+launches-step1 incorrectfieldformat.txt
+launches-step1 planetnameoverflow.txt
+launches-step1 extrawhitespace.txt
+launches-step1 specialcharname.txt
